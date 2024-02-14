@@ -23,4 +23,15 @@
 **Observation:** A quantity or quality or a set of these from a single member of a population
 **Sampling Distribution:** A distribution of point estimates, where each point estimate was calculated from a different random sample from the same population
 
+##### Concepts
+* Sampling distributions are usually centred around the true population mean but is not always the same value as the true population mean
+* Taking a random sample and calculating a point estimate is a "good guess" of the unknown population parameter
 
+## Worksheet
+##### Questions
+What are two parameters typically used to describe the centre of a distribution?
+* Median and Mean
+Process of estimating a population parameter when we don't have access to the population
+* Take a random sample from the population
+* Calculate the point estimates for the samples
+* Describe the uncertainty related to your estimate
