@@ -78,3 +78,5 @@ visualize(bootstrap_distribution) +
 
 #### Interpreting Confidence Intervals
 In order to interpret a confidence interval's effectiveness, we need to know what the value of the population parameter is.
+
+
