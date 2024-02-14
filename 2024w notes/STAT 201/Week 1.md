@@ -28,7 +28,7 @@ ggplot(virtual_prop_red, aes(x = prop_red)) +
 * **Statistical Inference**: The act of making a guess about a population using a sample
 * **Variance**: The average squared distance from the mean
 * **Standard Deviation**: Square root of the variance (Spread)
-* **Standard Error**: The standard deviation of the means
+* **Standard Error**: The standard deviation of a sampling distribution
 
 ###### Sampling Terms
 * **Representative**:  If the sample’s characteristics are a “good” representation of the population’s characteristics

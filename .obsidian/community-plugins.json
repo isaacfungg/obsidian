@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "table-editor-obsidian",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]
