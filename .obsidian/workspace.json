@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "2024w notes/STAT 201/Week 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "2024w notes/STAT 201/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "2024w notes/STAT 201/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "2024w notes/STAT 201/Week 4.md"
               }
             }
           }
@@ -146,6 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c49762b1b19cce4",
-  "lastOpenFiles": []
+  "active": "223da003e8feb6d4",
+  "lastOpenFiles": [
+    "2024w notes/STAT 201/Week 3.md",
+    "2024w notes/STAT 201/Week 4.md",
+    "2024w notes/STAT 201/Week 1.md",
+    "test.md",
+    "2024w notes/STAT 201",
+    "2024w notes/CPSC 221",
+    "2024w notes/CPSC 213",
+    "2024w notes"
+  ]
 }
