@@ -17,5 +17,16 @@ An estimator is a random variable whose distribution is the sampling distributio
 Why don't we always take a large number of samples when exploring sampling distributions so we can get a nice, smooth distribution like the own shown above?
 * Taking a large number of samples is computationally expensive
 * We can get a good approximation of the "smoother" sampling distribution by using less sample repetitions, but larger bin widths in our histogram
-TUTORIAL 1.0
+
+Which two distributions are most similar (population distribution, sample distribution, sampling distribution)?
+* Population distribution and sample distribution
+
+
+**Sampling Distribution:** The frequencies of all possible statistics from all possible samples of a given size
+
+Sampling distribution properties
+* Bell-shaped/normal
+* Becomes narrower and more bell-shaped as sample size increases
+* Centred at true population parameter
+
 
