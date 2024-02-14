@@ -35,3 +35,5 @@ Process of estimating a population parameter when we don't have access to the po
 * Take a random sample from the population
 * Calculate the point estimates for the samples
 * Describe the uncertainty related to your estimate
+
+**Sampling Distribution:** A representation of the spread of average values of samples that come rom the same population. It allows us to see how accurate and reliable the sample tests is by comparing the spread of the sample mean compared to the population parameter
