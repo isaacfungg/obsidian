@@ -62,3 +62,20 @@ public:
 ```
 
 
+#### Questions
+**Full Trees**
+Given a full binary tree with n node, it has a height of at least x nodes:
+$$ x = log(n+1) - 1 $$
+A full tree of height n has at least x nodes:
+$$ x = 2*n + 1$$
+
+**Complete Trees**
+A complete binary tree of height n, has at least x nodes:
+$$ x = 2^n $$
+A complete binary tree with n nodes has 
+**Perfect Tree**
+A perfect binary tree of height n has x nodes:
+$$ x = 2^n - 1$$A perfect binary tree with height n, has x leaves:
+$$ x = 2^n $$
+gf
+$$ 2^{n + 1} - 1$$
