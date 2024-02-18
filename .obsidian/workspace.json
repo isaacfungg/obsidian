@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 5.md",
+                "file": "coding/SQL/Background Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 5.md",
+                "file": "coding/SQL/Background Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 5.md",
+                "file": "coding/SQL/Background Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 5.md"
+                "file": "coding/SQL/Background Info.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "9a7801b2dd641c10",
   "lastOpenFiles": [
+    "2024w notes/CPSC 213/1e.md",
+    "coding/SQL/Background Info.md",
+    "coding/SQL",
+    "Untitled",
+    "coding",
+    "2024w notes/CPSC 221/Week 5.md",
     "2024w notes/STAT 201/Week 3.md",
     "2024w notes/STAT 201/Week 3 - HW.md",
     "2024w notes/STAT 201/Week 2 - HW.md",
@@ -168,8 +174,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "2024-02-13.md",
-    "2024w notes/CPSC 213/Week 1.md",
-    "2024w notes/CPSC 221/Week 5.md",
     "test.md",
     "2024w notes/STAT 201",
     "2024w notes/CPSC 221",
