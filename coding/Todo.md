@@ -23,6 +23,7 @@ Day 2 - Monday
 * CPSC 221 Review
 * Stay Fresh App
 * Shopify API
+* Open Source
 
 Day 3 - Tuesday
 * FRST 304 Lecture 10
