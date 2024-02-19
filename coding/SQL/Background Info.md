@@ -24,6 +24,8 @@
 	* Graphs
 	* Flexible Tables
 
-
+#### Commands (Terminal)
+**Log in:** mysql -u root -p
+**Creating a database:** create database name;
 #### Terms
 **Queries:** A query is a set of instructions given to the RDBMS that tells the RDBMS what information you want it to retrieve 
