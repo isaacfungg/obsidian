@@ -52,3 +52,38 @@ UPDATE student SET lastname = 'x' WHERE student_id = 4;
 ```plsql
 DELETE FROM student WHERE lastname IS NULL;
 ```
+
+**Select:**
+```plsql
+SELECT DISTINCT genre FROM movies LIMIT 10;
+SELECT genre AS 'Genre' FROM movies;
+SELECT * FROM movies WHERE name LIKE 'Se_en';   
+SELECT * FROM movies WHERE IS NOT NULL;
+SELECT * FROM movies WHERE year BETWEEN 1970 AND 1979;
+SELECT * FROM movies WHERE year > 2014 OR genre = 'action' ORDER BY year;
+
+SELECT name,
+	CASE
+		WHEN imdb_rating > 8 THEN 'Fantastic'
+		WHEN imdb_rating > 6 THEN 'Poorly Received'
+		ELSE 'Avoid at All Costs'
+	END AS 'Rating'
+FROM movies;
+```
+* _ is a wild card for one spot
+* % is a wild card that matches zero or ore missing characters
+* Distinct
+	* Returns with no duplicates
+* AS 
+	* Changes the name
+* LIKE
+	* Gets values similar to param
+* IS NOT/ IS
+	* Filtering specific values
+* BETWEEN
+	* Lets you get values between a range (int or string both work)
+* ORDER BY 
+	* Sorts by descending order
+* LIMIT
+	* Limits the number of values returned
+
