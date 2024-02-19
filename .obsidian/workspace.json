@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/CPSC 221/Week 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/CPSC 221/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/CPSC 221/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Todo.md"
+                "file": "2024w notes/CPSC 221/Week 5.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "9a7801b2dd641c10",
   "lastOpenFiles": [
-    "coding/SQL/Node SQLite.md",
     "coding/Todo.md",
+    "coding/SQL/Node SQLite.md",
     "coding/SQL/SQL.md",
     "coding/Shopify/Shopify Notes.md",
     "coding/Shopify",

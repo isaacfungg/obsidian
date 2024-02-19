@@ -77,5 +77,3 @@ A complete binary tree with n nodes has
 A perfect binary tree of height n has x nodes:
 $$ x = 2^n - 1$$A perfect binary tree with height n, has x leaves:
 $$ x = 2^n $$
-gf
-$$ 2^{n + 1} - 1$$
