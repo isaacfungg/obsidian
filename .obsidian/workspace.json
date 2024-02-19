@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/SQL/SQL.md",
+                "file": "coding/SQL/Node SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/SQL/SQL.md",
+                "file": "coding/SQL/Node SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/SQL/SQL.md",
+                "file": "coding/SQL/Node SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/SQL/SQL.md"
+                "file": "coding/SQL/Node SQLite.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "9a7801b2dd641c10",
   "lastOpenFiles": [
-    "coding/SQL/Background Info.md",
     "coding/SQL/SQL.md",
+    "coding/SQL/Node SQLite.md",
+    "coding/Shopify/Shopify Notes.md",
+    "coding/Shopify",
+    "coding/SQL/Background Info.md",
     "2024w notes/CPSC 213/1e.md",
     "coding/SQL",
     "Untitled",
