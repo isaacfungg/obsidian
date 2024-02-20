@@ -65,6 +65,6 @@ Stay Fresh Timeline
 	* Portrait mode only or figure something for horizontal
 	* See how to launch the app
 **April-May**
-* Testing the app
+* Testing the app/
 * Final Touches for the entire app
 * Launch the app
