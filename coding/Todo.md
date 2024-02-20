@@ -28,13 +28,12 @@ Day 2 - Monday
 Day 3 - Tuesday
 * FRST 304 Lecture 10
 * CPSC 213 Review
-* Website 
-* Stay Fresh App or Express/Node Course
+* Stay Fresh App 
 
 Day 4 - Wednesday
 * FRST 304 Lecture 11
 * CPSC 221 Review
-* Project
+* Website
 
 Day 5 - Thursday
 * CPSC 213 Review
