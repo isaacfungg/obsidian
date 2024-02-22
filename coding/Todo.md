@@ -13,27 +13,6 @@
 * Django
 
 
-Day 1
-* SQL 
-* Node - SQLite
-* UFOR 110
-
-Day 2 - Monday
-* FRST 304 Lecture 9
-* CPSC 221 Review
-* Stay Fresh App
-* Shopify API
-* Open Source
-
-Day 3 - Tuesday
-* FRST 304 Lecture 10
-* CPSC 213 Review
-* Stay Fresh App 
-
-Day 4 - Wednesday
-* FRST 304 Lecture 11
-* CPSC 221 Review
-* Website
 
 Day 5 - Thursday
 * CPSC 213 Review
