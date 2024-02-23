@@ -14,10 +14,6 @@
 
 
 
-Day 5 - Thursday
-* CPSC 213 Review
-* Stay Fresh App
-* Express/Node Course
 
 Day 6 - Friday
 * CPSC 221 Review
