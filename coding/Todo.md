@@ -17,7 +17,6 @@
 
 Day 6 - Friday
 * CPSC 221 Review
-* Networking
 
 Day 7 - Saturday
 * CPSC 213 Review
