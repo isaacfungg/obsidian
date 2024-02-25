@@ -22,3 +22,6 @@
 **>**: Output redirection
 * printf "hello world" > file.txt
 * The output would then go to file.txt
+**|**: Takes output of one command and uses it for another
+* ls | sort
+**nano**: Used to edit a file 
