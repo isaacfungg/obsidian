@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Linux/Terminal Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Linux/Terminal Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Linux/Terminal Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Todo.md"
+                "file": "coding/Linux/Terminal Commands.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
-    "coding/Shopify/Shopify Notes.md",
+    "coding/Linux/Notes.md",
+    "coding/Linux/Terminal Commands.md",
     "coding/Todo.md",
+    "coding/Linux",
+    "coding/Shopify/Shopify Notes.md",
     "coding/React Native/FlatList.md",
     "coding/React Native",
     "coding/SQL/Untitled.md",
