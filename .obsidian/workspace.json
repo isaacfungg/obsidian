@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/LeetCode/Untitled.md",
+                "file": "coding/LeetCode/Arrays & Hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/LeetCode/Untitled.md",
+                "file": "coding/LeetCode/Arrays & Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/LeetCode/Untitled.md",
+                "file": "coding/LeetCode/Arrays & Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/LeetCode/Untitled.md"
+                "file": "coding/LeetCode/Arrays & Hashing.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
+    "coding/LeetCode/Syntax.md",
+    "coding/LeetCode/Arrays & Hashing.md",
     "coding/Linux/Terminal Commands.md",
-    "coding/LeetCode/Untitled.md",
     "coding/LeetCode/Java.md",
     "coding/LeetCode",
     "coding/Linux/Notes.md",
