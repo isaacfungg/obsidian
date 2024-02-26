@@ -31,3 +31,6 @@
 * Provides traffic control point security, filtering, redirecting
 * Have IP addresses in the Networks they are attached to 
 * Create a Hierarchy in Networks and the entire internet
+
+**Routing**: The process of moving data between networks
+**Switching**: The process of moving data within networks

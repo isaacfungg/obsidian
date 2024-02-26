@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Network Devices/Networking Fundamentals.md",
+                "file": "coding/Network Devices/Lesson 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Network Devices/Networking Fundamentals.md",
+                "file": "coding/Network Devices/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Network Devices/Networking Fundamentals.md",
+                "file": "coding/Network Devices/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Network Devices/Networking Fundamentals.md"
+                "file": "coding/Network Devices/Lesson 2.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
+    "coding/Network Devices/Lesson 3.md",
+    "coding/Network Devices/Lesson 2.md",
+    "coding/Network Devices/Lesson 1.md",
     "coding/LeetCode/Arrays & Hashing.md",
-    "coding/Network Devices/Networking Fundamentals.md",
     "coding/Network Devices",
     "coding/LeetCode/Syntax.md",
     "coding/Linux/Terminal Commands.md",
@@ -191,7 +193,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "2024-02-13.md",
-    "test.md",
     "2024w notes/STAT 201",
     "2024w notes/CPSC 221"
   ]
