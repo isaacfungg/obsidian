@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Linux/Terminal Commands.md",
+                "file": "coding/LeetCode/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Linux/Terminal Commands.md",
+                "file": "coding/LeetCode/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Linux/Terminal Commands.md",
+                "file": "coding/LeetCode/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Linux/Terminal Commands.md"
+                "file": "coding/LeetCode/Untitled.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
-    "coding/Linux/Notes.md",
     "coding/Linux/Terminal Commands.md",
+    "coding/LeetCode/Untitled.md",
+    "coding/LeetCode/Java.md",
+    "coding/LeetCode",
+    "coding/Linux/Notes.md",
     "coding/Todo.md",
     "coding/Linux",
     "coding/Shopify/Shopify Notes.md",
@@ -188,7 +191,6 @@
     "test.md",
     "2024w notes/STAT 201",
     "2024w notes/CPSC 221",
-    "2024w notes/CPSC 213",
-    "2024w notes"
+    "2024w notes/CPSC 213"
   ]
 }
