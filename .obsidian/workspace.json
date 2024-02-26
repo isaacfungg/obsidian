@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/LeetCode/Arrays & Hashing.md",
+                "file": "coding/Network Devices/Networking Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/LeetCode/Arrays & Hashing.md",
+                "file": "coding/Network Devices/Networking Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/LeetCode/Arrays & Hashing.md",
+                "file": "coding/Network Devices/Networking Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/LeetCode/Arrays & Hashing.md"
+                "file": "coding/Network Devices/Networking Fundamentals.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
-    "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Arrays & Hashing.md",
+    "coding/Network Devices/Networking Fundamentals.md",
+    "coding/Network Devices",
+    "coding/LeetCode/Syntax.md",
     "coding/Linux/Terminal Commands.md",
     "coding/LeetCode/Java.md",
     "coding/LeetCode",
@@ -191,7 +193,6 @@
     "2024-02-13.md",
     "test.md",
     "2024w notes/STAT 201",
-    "2024w notes/CPSC 221",
-    "2024w notes/CPSC 213"
+    "2024w notes/CPSC 221"
   ]
 }
