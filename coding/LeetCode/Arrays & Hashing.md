@@ -93,15 +93,56 @@ public List<List<String>> groupAnagrams(String[] strs) {
 public int[] topKFrequent(int[] nums, int k) {
 	HashMap<Integer, Integer> map = new HashMap<>();
 
-	for (int i = 0; i < nums.length; i++) {
-		map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+	for (int i : nums) {
+		map.put(i, map.getOrDefault(i, 0) + 1);
 	}
 
-	ArrayList<Integer> list = new ArrayList<>(map.values());
-	Collections.sort(list, Collections.reverseOrder());
-	ArrayList<Integer> list2 = new ArrayList<>(list.subList(0, k));
+	List<Integer> list = new ArrayList<>(map.keySet());
+	list.sort((a, b) -> map.get(b) - map.get(a));
 
+	int[] ans = new int[k];
+	for (int i = 0; i < k; i++) {
+		ans[i] = list.get(i);
+	}
 	
-	
+}
+```
+
+#### Product of Array Except Self
+* Given an integer array nums, return an array answer such that answer[i] is equal to the product of all elements of nums except nums[i]
+
+
+#### Longest Consecutive Sequence
+* Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+**Takeaway**: When you need to loop over an array or set check to see if you can remove elements along the process for a faster run time
+
+```Java
+public int longestConsecutive(int[] nums) {
+	Set<Integer> set = new HashSet<>();
+
+	for (int num: nums) {
+		set.add(num);
+	}
+
+	int count = 0;
+	int max = 0;
+	for (int num: nums) {
+
+		//If statement saves time by not needing to check
+		//values if they have a number before 
+		if (!set.contains(num - 1)) {
+			count++;
+			set.remove(num);
+			while (set.contains(num + 1)) {
+				set.remove(num + 1);
+				count++;
+				num++;
+			}
+		}
+		max = Math.max(count, max);
+		count = 0;
+	}
+
+	return max;
 }
 ```

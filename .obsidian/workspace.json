@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Network Devices/Lesson 3.md",
+                "file": "coding/LeetCode/Two Pointers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Network Devices/Lesson 3.md",
+                "file": "coding/LeetCode/Two Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Network Devices/Lesson 3.md",
+                "file": "coding/LeetCode/Two Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Network Devices/Lesson 3.md"
+                "file": "coding/LeetCode/Two Pointers.md"
               }
             }
           },
@@ -158,12 +158,14 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
-    "coding/Network Devices/Lesson 2.md",
-    "coding/Network Devices/Lesson 3.md",
-    "coding/Network Devices/Lesson 1.md",
-    "coding/LeetCode/Arrays & Hashing.md",
-    "coding/Network Devices",
+    "coding/LeetCode/Takeaways.md",
+    "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Syntax.md",
+    "coding/LeetCode/Arrays & Hashing.md",
+    "coding/Network Devices/Lesson 3.md",
+    "coding/Network Devices/Lesson 2.md",
+    "coding/Network Devices/Lesson 1.md",
+    "coding/Network Devices",
     "coding/Linux/Terminal Commands.md",
     "coding/LeetCode/Java.md",
     "coding/LeetCode",
@@ -190,9 +192,7 @@
     "2024w notes/STAT 201/Week 1.md",
     "2024w notes/STAT 201/Week 4.md",
     "2024w notes/STAT 201/Week 4 - HW.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "2024-02-13.md",
     "2024w notes/STAT 201",
     "2024w notes/CPSC 221"
   ]

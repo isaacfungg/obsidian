@@ -1,4 +1,7 @@
 ***
+#### Lambda Expressions
+**(a, b) -> b - a**
+* Sorts in descending order
 #### Strings
 **.toCharArray()**
 * Turns a string into a char array
@@ -17,6 +20,8 @@
 #### HashMap
 **.entrySet()**
 * Returns a set view of mappings (Both key and value)
+**.keySet()**
+* Returns a set view of the keys contained in the map
 **.values()**
 * Returns a collection view of the values contained in the map
 **getKey() and getValue()**
