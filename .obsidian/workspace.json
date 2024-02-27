@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "coding/LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "coding/LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "coding/LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md"
+                "file": "coding/LeetCode/Syntax.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
-    "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Two Pointers.md",
+    "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Arrays & Hashing.md",
     "coding/Network Devices/Lesson 3.md",

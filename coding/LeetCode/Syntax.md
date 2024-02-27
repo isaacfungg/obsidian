@@ -17,6 +17,8 @@
 * Returns a sublist front index is inclusive last index is exclusive
 **.contains()**
 * Checks if something is in the list
+**.addAll()**
+* Adds all elements into the arrayList (Can be Set, KeySet, Value)
 #### HashMap
 **.entrySet()**
 * Returns a set view of mappings (Both key and value)
