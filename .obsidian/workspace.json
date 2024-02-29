@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/LeetCode/Syntax.md",
+                "file": "2024w notes/CPSC 221/Week 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/LeetCode/Syntax.md",
+                "file": "2024w notes/CPSC 221/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/LeetCode/Syntax.md",
+                "file": "2024w notes/CPSC 221/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/LeetCode/Syntax.md"
+                "file": "2024w notes/CPSC 221/Week 6.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "d49afcf4cd9eee57",
   "lastOpenFiles": [
+    "2024w notes/CPSC 221/Week 5.md",
+    "2024w notes/CPSC 221/Week 6.md",
+    "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Takeaways.md",
-    "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Arrays & Hashing.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/Network Devices/Lesson 2.md",
@@ -176,7 +178,6 @@
     "coding/React Native/FlatList.md",
     "coding/React Native",
     "coding/SQL/Untitled.md",
-    "2024w notes/CPSC 221/Week 5.md",
     "coding/SQL/Node SQLite.md",
     "coding/SQL/SQL.md",
     "coding/Shopify",
@@ -191,7 +192,6 @@
     "2024w notes/STAT 201/Week 1 - HW.md",
     "2024w notes/STAT 201/Week 1.md",
     "2024w notes/STAT 201/Week 4.md",
-    "2024w notes/STAT 201/Week 4 - HW.md",
     "Untitled.canvas",
     "2024w notes/STAT 201",
     "2024w notes/CPSC 221"
