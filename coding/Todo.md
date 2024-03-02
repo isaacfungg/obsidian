@@ -15,16 +15,6 @@
 
 
 
-Day 6 - Friday
-* CPSC 221 Review
-
-Day 7 - Saturday
-* CPSC 213 Review
-
-Day 8 - Sunday
-
-
-
 Stay Fresh Timeline
 **Feb-March**
 * Finish first version of UI by March
