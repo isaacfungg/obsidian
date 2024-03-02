@@ -12,12 +12,6 @@
 * Flask
 * Django
 
-
-
-
-Stay Fresh Timeline
-**Feb-March**
-* Finish first version of UI by March
 **March-April**
 * Show to aleix and confirm UI get the shopify api
 * Final touches on the UI 
