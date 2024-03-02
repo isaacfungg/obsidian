@@ -1,8 +1,6 @@
 ***
 #### Bootstrapping
 * **Bootstrap Distribution**: An _approximation_ to the _sampling distribution_ of the sample mean
-
-
 #### Sampling with replacement
 ```R
 virtual_resample <- pennies_sample %>% 
