@@ -21,8 +21,6 @@ Average: nlogn
 Worst case: nlogn
 Termination: low < high and so low <= (low =high)/2
 𝑙𝑜𝑤 < h𝑖𝑔h and so 𝑙𝑜𝑤 ≤ 𝑙𝑜𝑤+h𝑖𝑔h ൗ < h𝑖𝑔h
-
-
 #### Trees
 Trees are also constructed from nodes
 **Root**: Single starting point of the tree (Starts at level 0)
@@ -40,7 +38,6 @@ Trees are also constructed from nodes
 * Binary tree is **full** if the every node has exactly zero or two children
 **Height**: The length of the longest path 
 **Depth**: Length of the path to the root
-
 
 Implementation
 ```cpp
@@ -60,7 +57,6 @@ public:
 
 };
 ```
-
 
 #### Questions
 **Full Trees**

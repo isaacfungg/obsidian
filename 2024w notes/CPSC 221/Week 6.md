@@ -8,8 +8,6 @@
 * If the target is greater than the value in the node search its right subtree
 * Otherwise return true
 * Worst case: height of the tree + 1
-
-
 #### Types of traversal
 
 ```

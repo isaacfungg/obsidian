@@ -9,7 +9,6 @@ df %>%
 ```
 * Mutate: Creates a new column in the data frame
 * Summarize: Returns a data frame with a single row of summary statistics (Sum, Median)
-
 ###### Histograms
 ```R
 ggplot(virtual_prop_red, aes(x = prop_red)) +

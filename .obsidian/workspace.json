@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Network Devices/Lesson 1.md",
+                "file": "2024w notes/STAT 201/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Network Devices/Lesson 1.md",
+                "file": "2024w notes/STAT 201/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Network Devices/Lesson 1.md",
+                "file": "2024w notes/STAT 201/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Network Devices/Lesson 1.md"
+                "file": "2024w notes/STAT 201/Week 1.md"
               }
             }
           },
@@ -158,19 +158,19 @@
   },
   "active": "cec3e55e81a3cdb7",
   "lastOpenFiles": [
+    "2024w notes/CPSC 221/Week 5.md",
+    "2024w notes/CPSC 221/Week 6.md",
+    "coding/Network Devices/Lesson 1.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/SQL/SQL.md",
     "coding/SQL/Node SQLite.md",
     "coding/SQL/Background Info.md",
     "coding/Todo.md",
-    "2024w notes/CPSC 221/Week 6.md",
-    "2024w notes/CPSC 221/Week 5.md",
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Arrays & Hashing.md",
-    "coding/Network Devices/Lesson 1.md",
     "coding/Network Devices",
     "coding/Linux/Terminal Commands.md",
     "coding/LeetCode/Java.md",
