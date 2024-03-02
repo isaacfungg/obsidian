@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67751850808acb93",
+        "id": "c59a1c098568c101",
         "type": "tabs",
         "children": [
           {
-            "id": "d49afcf4cd9eee57",
+            "id": "cec3e55e81a3cdb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Network Devices/Lesson 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Network Devices/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "coding/Network Devices/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Todo.md"
+                "file": "coding/Network Devices/Lesson 1.md"
               }
             }
           },
@@ -156,32 +156,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d49afcf4cd9eee57",
+  "active": "cec3e55e81a3cdb7",
   "lastOpenFiles": [
+    "coding/Network Devices/Lesson 2.md",
+    "coding/Network Devices/Lesson 3.md",
+    "coding/SQL/SQL.md",
+    "coding/SQL/Node SQLite.md",
+    "coding/SQL/Background Info.md",
+    "coding/Todo.md",
     "2024w notes/CPSC 221/Week 6.md",
     "2024w notes/CPSC 221/Week 5.md",
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Arrays & Hashing.md",
-    "coding/Network Devices/Lesson 3.md",
-    "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 1.md",
     "coding/Network Devices",
     "coding/Linux/Terminal Commands.md",
     "coding/LeetCode/Java.md",
     "coding/LeetCode",
     "coding/Linux/Notes.md",
-    "coding/Todo.md",
     "coding/Linux",
     "coding/Shopify/Shopify Notes.md",
     "coding/React Native/FlatList.md",
     "coding/React Native",
     "coding/SQL/Untitled.md",
-    "coding/SQL/Node SQLite.md",
-    "coding/SQL/SQL.md",
     "coding/Shopify",
-    "coding/SQL/Background Info.md",
     "2024w notes/CPSC 213/1e.md",
     "coding/SQL",
     "Untitled",
