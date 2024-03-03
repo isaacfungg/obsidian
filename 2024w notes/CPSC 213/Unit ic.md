@@ -42,3 +42,11 @@ struct D {
 # Include a struct inside of another, the offset to the first element of the included struct must be aligned to biggest basic type (char, int)
 
 ```
+
+
+#### Count Memory References in Struct Access
+```C
+struct A {
+	int[10]
+}
+```
