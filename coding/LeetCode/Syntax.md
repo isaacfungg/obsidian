@@ -8,7 +8,6 @@
 #### Arrays
 **.sort()**
 * Sorts the array
-
 #### ArrayList
 **Collections.sort()**
 * Sorts an array list in **nlogn** time
