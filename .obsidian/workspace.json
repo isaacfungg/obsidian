@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "2024w notes/CPSC 213/Unit ic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "2024w notes/CPSC 213/Unit ic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md",
+                "file": "2024w notes/CPSC 213/Unit ic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/LeetCode/Two Pointers.md"
+                "file": "2024w notes/CPSC 213/Unit ic.md"
               }
             }
           },
@@ -158,13 +158,14 @@
   },
   "active": "cec3e55e81a3cdb7",
   "lastOpenFiles": [
+    "coding/LeetCode/Two Pointers.md",
+    "2024w notes/CPSC 213/Unit ic.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/SQL/SQL.md",
     "coding/SQL/Background Info.md",
     "coding/SQL/Node SQLite.md",
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Takeaways.md",
-    "coding/LeetCode/Two Pointers.md",
     "2024w notes/STAT 201/Week 7.md",
     "2024w notes/STAT 201/Week 7 - HW.md",
     "2024w notes/STAT 201/Week 6 - HW.md",
@@ -186,7 +187,6 @@
     "coding/Linux/Notes.md",
     "coding/Linux",
     "coding/Shopify/Shopify Notes.md",
-    "coding/React Native/FlatList.md",
     "coding/React Native",
     "coding/Shopify",
     "coding/SQL",
