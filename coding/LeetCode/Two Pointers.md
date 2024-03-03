@@ -1,5 +1,4 @@
 ***
-
 #### Valid Palindrome
 * A phrase is a palindrome if, after converting all upper case letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward
 
@@ -32,6 +31,7 @@ public boolean isPalindrome(String s) {
 	return true;	
 }
 ```
+
 #### Two Sum II - Input Array Is Sorted
 * Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. 
 ```Java
