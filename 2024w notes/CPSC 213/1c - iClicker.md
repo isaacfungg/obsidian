@@ -42,3 +42,24 @@ struct X {
 # x.d.f | Size = 4 | Offset = 8
 # x.j   | Size = 4 | Offset = 12
 ```
+#### 1c.4
+```c
+struct D {
+	int e;
+	int f;
+}
+
+struct X {
+	int i;
+	struct D *d;
+	int j;
+}
+
+# What is the offset of member j in struct X below?
+# x.i | Size = 4 | Offset = 0
+# pad | Size = 4 | Offset = 4
+# x.d | Size = 8 | Offset = 8
+# x.j | Size = 4 | Offset = 16
+```
+
+

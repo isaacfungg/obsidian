@@ -65,3 +65,21 @@ str r1, (r0)     # d1->e = d1->f
 Alignment rules apply inside a struct
 * Each instance variable will be aligned according to its type size
 * Structs are usually aligned according to their largest member type
+
+
+#### Arrays and Structs
+```c
+# Array in struct
+struct S {
+	int i;
+	int j[10];
+}
+
+# Array of structs
+struct S a[42];
+
+# Array of pointers to structs 
+struct S* b[42];
+
+a[3].i = b[7]->j[4];
+```
