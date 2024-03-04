@@ -150,3 +150,50 @@ Why is this a problem?
 * If object had useful information, it can't be accessed anymore
 * If object is large (or if many memory leaks happen in sequence), program will use too much memory
 
+
+
+#### Avoiding Memory Problems in C
+Understand the problem
+* Where is the memory allocated?
+* Where is the memory freed?
+
+Avoid the program cases
+* If possible, restrict dynamic allocation/free to single procedure
+* If possible, don't write procedures that return pointers
+* If possible, use local variables instead
+	* Local variables are allocate on call and freed on return, automatically
+
+Engineer for memory management
+* Define rules for which procedure is responsible for deallocation
+* Use explicit reference counting if multiple potential deallocators
+* Define rules for which pointers can be stored in data structures
+* Use coding conventions and documentation to ensure rules are followed
+
+#### Strategies
+##### Co-Locating Allocation and Deallocation
+If a procedure returns the value of a dynamically allocated object
+* Allocate that object in the caller and pass a pointer to it the callee
+* Good if caller does both malloc/free itself
+```c
+void receive (struct MBuf* mBuf) {}
+
+void foo() {
+	struct MBuf* mb = malloc(sizeof(*mbuf));
+	receive(mb);
+	free(mb);
+}
+```
+
+##### Using Local Variables
+If a procedure does malloc and free
+* Use a local variable instead of malloc
+* Local variables are allocated on call and deallocated on return
+```c
+void receive (struct MBuf* mBuf) {}
+
+void foo() {
+	struct MBuf mb;
+	receive(&mb);
+}
+# Do NOT return the address of a local variable (dangling pointer)
+```
