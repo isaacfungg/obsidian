@@ -102,3 +102,51 @@ Use *sizeof* to determine number of bytes to allocate
  * *struct Foo *f = malloc(sizeof(struct Foo));*
  * **statically** computes number of bytes in type or variable
  * **Caution**: sizeof(pointer) gives the size of a pointer, not what it points to
+
+###### Memory Deallocation
+Wise management of memory requires deallocation
+* Memory is a finite resource
+* Deallocation frees previously allocated emory for re-use
+ In **C**:
+ * Dynamic memory must be deallocated explicitly by calling free
+ * Memory is deallocated immediately, no checks if it's still in use
+
+###### Memory Heap
+The heap is a large section of memory from which malloc allocates objects
+* **malloc** finds unused space in the heap, marks as used and returns it
+* **free** marks space as unused
+* heap may be increased if necessary
+
+#### What malloc and free do
+###### Organization of memory
+* Statically allocated: code, static data
+* The rest is unused or dynamically allocated
+###### Malloc/free
+* Implemented in library
+* Manage a chunk of memory called the Heap
+* Keep track of what's allocated or free
+###### Malloc
+*  Find a free chunk of memory of appropriate size
+* Mark it allocated
+* return pointer to it (keeping track of its size)
+###### Free
+* Use pointer to determine allocated size
+* Mark referenced memory as free
+
+###### What free(x) does
+* Deallocates chunk of memory starting at address x
+* This memory can be reused by subsequent call to malloc
+###### What free(x) does **not** do
+* After call to free, x still points at the freed object (does not change any pointers)
+* Other variables may still point there too
+* The data stored at address x is **not** erased
+
+#### Memory Leaks
+A **memory leak** is a dynamic memory object with **no pointers** pointing to it
+* Usually happens if a program doesn't free object properly
+* May also happen if a pointer to a valid object is changed to another value
+
+Why is this a problem?
+* If object had useful information, it can't be accessed anymore
+* If object is large (or if many memory leaks happen in sequence), program will use too much memory
+
