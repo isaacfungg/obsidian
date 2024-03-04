@@ -63,3 +63,70 @@ struct X {
 ```
 
 
+#### 1c.5
+```c
+struct D {
+	int e;
+	int f;
+}
+
+struct X {
+	int i;
+	struct D d[10];
+	int j;
+}
+
+# What is the offset of member j in struct X below?
+# x.i      | Size = 4 | Offset = 0
+# x.d[0].e | Size = 4 | Offset = 4
+# x.d[0].f | Size = 4 | Offset = 8
+# ...
+# x.d[9].e | Size = 4 | Offset = 76
+# x.d[9].f | Size = 4 | Offset = 80
+# x.j      | Size = 4 | Offset = 84
+```
+
+#### 1c.6
+```c
+struct Y {
+	char c;
+	short s;
+}
+
+struct X {
+	int i;
+	struct Y y[10];
+	int j;
+}
+
+# What is the offset of member j ins truct X below?
+# x.i      | Size = 4 | Offset = 0
+# x.y[0].c | Size = 1 | Offset = 4
+# padding  | Size = 1 | Offset = 5
+# x.y[0].s | Size = 2 | Offset = 6
+# ...
+# x.y[9].c | Size = 1 | Offset = 38
+# padding  | Size = 1 | Offset = 39
+# x.y[9].s | Size = 2 | Offset = 40
+# x.j      | Size = 4 | Offset = 44
+``` 
+
+#### 1c.7
+```c
+struct A {
+	char a;
+	int *b;
+	int *p;
+}
+
+struct X {
+	char c;
+	struct A a;
+	int j;
+}
+
+struct X s;
+
+# How many memory reads to load s.a.b[2] into r1?
+# 2 - (*b, b[2])
+```
