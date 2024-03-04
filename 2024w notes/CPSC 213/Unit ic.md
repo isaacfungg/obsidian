@@ -68,9 +68,26 @@ Struct B *d;
 ```C
 void foo(x) {}
 
+int* bar() {
+	int* x = rc_malloc(4);
+	*x = 7
+	return x;
+}
+
+int* zot(int* x) {
+	rc_keep_ref(x);       # when return a param you need keep_ref
+	return x;
+}
+
 Main() {
 	x = rc_malloc(w);
 	foo(x);
+	
+	int* y = bar();
+	rc_free_ref(y);
+
+	int* z = zot(x);
+	rc_free_ref(z);       # x becomes a dangling pointer
 
 	rc_free_ref(x);
 }
