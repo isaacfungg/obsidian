@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 221/Practice Quiz/PQ4.md",
+                "file": "2024w notes/CPSC 213/Lecture - 1c.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 221/Practice Quiz/PQ4.md",
+                "file": "2024w notes/CPSC 213/Lecture - 1c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 221/Practice Quiz/PQ4.md",
+                "file": "2024w notes/CPSC 213/Lecture - 1c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 221/Practice Quiz/PQ4.md"
+                "file": "2024w notes/CPSC 213/Lecture - 1c.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   },
   "active": "cec3e55e81a3cdb7",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/Unit ic.md",
-    "2024w notes/CPSC 221/Practice Quiz/PQ4.md",
-    "2024w notes/CPSC 221/Practice Quiz",
+    "2024w notes/CPSC 213/Videos - 1c.md",
+    "2024w notes/CPSC 213/Lecture - 1c.md",
+    "2024w notes/CPSC 213/1e.md",
+    "2024w notes/CPSC 221/Week 6.md",
+    "2024w notes/CPSC 221/Week 5.md",
+    "2024w notes/CPSC 213/Practice Quiz/PQ4.md",
+    "2024w notes/CPSC 213/Practice Quiz",
     "coding/LeetCode/Two Pointers.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/SQL/SQL.md",
@@ -176,17 +180,13 @@
     "2024w notes/STAT 201/Week 3 - HW.md",
     "2024w notes/STAT 201/Week 2 - HW.md",
     "2024w notes/STAT 201/Week 1.md",
-    "2024w notes/CPSC 221/Week 5.md",
-    "2024w notes/CPSC 221/Week 6.md",
     "coding/Network Devices/Lesson 1.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Todo.md",
     "coding/LeetCode/Arrays & Hashing.md",
     "coding/Network Devices",
     "coding/Linux/Terminal Commands.md",
-    "coding/LeetCode/Java.md",
     "coding/LeetCode",
-    "coding/Linux/Notes.md",
     "coding/Linux",
     "coding/React Native",
     "coding/Shopify",
