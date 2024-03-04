@@ -57,6 +57,22 @@ struct B {
 Struct B s;
 Struct B *d;
 
-# d->b0.a1->b0.a1[5]
+# d->b0.a2->b0.a1[5]
+# 4 reads (->, ->, a1[] dynamic, a[5])
+
+# s.b0.a2->b0.a0[5]
+# 2 reads (->, a0[5] static)
+```
+
+#### Reference Counting
+```C
+void foo(x) {}
+
+Main() {
+	x = rc_malloc(w);
+	foo(x);
+
+	rc_free_ref(x);
+}
 
 ```
