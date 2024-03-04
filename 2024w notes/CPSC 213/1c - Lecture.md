@@ -59,3 +59,9 @@ str r1, (r0)     # d1->e = d1->f
 * Static (constant) offset (bytes from start of struct)
 * Access memory at base plus static offset
 * Equivalent to access to array element with static index
+
+
+#### Struct Size and Alignment
+Alignment rules apply inside a struct
+* Each instance variable will be aligned according to its type size
+* Structs are usually aligned according to their largest member type
