@@ -83,3 +83,22 @@ struct S* b[42];
 
 a[3].i = b[7]->j[4];
 ```
+
+
+#### Dynamic Allocation
+Programs can allocate memory dynamically
+* allocation reserves a range of memory for a purpose (**heap**)
+**Java**: Instances of classes are allocated by the *new* statement
+**C**: Byte ranges are allocated by call to malloc procedure 
+* These bytes can be used for any type that can fit in them
+###### Memory Allocation
+*void *malloc(unsigned long n);*
+* **n** is the number of bytes to allocate
+* returning type is void*
+	* pointer to anything (no specified type assigned)
+	* can be cast to/from any other pointer type
+	* cannot be dereferenced directly
+Use *sizeof* to determine number of bytes to allocate
+ * *struct Foo *f = malloc(sizeof(struct Foo));*
+ * **statically** computes number of bytes in type or variable
+ * **Caution**: sizeof(pointer) gives the size of a pointer, not what it points to

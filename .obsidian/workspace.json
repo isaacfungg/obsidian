@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - iClicker.md",
+                "file": "2024w notes/CPSC 213/1c - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - iClicker.md",
+                "file": "2024w notes/CPSC 213/1c - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - iClicker.md"
+                "file": "2024w notes/CPSC 213/1c - Lecture.md"
               }
             }
           },
@@ -168,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cec3e55e81a3cdb7",
+  "active": "6b4a87ca22c3f5d8",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/1c - Lecture.md",
     "2024w notes/CPSC 213/1c - iClicker.md",
+    "2024w notes/CPSC 213/1c - Lecture.md",
     "2024w notes/CPSC 213/1c - Videos.md",
     "2024w notes/CPSC 213/Practice Quiz/Untitled.md",
     "2024w notes/CPSC 213/1e.md",
