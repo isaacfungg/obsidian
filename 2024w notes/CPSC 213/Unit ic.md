@@ -47,6 +47,16 @@ struct D {
 #### Count Memory References in Struct Access
 ```C
 struct A {
-	int[10]
+	int a0[10];
+	int *a1;
+	struct B *a2;
 }
+struct B {
+	struct A b0;
+}
+Struct B s;
+Struct B *d;
+
+# d->b0.a1->b0.a1[5]
+
 ```
