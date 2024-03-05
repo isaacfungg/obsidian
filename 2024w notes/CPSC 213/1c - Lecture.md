@@ -170,7 +170,7 @@ Engineer for memory management
 * Use coding conventions and documentation to ensure rules are followed
 
 #### Strategies
-##### Co-Locating Allocation and Deallocation
+###### Co-Locating Allocation and Deallocation
 If a procedure returns the value of a dynamically allocated object
 * Allocate that object in the caller and pass a pointer to it the callee
 * Good if caller does both malloc/free itself
@@ -184,7 +184,7 @@ void foo() {
 }
 ```
 
-##### Using Local Variables
+###### Using Local Variables
 If a procedure does malloc and free
 * Use a local variable instead of malloc
 * Local variables are allocated on call and deallocated on return
@@ -197,3 +197,35 @@ void foo() {
 }
 # Do NOT return the address of a local variable (dangling pointer)
 ```
+
+
+#### Reference Counting
+You can use reference counting to track object use
+* Initialize the reference count to 1 (the caller has a reference)
+* Any procedure that stores a reference (starts using object) **increments** the count
+* Any procedure that discards a reference (stops using object) **decrements** the count
+* Never call free directly
+	* The object is freed when count goes to zero
+
+###### Approach 1
+Reference counter can be part of struct
+* Updates to reference counter are done through special methods
+```c
+struct buffer *rc_malloc() {
+	struct buffer *buf = malloc(sizeof(struct buffer))
+	buf->ref_count = 1;
+	return buf;
+}
+
+void rc_keep_ref(struct buffer *buf) {
+	buf->ref_count++;
+}
+
+void rc_free_ref(struct buffer *buf) {
+	buf-> ref_count--;
+	if (buf->ref_count == 0) 
+		free(buf);
+}
+```
+
+###### Approach 2
