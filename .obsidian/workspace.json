@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c59a1c098568c101",
+        "id": "764205c29bdd675d",
         "type": "tabs",
         "children": [
           {
-            "id": "cec3e55e81a3cdb7",
+            "id": "703c896557430e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - iClicker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4a87ca22c3f5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024w notes/CPSC 213/1d - Lecture.md",
+                "file": "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/1d - Lecture.md",
+                "file": "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/1d - Lecture.md",
+                "file": "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/1d - Lecture.md"
+                "file": "2024w notes/CPSC 213/Practice Quiz/PQ5.md"
               }
             }
           },
@@ -169,14 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b4a87ca22c3f5d8",
+  "active": "703c896557430e6a",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/1c - Lecture.md",
+    "2024w notes/CPSC 213/1d - iClicker.md",
+    "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
     "2024w notes/CPSC 213/1d - Lecture.md",
     "2024w notes/CPSC 213/1c - iClicker.md",
+    "2024w notes/CPSC 213/1e - Lecture.md",
+    "2024w notes/CPSC 213/1c - Lecture.md",
     "2024w notes/CPSC 213/1c - Videos.md",
-    "2024w notes/CPSC 213/Practice Quiz/Untitled.md",
-    "2024w notes/CPSC 213/1e.md",
     "2024w notes/CPSC 221/Week 6.md",
     "2024w notes/CPSC 221/Week 5.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ4.md",
@@ -197,7 +185,6 @@
     "2024w notes/STAT 201/Week 2 - HW.md",
     "2024w notes/STAT 201/Week 1.md",
     "coding/Network Devices/Lesson 1.md",
-    "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
