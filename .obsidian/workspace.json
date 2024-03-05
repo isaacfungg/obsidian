@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - Lecture.md",
+                "file": "2024w notes/CPSC 213/1d - Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - Lecture.md",
+                "file": "2024w notes/CPSC 213/1d - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - Lecture.md",
+                "file": "2024w notes/CPSC 213/1d - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/1c - Lecture.md"
+                "file": "2024w notes/CPSC 213/1d - Lecture.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "6b4a87ca22c3f5d8",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/1c - iClicker.md",
     "2024w notes/CPSC 213/1c - Lecture.md",
+    "2024w notes/CPSC 213/1d - Lecture.md",
+    "2024w notes/CPSC 213/1c - iClicker.md",
     "2024w notes/CPSC 213/1c - Videos.md",
     "2024w notes/CPSC 213/Practice Quiz/Untitled.md",
     "2024w notes/CPSC 213/1e.md",
@@ -197,7 +198,6 @@
     "2024w notes/STAT 201/Week 1.md",
     "coding/Network Devices/Lesson 1.md",
     "coding/Network Devices/Lesson 2.md",
-    "coding/Todo.md",
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
