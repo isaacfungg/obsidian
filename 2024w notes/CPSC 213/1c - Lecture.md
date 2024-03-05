@@ -207,7 +207,6 @@ You can use reference counting to track object use
 * Never call free directly
 	* The object is freed when count goes to zero
 
-###### Approach 1
 Reference counter can be part of struct
 * Updates to reference counter are done through special methods
 ```c
@@ -228,4 +227,23 @@ void rc_free_ref(struct buffer *buf) {
 }
 ```
 
-###### Approach 2
+
+#### Reference Counting and Procedure Calls
+When a reference is a parameter
+* The caller has a reference and maintains it for the duration of the call
+* So, the callee need not call keep_ref **UNLESS**
+	* Callee saves the pointer someplace that will outlast the call (e.g. global variable)
+	* Callee returns the pointer to the caller
+
+When a reference is a return value
+* The callee must have a reference to the value
+* It passes that reference to the caller
+	* The callee implicitly gives up its reference as part of the return
+	* The reference is transferred to the caller
+* The caller must call free_ref when it no longer stores the reference
+
+When a reference is stored in a local variable 
+* That variable goes away implicitly when the procedure returns
+* and so the procedure must call free_ref before it returns
+
+
