@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/SQL/Questions.md",
+                "file": "coding/Network Devices/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/SQL/Questions.md",
+                "file": "coding/Network Devices/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/SQL/Questions.md",
+                "file": "coding/Network Devices/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/SQL/Questions.md"
+                "file": "coding/Network Devices/Questions.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "703c896557430e6a",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/1c - Videos.md",
     "coding/SQL/Questions.md",
+    "coding/Network Devices/Questions.md",
+    "2024w notes/CPSC 213/1c - Videos.md",
     "2024w notes/CPSC 213/1c - Lecture.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
     "2024w notes/CPSC 213/1d - iClicker.md",
@@ -184,7 +185,6 @@
     "2024w notes/STAT 201/Week 3.md",
     "2024w notes/STAT 201/Week 3 - HW.md",
     "2024w notes/STAT 201/Week 2 - HW.md",
-    "2024w notes/STAT 201/Week 1.md",
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
