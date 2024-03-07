@@ -29,3 +29,18 @@ TCP vs. UDP
 	* Connectionless protocol that sends messages without establishing a dedicated connection between the sending and receiving end
 	* It does not guarantee delivery, order, or error checking, making it faster and more efficient for applications where speed is more critical than reliability.
 
+What is an API?
+* API stands for Application Programming Interface and is a software intermediary that enables two applications to communicate with each other
+
+What are the main differences between API and Web Service?
+* All Web services are APIs but not all APIs are Web services
+
+What are some architectural styles for creating a Web API?
+* HTTP for client-server communication
+* XML/JSON as formatting language
+
+What is API testing?
+* API testing is a kind of software testing that determines if the developed APIs meet expectations regarding the functionality, reliability, performance, and security of the application.
+
+What do you understand by RESTful Web Services?
+* RESTful web services are services that follow REST architecture. REST stands for Representational State Transfer and uses HTTP protocol for implementation. These services support communication among multiple applications.
