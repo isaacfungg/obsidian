@@ -29,5 +29,3 @@ TCP vs. UDP
 	* Connectionless protocol that sends messages without establishing a dedicated connection between the sending and receiving end
 	* It does not guarantee delivery, order, or error checking, making it faster and more efficient for applications where speed is more critical than reliability.
 
-Should you encrypt a file before compressing it?
-* Yes, it i
