@@ -44,3 +44,22 @@ What is API testing?
 
 What do you understand by RESTful Web Services?
 * RESTful web services are services that follow REST architecture. REST stands for Representational State Transfer and uses HTTP protocol for implementation. These services support communication among multiple applications.
+
+
+
+
+```cpp
+
+bool IsPartialFlipped(Node* nd1, Node* nd2) {
+	if (!nd1 && nd2) 
+		return true;
+	if (!nd1 || !nd2)
+		return false
+
+	if (nd1->data != nd2->data) {
+		return false;
+	} else {
+			return ((IsPartialFlipped(nd1->left, nd2->left) && IsPartialFlipped(nd1->right, nd2->right)) || (IsPartialFlipped(nd1->left, nd2->right) && IsPartialFlipped(nd1->right, nd2->left);
+	}
+}
+```
