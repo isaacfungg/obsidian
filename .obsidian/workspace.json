@@ -11,9 +11,11 @@
             "id": "ba79f36b03abdb8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "coding/Todo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coding/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "coding/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "coding/Todo.md"
+              }
             }
           },
           {
@@ -152,6 +158,9 @@
   },
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
+    "coding/oneAPI/oneAPI.md",
+    "coding/Untitled",
+    "coding/oneAPI",
     "coding/Interview Questions.md",
     "coding/SQL/SQL.md",
     "coding/SQL/Questions.md",
@@ -177,8 +186,6 @@
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Takeaways.md",
     "2024w notes/STAT 201/Week 7.md",
-    "2024w notes/STAT 201/Week 7 - HW.md",
-    "2024w notes/STAT 201/Week 6 - HW.md",
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
@@ -186,8 +193,6 @@
     "coding/Shopify",
     "coding/SQL",
     "Untitled",
-    "coding",
-    "Untitled.canvas",
-    "2024w notes/STAT 201"
+    "Untitled.canvas"
   ]
 }
