@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Todo.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Todo.md"
+                "file": "2024w notes/STAT 201/Week 5 - HW.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
+    "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
+    "2024w notes/STAT 201/Week 5 - HW.md",
+    "2024w notes/STAT 201/Week 4 - Simulation-Based Confidence Interval.md",
+    "2024w notes/STAT 201/Week 4 - HW.md",
+    "2024w notes/STAT 201/Week 6.md",
+    "coding/Todo.md",
     "coding/oneAPI/oneAPI.md",
     "coding/Untitled",
     "coding/oneAPI",
@@ -181,11 +187,6 @@
     "2024w notes/CPSC 213/Practice Quiz/PQ4.md",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/LeetCode/Two Pointers.md",
-    "coding/SQL/Background Info.md",
-    "coding/SQL/Node SQLite.md",
-    "coding/LeetCode/Syntax.md",
-    "coding/LeetCode/Takeaways.md",
-    "2024w notes/STAT 201/Week 7.md",
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
