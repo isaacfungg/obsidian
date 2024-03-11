@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Week 5 - HW.md",
+                "file": "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Week 5 - HW.md",
+                "file": "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Week 5 - HW.md",
+                "file": "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Week 5 - HW.md"
+                "file": "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
-    "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
     "2024w notes/STAT 201/Week 5 - HW.md",
+    "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
     "2024w notes/STAT 201/Week 4 - Simulation-Based Confidence Interval.md",
     "2024w notes/STAT 201/Week 4 - HW.md",
     "2024w notes/STAT 201/Week 6.md",
