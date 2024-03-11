@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703c896557430e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Interview Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba79f36b03abdb8a",
             "type": "leaf",
             "state": {
@@ -29,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coding/Interview Questions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +152,9 @@
   },
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
+    "coding/Interview Questions.md",
     "coding/SQL/SQL.md",
     "coding/SQL/Questions.md",
-    "coding/Interview Questions.md",
     "coding/Linux/Terminal Commands.md",
     "coding/Linux/Notes.md",
     "coding/Linux/Questions.md",
