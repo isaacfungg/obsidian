@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 2 Reading.md",
+                "file": "2024w notes/STAT 201/Reading/Week 4 Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 2 Reading.md",
+                "file": "2024w notes/STAT 201/Reading/Week 4 Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 2 Reading.md",
+                "file": "2024w notes/STAT 201/Reading/Week 4 Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 2 Reading.md"
+                "file": "2024w notes/STAT 201/Reading/Week 4 Reading.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
-    "2024w notes/STAT 201/Reading/Week 1 Reading.md",
+    "2024w notes/STAT 201/Reading/Week 3 Reading.md",
+    "2024w notes/STAT 201/Reading/Week 4 Reading.md",
+    "2024w notes/STAT 201/Week 3.md",
     "2024w notes/STAT 201/Reading/Week 2 Reading.md",
+    "2024w notes/STAT 201/Reading/Week 1 Reading.md",
     "2024w notes/STAT 201/Week 4 - Simulation-Based Confidence Interval.md",
     "2024w notes/STAT 201/Reading",
     "2024w notes/STAT 201/Week 1.md",
@@ -184,9 +187,6 @@
     "2024w notes/CPSC 213/1c - Lecture.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
     "2024w notes/CPSC 213/1d - iClicker.md",
-    "2024w notes/CPSC 213/1d - Lecture.md",
-    "2024w notes/CPSC 213/1c - iClicker.md",
-    "2024w notes/CPSC 213/1e - Lecture.md",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
     "coding/LeetCode",
