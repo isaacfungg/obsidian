@@ -27,3 +27,17 @@ Suppose the true proportion of heads for weighted coin is 0.4. The coin is flipp
 $p(1-p)/n$
 
 ***
+Suppose the scores of STAT201 students follows a normal distribution with mean 80 and standard deviation 5. Which of the following statements is(are) true? Select all that apply. Hint: use the 68-95-99.7 rule.
+
+Approximately 68% of STAT 201 students scored between 75 and 85.
+* According to the rule 68% fall within the sd
+A student with a Z score of 3 would have a score in the top 10% of the class.
+* A Z score of 3 means the grade is above 95 
+Approximately 2.5% of students scored less than 70
+
+***
+You test a hypothesis, and obtain a _p_-value of 0.1.Which of the following statements is(are) correct interpretations of this p-value? Select all that apply.
+
+There’s a 10 percent chance of observing a test statistic at least as extreme as the observed test statistic, given that the null hypothesis is true.
+
+***
