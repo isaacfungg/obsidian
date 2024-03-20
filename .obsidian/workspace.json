@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 5 Reading.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 5 Reading.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 5 Reading.md",
+                "file": "2024w notes/STAT 201/Week 5 - HW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Reading/Week 5 Reading.md"
+                "file": "2024w notes/STAT 201/Week 5 - HW.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
     "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
+    "2024w notes/STAT 201/Week 5 - HW.md",
     "2024w notes/STAT 201/Reading/Week 5 Reading.md",
     "2024w notes/STAT 201/Reading/Week 4 Reading.md",
     "2024w notes/STAT 201/Reading/Week 3 Reading.md",
@@ -169,7 +170,6 @@
     "2024w notes/STAT 201/Reading",
     "2024w notes/STAT 201/Week 1.md",
     "2024w notes/CPSC 221/Week 8.md",
-    "2024w notes/STAT 201/Week 5 - HW.md",
     "2024w notes/STAT 201/Week 4 - HW.md",
     "2024w notes/STAT 201/Week 6.md",
     "coding/Todo.md",
