@@ -17,8 +17,12 @@ generate(type="bootstrap")
 gemerate(type="permute")
 ```
 
-#### Z Score
+#### Formulas
+`Z Score`
 $$(x_i - \mu)/(\sigma/\sqrt{n}) $$
+
+`Confidence Intervals`
+$$ [\mu - \sigma*Z, \mu+\sigma*Z]$$
 
 #### Central Limit Theorem
 The Central Limit Theorem is important because it states that for a large enough sample size, the sampling distribution of the sample mean is approximately normal regardless of the population
