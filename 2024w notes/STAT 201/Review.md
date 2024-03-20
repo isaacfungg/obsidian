@@ -8,7 +8,12 @@
 It is the statistical measure that quantifies the probability of observing the data as extreme as, or more extreme than, the data actually observed, assuming that the null hypothesis is true.
 Misconceptions
 * The p-value does not tell you the probability that the null hypothesis is true or false
-* 
+
+```R
+# Lower tail FALSE if observing a value greater than the specified value
+# Lower tail TRUE if observing a value less than equal to the specified value
+pvalue = pnorm(Z-Score, lower.tail=FALSE)
+```
 
 #### Rules
 **68-95-99.7 rule**

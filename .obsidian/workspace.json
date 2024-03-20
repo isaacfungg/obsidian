@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Practice Questions.md",
+                "file": "2024w notes/STAT 201/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Practice Questions.md",
+                "file": "2024w notes/STAT 201/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Practice Questions.md"
+                "file": "2024w notes/STAT 201/Review.md"
               }
             }
           },
@@ -169,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6228f89053d3c548",
+  "active": "ba79f36b03abdb8a",
   "lastOpenFiles": [
-    "2024w notes/STAT 201/Review.md",
     "2024w notes/STAT 201/Practice Questions.md",
+    "2024w notes/STAT 201/Review.md",
     "2024w notes/STAT 201/Week 5 - HW.md",
     "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
     "2024w notes/STAT 201/Reading/Week 5 Reading.md",
