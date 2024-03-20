@@ -20,3 +20,10 @@ $$0.20 +- qnorm(0.975) * 0.04$$
 Formula
 $$p +- qnrom() * \sqrt{(p(1-p)/n}$$
 ***
+Suppose the true proportion of heads for weighted coin is 0.4. The coin is flipped 100 times. In the group of 100 tosses, the proportion of heads would have mean and variance of:
+
+**Mean**: 0.40 - Should be the same as the true proportion
+**Variance**: 0.0024
+$p(1-p)/n$
+
+***
