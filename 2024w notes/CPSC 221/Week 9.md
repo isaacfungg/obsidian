@@ -13,4 +13,8 @@ What is the maximum number of keys that can be stored in a B-Tree of order 32 an
 * Formula: $o^{h+1}-1$
 * o: order, h: height
 
-
+Hash tables:
+* Use O(1) time speed
+* Uses more memory than a regular array
+* When efficient use of memory is not important pick the largest capacity to avoid collision rate
+* 
