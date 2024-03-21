@@ -17,4 +17,7 @@ Hash tables:
 * Use O(1) time speed
 * Uses more memory than a regular array
 * When efficient use of memory is not important pick the largest capacity to avoid collision rate
-* 
+
+What is the best definition of a collision in a hash table?
+* Two entries with different keys have the same exact hash value
+
