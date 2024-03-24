@@ -37,3 +37,11 @@ void foo() {
 - **Buffer Overflow**: A critical security vulnerability that occurs when more data is written to a buffer than it can hold, leading to adjacent memory locations being overwritten. This can be exploited to execute arbitrary code.
     - **Example**: A program that copies user input into a smaller buffer without checking the size can be vulnerable.
 
+
+#### Stack Frame Layout
+Order of storage  
+• Decided by the compiler  
+• Based on order convenient for stack creation 
+• Static offset to any member from its base  
+• Convention needed for interoperability
+
