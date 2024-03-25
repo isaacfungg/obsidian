@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 213/1e.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 213/1e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 213/1e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md"
+                "file": "2024w notes/CPSC 213/1e.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "b6b2ef056e8e4c69",
   "lastOpenFiles": [
     "2024w notes/CPSC 213/1e - Lecture.md",
+    "2024w notes/CPSC 213/1e.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
     "2024w notes/CPSC 221/Week 9.md",
     "2024w notes/STAT 201/Practice Questions.md",
@@ -186,7 +187,6 @@
     "coding/SQL/Questions.md",
     "coding/Linux/Terminal Commands.md",
     "coding/Linux/Notes.md",
-    "coding/Linux/Questions.md",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
     "coding/LeetCode",
