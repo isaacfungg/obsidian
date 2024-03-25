@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "861c94fd1e1d5d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024w notes/CPSC 213/1e.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 213/1e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 213/1e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md"
+                "file": "2024w notes/CPSC 213/1e.md"
               }
             }
           },
@@ -156,11 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6b2ef056e8e4c69",
+  "active": "861c94fd1e1d5d91",
   "lastOpenFiles": [
+    "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
     "2024w notes/CPSC 213/1e.md",
     "2024w notes/CPSC 213/1e - Lecture.md",
-    "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
     "2024w notes/CPSC 221/Week 9.md",
     "2024w notes/STAT 201/Practice Questions.md",
     "2024w notes/STAT 201/Week 5 - HW.md",
