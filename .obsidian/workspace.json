@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/1e.md",
+                "file": "2024w notes/CPSC 213/1f.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/1e.md",
+                "file": "2024w notes/CPSC 213/1f.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/1e.md",
+                "file": "2024w notes/CPSC 213/1f.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/1e.md"
+                "file": "2024w notes/CPSC 213/1f.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "861c94fd1e1d5d91",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
     "2024w notes/CPSC 213/1e.md",
+    "2024w notes/CPSC 213/1f.md",
+    "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
     "git push.md",
     "2024w notes/CPSC 213/1d - Lecture.md",
     "2024w notes/CPSC 213/1e - Lecture.md",
@@ -199,7 +200,6 @@
     "coding/oneAPI",
     "coding/Interview Questions.md",
     "coding/SQL/SQL.md",
-    "coding/SQL/Questions.md",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
     "coding/LeetCode",
