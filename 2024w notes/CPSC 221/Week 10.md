@@ -17,3 +17,5 @@ Consider a **minHeap** implemented as a zero-based array. Given an element at po
 * $2i + 1$
 
 
+
+
