@@ -16,6 +16,5 @@ Consider a **minHeap** implemented as a zero-based array. Given an element at po
 Consider a **minHeap** implemented as a zero-based array. Given an element at position $i$. what would be the position of its left child?
 * $2i + 1$
 
-
-
-
+For a disjoint set structure holding $n$ elements, what is the best runtime for find, on average, over a sequence of $m$ operations
+* $O(mlog^*(n))$
