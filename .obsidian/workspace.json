@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+                "file": "2024w notes/CPSC 221/Week 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ8.md",
+                "file": "2024w notes/CPSC 221/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ8.md",
+                "file": "2024w notes/CPSC 221/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ8.md"
+                "file": "2024w notes/CPSC 221/Week 10.md"
               }
             }
           },
@@ -169,12 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "861c94fd1e1d5d91",
+  "active": "b6b2ef056e8e4c69",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/1f.md",
-    "2024w notes/CPSC 213/Practice Quiz/PQ8.md",
     "2024w notes/CPSC 213/1e.md",
+    "2024w notes/CPSC 221/Week 10.md",
+    "2024w notes/CPSC 213/1f.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ7.md",
+    "2024w notes/CPSC 213/Practice Quiz/PQ8.md",
     "git push.md",
     "2024w notes/CPSC 213/1d - Lecture.md",
     "2024w notes/CPSC 213/1e - Lecture.md",
@@ -199,7 +199,6 @@
     "coding/oneAPI/oneAPI.md",
     "coding/Untitled",
     "coding/oneAPI",
-    "coding/Interview Questions.md",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
     "coding/LeetCode",
