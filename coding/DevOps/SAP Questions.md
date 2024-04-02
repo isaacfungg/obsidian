@@ -10,6 +10,19 @@ Types of linked lists
 - **Singly Linked List:** Each node points to the next node in the sequence, ending with a null to signify the end of the list.
 - **Doubly Linked List:** Each node points both to the next and the previous node, allowing bidirectional traversal.
 - **Circular Linked List:** Similar to singly or doubly linked lists, but the last node points back to the first node, forming a loop.
+REST API vs SOAP
+- **REST (Representational State Transfer):**
+    - Uses standard HTTP methods (GET, POST, PUT, DELETE, etc.).
+    - Statelessness: Each request from client to server must contain all the information needed to understand and complete the request.
+    - Can use various formats like JSON, XML, HTML, or plain text for data exchange.
+    - Generally considered easier to use and more flexible.
+    - More suited for web services and public APIs.
+- **SOAP (Simple Object Access Protocol):**  
+    - Relies on XML-based message protocol for exchange of information.
+    - Requires a strict message structure and can be more heavyweight than REST.
+    - Can operate over HTTP, SMTP, TCP, and more, making it more versatile in terms of transport.
+    - Built-in error handling and higher security features like WS-Security.
+    - Often used in enterprise environments for its formal contracts (WSDL documents) and stateful operations.
 #### Linux
 How to enter and switch the file?
 What is the difference between windows and linux OS?
@@ -23,16 +36,31 @@ What is the difference between windows and linux OS?
     - Known for security, stability, and flexibility.
     - Widely used in servers, development, and by technology enthusiasts.
     - Supports a wide range of free and open-source software.
+
 How are Bash and powershell different?
-How will you look for all files in a folder starting with 'a'
+- **Bash:**
+    - Default shell for Linux and macOS.
+    - Focuses on text processing with tools like grep, awk, sed.
+    - Commands are typically short and mnemonic.
+    - Scripting involves chaining commands with pipes.
+- **PowerShell:**
+    - Developed by Microsoft, primarily for Windows, but available on Linux and macOS.
+    - Object-oriented, based on .NET framework.
+    - Cmdlets follow a verb-noun syntax, making them self-descriptive.
+    - Designed for complex system administration tasks, with a deep integration into Windows OS components.
+
+How will you look for all files in a folder starting with 'a'?
+* `Bash`: ls a* 
 How to check the available disk space in Linux?
+* df -h
 If the fdisk command shows that I have 90% space available but still I'm unable to create a file. What could be the issues?
+* Corrupt file system
+* Read-only file system
 #### Dockers
 How to create containers?
 What are containers?
 Do you need a docker engine to create a container?
 How did you create VMs and its networking questions?
-What is the difference between Rest and Soap API. 
 What is WSDI?
 #### Cloud
 What is the difference in AWS and SAP cloud platform?
