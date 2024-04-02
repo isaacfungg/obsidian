@@ -71,12 +71,13 @@ What is the difference in AWS and SAP cloud platform?
 - **SAP Cloud Platform:**
     - Focuses on business applications and processes.
     - Integrates with SAP solutions, ideal for existing SAP customers.
-    - Provides tools for business analytics, data management, and application extension.
+    - Provides tools for business analytics, data management, and application extension
 How will you start a deployment.
 #### Network
 What happens in the backend when you type google.com in your browser? The connection established is through TCP. Then why do we get an http response?
 
 What is the difference between TCP and HTTP?
+* TCP is a Connection Oriented Protocol so it ensures reliable and ordered delivery of data. HTTP is something that is a protocol that is typically built over TCP.
 #### SQL 
 Joints
 Few queries to count and groupby.
