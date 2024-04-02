@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
+                "query": "tuple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,22 @@
   },
   "active": "b6b2ef056e8e4c69",
   "lastOpenFiles": [
-    "coding/DevOps/DevOps Interview Questions.md",
+    "coding/Network Devices/Lesson 2.md",
+    "coding/Network Devices/Lesson 3.md",
+    "coding/Todo.md",
+    "coding/LeetCode/Arrays & Hashing.md",
+    "coding/LeetCode/Syntax.md",
+    "coding/LeetCode/Takeaways.md",
+    "coding/LeetCode/Two Pointers.md",
+    "coding/Network Devices/Questions.md",
+    "coding/Network Devices/Lesson 1.md",
+    "coding/Linux/Terminal Commands.md",
+    "coding/Linux/Questions.md",
+    "coding/Shopify/Shopify Notes.md",
+    "coding/SQL/Background Info.md",
+    "coding/SQL/Questions.md",
     "coding/DevOps/SAP Questions.md",
+    "coding/DevOps/DevOps Interview Questions.md",
     "2024w notes/CPSC 221/Week 10.md",
     "coding/DevOps",
     "git push.md",
@@ -183,21 +198,7 @@
     "2024w notes/CPSC 213/1e - Lecture.md",
     "2024w notes/CPSC 221/Week 9.md",
     "2024w notes/STAT 201/Practice Questions.md",
-    "2024w notes/STAT 201/Week 5 - HW.md",
-    "2024w notes/STAT 201/Review.md",
-    "2024w notes/STAT 201/Week 5 - Simulation Based Hypothesis Testing.md",
-    "2024w notes/STAT 201/Reading/Week 5 Reading.md",
-    "2024w notes/STAT 201/Reading/Week 4 Reading.md",
-    "2024w notes/STAT 201/Reading/Week 3 Reading.md",
-    "2024w notes/STAT 201/Week 3.md",
-    "2024w notes/STAT 201/Reading/Week 2 Reading.md",
-    "2024w notes/STAT 201/Reading/Week 1 Reading.md",
-    "2024w notes/STAT 201/Week 4 - Simulation-Based Confidence Interval.md",
     "2024w notes/STAT 201/Reading",
-    "2024w notes/STAT 201/Week 1.md",
-    "2024w notes/CPSC 221/Week 8.md",
-    "2024w notes/STAT 201/Week 4 - HW.md",
-    "2024w notes/STAT 201/Week 6.md",
     "coding/oneAPI",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",

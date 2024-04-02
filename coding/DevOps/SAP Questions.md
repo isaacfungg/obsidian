@@ -1,11 +1,28 @@
 ***
 #### Data Structures and Algorithm
 How does stack, queue and other data structures work?
+* Stack: LIFO
+* Queue: FIFO
 Difference between tuple and list?
+* Tuples are immutable
+* Lists are mutable
 Types of linked lists
+- **Singly Linked List:** Each node points to the next node in the sequence, ending with a null to signify the end of the list.
+- **Doubly Linked List:** Each node points both to the next and the previous node, allowing bidirectional traversal.
+- **Circular Linked List:** Similar to singly or doubly linked lists, but the last node points back to the first node, forming a loop.
 #### Linux
 How to enter and switch the file?
 What is the difference between windows and linux OS?
+- **Windows:**
+    - Proprietary OS developed by Microsoft.
+    - User-friendly interface with extensive software and game support.
+    - Requires a license to use.
+    - Widely used in personal computing and business environments.
+- **Linux:**
+    - Open-source OS, customizable and free to use.
+    - Known for security, stability, and flexibility.
+    - Widely used in servers, development, and by technology enthusiasts.
+    - Supports a wide range of free and open-source software.
 How are Bash and powershell different?
 How will you look for all files in a folder starting with 'a'
 How to check the available disk space in Linux?
