@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 10.md",
+                "file": "coding/DevOps/DevOps Interview Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 10.md",
+                "file": "coding/DevOps/DevOps Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 10.md",
+                "file": "coding/DevOps/DevOps Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 221/Week 10.md"
+                "file": "coding/DevOps/DevOps Interview Questions.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   "active": "b6b2ef056e8e4c69",
   "lastOpenFiles": [
     "2024w notes/CPSC 221/Week 10.md",
+    "coding/DevOps/DevOps Interview Questions.md",
+    "coding/DevOps",
     "git push.md",
     "2024w notes/CPSC 213/1e.md",
     "2024w notes/CPSC 213/1f.md",
@@ -196,8 +198,6 @@
     "2024w notes/STAT 201/Week 4 - HW.md",
     "2024w notes/STAT 201/Week 6.md",
     "coding/Todo.md",
-    "coding/oneAPI/oneAPI.md",
-    "coding/Untitled",
     "coding/oneAPI",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
