@@ -64,6 +64,14 @@ How did you create VMs and its networking questions?
 What is WSDI?
 #### Cloud
 What is the difference in AWS and SAP cloud platform?
+- **AWS:**
+    - Offers a wide range of cloud services for computing, storage, databases, and more.
+    - Suitable for a variety of applications and industries.
+    - Known for flexibility and scalability.
+- **SAP Cloud Platform:**
+    - Focuses on business applications and processes.
+    - Integrates with SAP solutions, ideal for existing SAP customers.
+    - Provides tools for business analytics, data management, and application extension.
 How will you start a deployment.
 #### Network
 What happens in the backend when you type google.com in your browser? The connection established is through TCP. Then why do we get an http response?
