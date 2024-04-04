@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6b2ef056e8e4c69",
+            "id": "595b3f207da7d22e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/DevOps/SAP Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "861c94fd1e1d5d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024w notes/CPSC 213/Practice Quiz/PQ8.md",
+                "file": "2024w notes/CPSC 221/Week 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/DevOps/SAP Questions.md",
+                "file": "2024w notes/CPSC 221/Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/DevOps/SAP Questions.md",
+                "file": "2024w notes/CPSC 221/Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/DevOps/SAP Questions.md"
+                "file": "2024w notes/CPSC 221/Week 11.md"
               }
             }
           },
@@ -169,8 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6b2ef056e8e4c69",
+  "active": "595b3f207da7d22e",
   "lastOpenFiles": [
+    "2024w notes/CPSC 221/Week 11.md",
+    "coding/DevOps/SAP Questions.md",
+    "2024w notes/CPSC 221/Week 10.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/Todo.md",
@@ -185,9 +175,7 @@
     "coding/Shopify/Shopify Notes.md",
     "coding/SQL/Background Info.md",
     "coding/SQL/Questions.md",
-    "coding/DevOps/SAP Questions.md",
     "coding/DevOps/DevOps Interview Questions.md",
-    "2024w notes/CPSC 221/Week 10.md",
     "coding/DevOps",
     "git push.md",
     "2024w notes/CPSC 213/1e.md",
@@ -197,7 +185,6 @@
     "2024w notes/CPSC 213/1d - Lecture.md",
     "2024w notes/CPSC 213/1e - Lecture.md",
     "2024w notes/CPSC 221/Week 9.md",
-    "2024w notes/STAT 201/Practice Questions.md",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
     "2024w notes/CPSC 213/Practice Quiz",
