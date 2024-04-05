@@ -16,3 +16,24 @@
 `Edge Location`: A site that Amazon CLoudFront uses to store cached copies of your content closer to your customers for faster delivery
 
 #### How to Provision AWS Resources
+
+##### **Ways to interact with AWS Services**
+`AWS Management Console`
+* Web-based interface for accessing and managing AWS services
+`AWS Command Line Interface (CLI)` 
+* Allows you to control multiple AWS services directly from the command line within one tool
+`Software Development Kits (SDKs)`
+* Makes it easier to use AWS services through an API designed for your programming language or platform
+
+
+`AWS Beanstalk`
+* You provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
+	* Adjust capacity
+	* Load balancing
+	* Automatic scaling
+	* Application health monitoring
+
+`AWS CloudFormation`
+* You can build an environment by writing lines of code instead of using the AWS Management Console to individually provision resources
+
+``
