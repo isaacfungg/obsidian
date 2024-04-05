@@ -34,3 +34,15 @@
 
 `Dedicated Hosts`
 * Physical servers with Amazon EC2 instance capacity that is fully dedicated to your use.
+
+#### Directing Traffic with Elastic Load Balancing
+`Elastic Load balancing`: AWS service that automatically distributes incoming application traffic across multiple resources
+
+**Example**
+`Low-Demand period`
+* If only a few registers are open, this matches the demand of customers who need service. The coffee shop is less likely to have open registers with no customers. 
+
+`High-Demand period`
+* A coffee shop employee directs customers to the most appropriate register so that the number of requests can evenly distribute across the open registers.
+
+#### Messaging and Queuing
