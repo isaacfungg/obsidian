@@ -13,6 +13,7 @@
 `Accelerated computing instances`
 * Performs some functions more efficiently than is possible in software running on CPUs
 * For ML, AI, 3d rendering
+***
 
 #### EC2 Pricing
 `On-Demand`
@@ -35,6 +36,7 @@
 `Dedicated Hosts`
 * Physical servers with Amazon EC2 instance capacity that is fully dedicated to your use.
 
+***
 #### Directing Traffic with Elastic Load Balancing
 `Elastic Load balancing`: AWS service that automatically distributes incoming application traffic across multiple resources
 
@@ -45,6 +47,7 @@
 `High-Demand period`
 * A coffee shop employee directs customers to the most appropriate register so that the number of requests can evenly distribute across the open registers.
 
+***
 #### Messaging and Queuing
 `Monolithic Application`: An application with tightly coupled components
 * Solution: Design your application through `microservices` approach
@@ -55,6 +58,8 @@
 
 `Amazon Simple Queue Service (SQS)`
 * Can send, store, and receive messages between software components, without losing messages or requiring other services to be available
+
+***
 #### Additional Compute Services
 `Serverless computing`
 * With serverless computing, you can focus more on innovating new products and features instead of maintaining servers.

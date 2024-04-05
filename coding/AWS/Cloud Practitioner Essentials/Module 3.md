@@ -15,6 +15,7 @@
 
 `Edge Location`: A site that Amazon CLoudFront uses to store cached copies of your content closer to your customers for faster delivery
 
+***
 #### How to Provision AWS Resources
 
 ##### **Ways to interact with AWS Services**
