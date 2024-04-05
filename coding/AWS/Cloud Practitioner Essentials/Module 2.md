@@ -46,3 +46,12 @@
 * A coffee shop employee directs customers to the most appropriate register so that the number of requests can evenly distribute across the open registers.
 
 #### Messaging and Queuing
+`Monolithic Application`: An application with tightly coupled components
+* Solution: Design your application through `microservices` approach
+	* Application components are loosely coupled. In this case, if a single component fails, the other components continue to work because they are communicating with each other. The loose coupling prevents the entire application from failing.
+
+`Amazon Simple Notification Sercie (SNS)`
+* It enables the sending of messages or notifications from an application to multiple subscribers or other applications, including push notifications to mobile devices, email, SMS, and messaging to SQS queues or any HTTP endpoint.
+
+`Amazon Simple QUeue Service (SQS)`
+* Can send, store, and receive messages between software components, without losing messages or requiring other services to be available
