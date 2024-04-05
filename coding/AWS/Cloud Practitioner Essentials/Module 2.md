@@ -55,3 +55,24 @@
 
 `Amazon Simple Queue Service (SQS)`
 * Can send, store, and receive messages between software components, without losing messages or requiring other services to be available
+#### Additional Compute Services
+`Serverless computing`
+* With serverless computing, you can focus more on innovating new products and features instead of maintaining servers.
+
+`AWS Lambda`
+* AWS service for running code without needing to provision or manage servers
+* Only pay for the compute time that you consume (only when running)
+
+`Containers`
+* Provides you with a standard way to package your application's code and dependencies into a single object
+
+`Amazon Elastic Container Service (ECS)`
+* Highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS
+
+`Amazon Elastic Kubernetes Service (EKS)`
+* Fully managed service that you can use to run Kubernetes on AWS
+* **Kubernetes** is an open-source software that enables you to deploy and manage containerized applications at scale. 
+
+`AWS Fargate`
+* Serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS
+
