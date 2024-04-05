@@ -11,3 +11,8 @@
 	* Sometimes the closest Region might not have all the features that you want to offer to customers
 * `Pricing`
 
+`Availability Zone`: A single data center or group of data centers within a Region. 
+
+`Edge Location`: A site that Amazon CLoudFront uses to store cached copies of your content closer to your customers for faster delivery
+
+#### How to Provision AWS Resources
