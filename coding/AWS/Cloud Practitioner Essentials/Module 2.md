@@ -53,5 +53,5 @@
 `Amazon Simple Notification Sercie (SNS)`
 * It enables the sending of messages or notifications from an application to multiple subscribers or other applications, including push notifications to mobile devices, email, SMS, and messaging to SQS queues or any HTTP endpoint.
 
-`Amazon Simple QUeue Service (SQS)`
+`Amazon Simple Queue Service (SQS)`
 * Can send, store, and receive messages between software components, without losing messages or requiring other services to be available
