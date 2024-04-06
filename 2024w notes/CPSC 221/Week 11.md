@@ -6,6 +6,8 @@
 `Cyclic Graph`: Has cycles (DFS would encounter back edges)
 `Weighted Graph`: Each edge is assigned a weight
 
+`Discovery Tree`: 
+
 
 #### Connectivity
 `Undirected graphs`: Connected if there is a path between any two vertices
@@ -32,4 +34,3 @@
 #### Running Time
 For a simple connected graph with n vertices and m edges, what is the tightest worst case running time for removing a vertex, if the graphs are represented with Edge List, Adjacency List, Adjacency Matrix
 * O(m), O(deg(v)), O(n)
-
