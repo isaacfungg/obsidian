@@ -2,7 +2,8 @@
 `Complete Graph`: Maximum number of edges
 `Connected Graph`: Path exists between every pair of vertices
 `Connected Component`: Maximal connected subgraph
-`Acyclic Graph`: No cycles
+`Acyclic Graph`: No cycles (DFS would not encounter any back edges)
+`Cyclic Graph`: Has cycles (DFS would encounter back edges)
 `Weighted Graph`: Each edge is assigned a weight
 
 
@@ -15,3 +16,17 @@
 #### Graph Density
 `Sparse graph`: Has $O(|V|)$ edges
 `Dense graph`: Has $\theta(|V^2|)$
+
+`Degree`
+* Number of edges a vertex has
+* To calculate the total number of edges in a graph $degree/2$
+	* Total Degree is odd [cannot exist]
+	* Edges > vertex - 1 [has a cycle]
+	* Edges <= vertex - 1 [has no cycle]
+
+#### Calculations
+`DFS Back edges`
+* Total edges - Tree edges = Back Edges
+* Tree edges = n - 1
+
+#### Running Time
