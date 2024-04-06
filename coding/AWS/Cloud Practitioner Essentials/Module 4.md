@@ -42,7 +42,7 @@ When a customer requests data from an application hosted in the AWS Cloud, this 
 Suppose you want to visit AnyCompany's website
 1. When you enter the domain name into your browser, this request is sent to a customer DNS resolver
 2. The customer DNS resolver asks the company DNS server for the IP address that corresponds to AnyCompany's website
-3. The company DNS server responds by providing the IP address for ANyCompany's website
+3. The company DNS server responds by providing the IP address for AnyCompany's website
 
 ###### Amazon Route 53
 `Amazon Route 53`
