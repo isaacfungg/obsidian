@@ -12,6 +12,7 @@
 * Requires physical setup and may have a higher cost
 * Uses a private, dedicated network line
 
+***
 #### Subnets and Network Access Control Lists
 `Subnet`: A section of a VPC that can contain resources such as Amazon EC2 instances
 * `Public Subnets`

@@ -10,6 +10,8 @@
 * If you terminate the instance, the data attached to the EBS remains available
 * To define an EBS volume, you define the configuration (such as volume, size, and type)
 * Best for data that requires retention
+* Stored in a single Availability Zone
+* To attach an EC2 to an EBS volume, both EC2 and EBS have to be in the same Availability Zone
 
 ###### EBS Snapshots
 `EBS Snapshot`
@@ -60,3 +62,40 @@
 * `S3 Outposts`
 	* Creates S3 buckets on Amazon S3 Outposts
 	* Makes it easier to retrieve, store, and access data on AWS Outposts
+
+***
+
+#### Amazon Elastic File System (EFS)
+###### File Storage
+* Multiple clients (such as users, applications, servers) can access data that is stored in shared file folders.
+
+`Amazon Elastic File System (EFS)`
+* A scalable file system used with AWS and on-premises resources
+* EFS grows and shrinks automatically
+* Stores data across multiple Availability Zones
+
+***
+#### Amazon Relational Database Service (RDS)
+###### Relational Database
+* Data is stored in a way that relates it to another piece of data
+* Uses **structured query language** (SQL) to store and query data
+
+###### Relational Database Service (RDS)
+* Automates tasks such as hardware provisioning, database setup, patching, and backups
+
+###### RDS database engines
+* Amazon RDS is available on six database engines, which optimize for memory, performance, or input/output
+	* Amazon Aurora
+	* PostgreSQL
+	* MySQL
+	* MariaDB
+	* Oracle Database
+	* Microsoft SQL Server
+
+###### Amazon Aurora
+* An enterprise-class relational database
+* Compatible with MySQL and PostgreSQL relational databases
+* Up to five times faster than standard MySQL databases and up to three times faster than standard PostgreSQL databases
+* Helps reduce database costs by reducing unnecessary input/output operations
+
+

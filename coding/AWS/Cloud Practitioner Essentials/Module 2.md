@@ -13,6 +13,7 @@
 `Accelerated computing instances`
 * Performs some functions more efficiently than is possible in software running on CPUs
 * For ML, AI, 3d rendering
+
 ***
 
 #### EC2 Pricing
