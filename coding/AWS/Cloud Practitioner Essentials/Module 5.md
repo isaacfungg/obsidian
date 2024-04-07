@@ -147,7 +147,20 @@
 ***
 #### Additional Database Services
 `Amazon DocumnetDB`: A document database service that supports MongoDB workloads
+
 `Amazon Neptune`: A graph database service
 * For highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs
+
 `Amazon Quantum Ledger Database`: A ledger database service
+* Can review a complete history of all the changes that have been made to your application data
+
+`Amazon Managed Blockchain`: A service that you can use to create and manage blockchain networks with open-source frameworks
+* Allows multiple parties run transactions and share data without a central authority
+
+`Amazon ElastiCache`: A service that adds caching layers on top of your databases to help improve the read times of common requests
+* Supports Redis and Memcached
+
+`Amazon DynamoDB Accelerator`: An in-memory cache for DynamoDB
+* Helps improve response times from single-digit milliseconds to microseconds
+
 
