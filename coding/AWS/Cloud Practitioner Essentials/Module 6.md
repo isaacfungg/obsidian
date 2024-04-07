@@ -1,0 +1,2 @@
+*** 
+#### AWS Shared Responsibility Model

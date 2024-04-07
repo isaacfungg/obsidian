@@ -131,6 +131,7 @@
 #### Amazon Redshift
 ###### Amazon Redshift
 * A data warehousing service that you can use for big data analytics
+* Used to query and analyze data across a data warehouse
 
 ***
 #### AWS Database Migration Service
