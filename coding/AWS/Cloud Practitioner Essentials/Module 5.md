@@ -119,6 +119,7 @@
 * Customer ownership of data
 * Customer ownership of schema
 * Customer control of network
+* Better for business
 
 `DynamoDB`
 * Key-value
@@ -126,3 +127,8 @@
 * PB size potential
 * Granular API access
 
+***
+#### Amazon Redshift
+###### Amazon Redshift
+* A data warehousing service that you can use for big data analytics
+* 
