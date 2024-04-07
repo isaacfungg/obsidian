@@ -15,10 +15,26 @@
 
 **Best Practice**: Do *not* use the root user for everyday tasks
 * Create an IAM user and assign it permissions to create other users
-
 ###### IAM users
 `IAM user`: An identity that you create in AWS that represents the person or application that interacts with AWS services and resources
 * By default it has no permissions associated with it
-
 ###### IAM policies
 `IAM Policy`: A document that allows or denies permission to AWS services and resources
+
+**Best Practice**: Follow the security principle of *least privilege* when granting permissions
+###### IAM groups
+`IAM group`: A collection of IAM users
+* When assigning an IAM policy to a group, all users in the group are granted permissions specified by the policy
+###### IAM roles
+`IAM role`: An identity that you can assume to gain temporary access to permissions
+* When someone assumes an IAM role, they abandon all previous permissions that they had under a previous role and assume the permissions of the new role
+
+**Best Practice**: IAM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term
+
+***
+#### AWS Organizations
+###### AWS Organizations
+`AWS Organizations`: Used to consolidate and manage multiple AWS accounts within a central location
+* When you create an organization, AWS Organizations automatically creates a root
+* You can centrally control permissions for the accounts in your organization by using `service control policies (SCPs)`
+`Service Control Policies`: Enable you to place restrictions on the AWS services, resources, and individual API actions that users and roles in each account can access
