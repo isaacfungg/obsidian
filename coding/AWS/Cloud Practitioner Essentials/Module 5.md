@@ -99,3 +99,30 @@
 * Helps reduce database costs by reducing unnecessary input/output operations
 
 
+***
+#### DynamoDB
+###### Nonrelational databases
+* Often referred to as `NoSQL databases`
+* One type of structural approach for nonrelational databases is key-value pairs
+* 
+`Table`: Place where you can store and query data
+
+###### DynamoDB
+* A key-value database service
+* Delivers single-digit millisecond performance at any scale
+* Serverless meaning that you do not have to manage servers
+* As the size of your database shrinks or grows, DynamoDB automatically scales to adjust for changes in capacity
+
+###### RDS vs DynamoDB
+`RDS`
+* Automatic high availability
+* Customer ownership of data
+* Customer ownership of schema
+* Customer control of network
+
+`DynamoDB`
+* Key-value
+* Massive throughput capabilities
+* PB size potential
+* Granular API access
+
