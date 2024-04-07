@@ -131,4 +131,23 @@
 #### Amazon Redshift
 ###### Amazon Redshift
 * A data warehousing service that you can use for big data analytics
-* 
+
+***
+#### AWS Database Migration Service
+* Enables you to migrate relational databases, non relational databases, and other types of data stores
+* The source database remains fully operational during the migration
+###### Other use cases for AWS DMS
+`Development and test database migrations`: Enabling developers to test applications against production data without affecting production users
+`Database consolidation`: Combining several databases into a single database
+`Continuous replication`: Sending ongoing copies of your data to other target sources instead of doing a one-time migration
+
+`Homogenous databases`: Same type migration
+`Heterogeneous databases`: Different type migration
+
+***
+#### Additional Database Services
+`Amazon DocumnetDB`: A document database service that supports MongoDB workloads
+`Amazon Neptune`: A graph database service
+* For highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs
+`Amazon Quantum Ledger Database`: A ledger database service
+
