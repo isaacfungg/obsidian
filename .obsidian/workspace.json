@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md"
+                "file": "coding/AWS/Complete Study/Study Guide.md"
               }
             }
           },
@@ -156,11 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "223da003e8feb6d4",
+  "active": "595b3f207da7d22e",
   "lastOpenFiles": [
+    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+    "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Complete Study",
     "coding/SQL/Node SQLite.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
@@ -193,7 +194,6 @@
     "coding/Network Devices",
     "coding/LeetCode",
     "coding/Linux",
-    "coding/React Native",
     "Untitled.canvas"
   ]
 }

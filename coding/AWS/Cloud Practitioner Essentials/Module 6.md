@@ -54,7 +54,6 @@
 `Customer Compliance Center`: Contains resources to help you learn more about AWS compliance
 
 ***
-
 #### Denial-of-Service Attacks
 ###### Denial-of-service attacks
 `DoS Attack`: A deliberate attempt to make a website or application unavailable to users
