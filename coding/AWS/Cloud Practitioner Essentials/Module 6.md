@@ -65,3 +65,19 @@
 `AWS Shield`: A service that protects applications against DDoS Attacks. 
 `AWS Shield Standard`: Automatically protects all AWS customers at no cost
 `AWS Shield Advanced`: A paid service that provides detailed attack diagnostics and the ability to detect and mitigate sophisticated DDoS attacks
+
+***
+#### Additional Security Services
+###### AWS Key Management Service (AWS KMS)
+* Enables you to perform encryption operations through the use of cryptographic keys (create, manage and use)
+* `Cryptographic key`: A random string of digits used for locking (encrypting) and unlocking (decrypting) data.
+
+###### AWS WAF
+* A web application firewall that lets you monitor network requests that come into your web applications
+* Works together with CloutFront and an Application Load balancer
+
+###### Amazon Inspector
+* Used to perform automated security assessments
+
+###### Amazon GuardDuty
+* Provides intelligent threat detection for your AWS infrastructure and resources
