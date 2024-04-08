@@ -41,3 +41,17 @@
 
 ###### Organizational Units
 * When you apply a policy to an OU, all the accounts in the OU automatically inherit the permissions specified in the policy
+
+***
+#### Compliance
+###### AWS Artifact
+`AWS Artifact`: A service that provides on-demand access to AWS security and compliance reports and select online agreements
+
+`AWS Artifact Agreements`: Allows you to review, accept, and manage agreements for an individual account and for all your accounts in AWS Organizations
+`AWS Artifact Reports`: Provide compliance reports from third-party auditors
+
+###### Customer Compliance Center
+`Customer Compliance Center`: Contains resources to help you learn more about AWS compliance
+
+***
+

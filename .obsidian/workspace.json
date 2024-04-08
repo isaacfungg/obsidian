@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/SQL/Node SQLite.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/SQL/Node SQLite.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/SQL/Node SQLite.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/SQL/Node SQLite.md"
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 6.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "595b3f207da7d22e",
   "lastOpenFiles": [
+    "coding/SQL/Node SQLite.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
@@ -186,7 +187,6 @@
     "coding/DevOps",
     "git push.md",
     "2024w notes/CPSC 213/1e.md",
-    "2024w notes/CPSC 213/1f.md",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
     "2024w notes/CPSC 213/Practice Quiz",
