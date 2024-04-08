@@ -124,10 +124,12 @@ Serverless doesn't mean there are no servers, rather it refers to an absence of 
 `Elastic Block Storage (EBS`
 * Block storage 
 * Most compatible with EC2 instances
+* Can be attached to multiple instances, but only one at a time
 
 `Elastic File System (EFS)`
 * File storage
 * Useful when multiple users need access to the same drive
+* Automatically grows or shrinks based on usage
 
 `Simple Storage Service (S3)`
 * Object storage
@@ -162,3 +164,33 @@ Consists of objects and buckets
 
 `S3 Glacier Deep Archive`
 * Same as Glacier but cheaper and slower
+
+#### AWS Snow Family
+Physical devices used to move data in and out of the AWS cloud
+
+`AWS Snowcone`
+* Supports 8TB of storage for HDD, 14TB for SSD
+
+`AWS Snowball`
+* Snowball Edge storage optimized - 80 TB HDD
+* Snowball Edge Compute optimized - 28TB SSD
+
+`AWS Snowmobile`
+* 100 PB or more
+
+#### AWS Relational DB Services
+`Relational Database Service (RDS)`
+* Support for most common SQL based databases such as MySQL, PostgreSQL, Oracle, and Microsoft SQL
+
+`Amazon Aurora`
+* Fully managed RDBS service for MySQL or PostgreSQL
+* Highly available, durable, scalable, and secure
+* Can be serverless as well
+
+#### AWS non-relational DB services
+`DynamoDB`
+* Primary NoSQL database from AWS, designed to be extremely fast, available, and scalable
+* Can scale to billions of records with guaranteed consistent data return in seconds
+
+`DocumentDB`
+* NoSQL document database, primarily used for MongoDB
