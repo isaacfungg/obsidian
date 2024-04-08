@@ -55,3 +55,14 @@
 
 ***
 
+#### Denial-of-Service Attacks
+###### Denial-of-service attacks
+`DoS Attack`: A deliberate attempt to make a website or application unavailable to users
+
+###### Distributed denial-of-service attacks
+`DDos Attack`: Multiple sources are used to start an attack that aims to make a website or application unavailable
+
+###### AWS Shield
+`AWS Shield`: A service that protects applications against DDoS Attacks. 
+`AWS Shield Standard`: Automatically protects all AWS customers at no cost
+`AWS Shield Advanced`: A paid service that provides detailed attack diagnostics and the ability to detect and mitigate sophisticated DDoS attacks
