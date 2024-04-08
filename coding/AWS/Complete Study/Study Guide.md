@@ -34,3 +34,30 @@ Examples of what the customer is responsible for:
 7. Stop spending money on data centers
 8. Go global in minutes
 
+#### AWS Global Infrastructure
+`Regions` - A geographical location comprised of data center clusters
+`Availability zones` - One or more physical data centers within a region that have their own power networking, and connectivity to each other within a region
+`Edge locations` - A site used to cache copies of data for faster delivery to end users. Mostly used for the CloudFront service
+
+#### AWS Well-Architected Framework
+**Operational Excellence** - Run and monitor systems
+**Security** - Protect data and systems, mitigate risk
+**Reliability** - Mitigate and recover from disruptions
+**Performance Efficiency** - Use resources effectively
+**Cost optimization** - Get the lowest prices
+
+#### Managing AWS resources
+`Management console` - User friendly web based interface
+* The most user-friendly way to interact with and manage AWS Resources
+`Software Development Kits (SDKs)` - Make your code compatible to run and manage AWS resources
+* Set of tools used to build software
+`Command Line Interface (CLI)` - Used to programmatically make changes to your AWS resources
+* Tool you can use to create and run scripts to automate processes in AWS
+
+#### Access Keys
+2 components to access keys:
+* Access Key ID
+* Secret access key
+
+
+
