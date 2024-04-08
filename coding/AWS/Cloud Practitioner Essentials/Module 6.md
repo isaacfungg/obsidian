@@ -38,3 +38,6 @@
 * When you create an organization, AWS Organizations automatically creates a root
 * You can centrally control permissions for the accounts in your organization by using `service control policies (SCPs)`
 `Service Control Policies`: Enable you to place restrictions on the AWS services, resources, and individual API actions that users and roles in each account can access
+
+###### Organizational Units
+* When you apply a policy to an OU, all the accounts in the OU automatically inherit the permissions specified in the policy
