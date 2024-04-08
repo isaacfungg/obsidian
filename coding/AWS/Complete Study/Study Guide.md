@@ -59,5 +59,106 @@ Examples of what the customer is responsible for:
 * Access Key ID
 * Secret access key
 
+#### EC2
+The flagship AWS compute service that allows you to launch Virtual Machines, called instances
+* A VM is an emulation of a physical computer using osftware
+* Multiple VM's can run on the same physical server, allowing you to share costs
 
+You can configure components such as:
+* Amount of memory
+* Amount of CPU's (processor cores)
+* Amount of network bandwidth
+* OS 
 
+#### EC2 instance types
+`General purpose` - Balance of compute, memory, and networking resources
+`Compute Optimized` - Ideal when high processing power needed
+`Memory Optimized` - Used for workloads processing large data sets in memory
+`Accelerated Optimized` - Primarily used for Machine Learning
+`Storage Optimized` - High read/write access to large data sets on local storage
+
+#### EC2 Tenancy Types
+Tenancy is what allows for cost savings between customers
+`Shared (default)` - Multiple AWS accounts are using the same physical hardware
+`Dedicated instance` - Instance runs on single-tenant hardware (not an entire host)
+`Dedicated host` = Instance runs on its own physical server that you can control and configure
+
+#### EC2 Pricing Models
+`On-Demand`
+* Pay as you go
+* Pricing works based on hourly rates
+
+`Reserved instances`
+* Best for applications that have a steady, predictable usage
+* Can commit to 1 or 3 years of usage
+* Can pay upfront, partial upfront, or no upfront
+* Can be shared between accounts, and if not being used you can sell your reserved instances
+
+`Spot instances`
+* Unused compute capacity you can buy from AWS with up to 90% savings when compared to on demand
+
+#### Auto scaling groups and Load balancers
+These two services together are what allows you to achieve high elasticity and scalability for compute workloads
+
+`Auto scaling groups` - Can automatically add or remove instances to meet your performance requirements
+`Elastic Load Balances (ELB)` - Distribute traffic between instances to achieve best possible latency
+* `Application Load balancer` - Used for distributing traffic from the web to targets in your network
+* `Network Load Balancer` - Used to handle millions of requests per second (TCP traffic)
+
+#### VM's and Containers
+VM utilizes software to replicate using an actual server
+* `Amazon Lightsail` - managed VM service (user friendly EC2)
+
+Containers have everything an application needs to run on a server
+* `Elastic Container Service (ECS)` - supports Docker containers
+* `ECS Fargate` - More hands-off container management service
+* `Elastic Kubernetes Service (EKS)` - More hands-on container management service that utilizes Kubernetes
+
+#### Serverless
+Serverless doesn't mean there are no servers, rather it refers to an absence of physical dedicated servers. In other words, your programs and workloads aren't tied to a specific server
+
+`AWS Lambda` is the primary serverless compute tool. Used to run code without provisioning servers
+`AWS Elastic Beanstalk` is fully managed service to allow you to deploy serverless web applications. You tell AWS what kind of resources your app needs to run and AWS will deploy and manage them for you, allowing you to focus on your app and not infrastructure
+
+#### Types of storage services
+`Elastic Block Storage (EBS`
+* Block storage 
+* Most compatible with EC2 instances
+
+`Elastic File System (EFS)`
+* File storage
+* Useful when multiple users need access to the same drive
+
+`Simple Storage Service (S3)`
+* Object storage
+* Offers virtually unlimited amounts of storage 
+* Most widely used AWS storage service
+
+`AWS Snow Family`
+* Used to migrate data in or out of AWS cloud
+
+#### S3
+Object based storage service with unlimited storage capacity
+Consists of objects and buckets
+* `Object` - What actually contains your data, similar to a file. Consists primarily of key/value pairs
+* `Bucket` - What holds your objects, can contain folders. Name must be globally unique
+
+#### S3 Storage Classes
+`S3 Standard (default)`
+* Most expensive, 99.99% availability, 11 9's durability, replicated across at least 3 AZ's. Very fast data retrieval
+
+`S3 Intelligent tiering`
+* Uses ML to move objects to most appropriate storage class
+
+`S3 Standard-IA`
+* Best if objects are accessed less than once a month
+* Cheaper than standard, still fast data retrieval
+
+`S3 One Zone IA`
+* Same as standard IA but data only lives in one AZ, so it is cheaper
+
+`S3 Glacier`
+* Long term storage ideal for archives. Very cheap but data retrieval takes minutes to hours
+
+`S3 Glacier Deep Archive`
+* Same as Glacier but cheaper and slower
