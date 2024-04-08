@@ -194,3 +194,53 @@ Physical devices used to move data in and out of the AWS cloud
 
 `DocumentDB`
 * NoSQL document database, primarily used for MongoDB
+
+#### Other Database Services
+`Redshift`
+* Data warehouse solution, designed to store data in a manner similar to SQL (relational) and run extremely large and complex queries
+
+`Elasticache`
+* Based off Memcached and redis, an in memory data store designed to cache data for quicker access for end users
+
+`Database Migration Service (DMS)`
+* On premise database to AWS
+* From SQL to NoSQL database
+
+#### Virtual Private Cloud and Subnets
+* `VPC` is a logically isolated section of the AWS network where you launch your AWS resources
+* `Subnets` are smaller partitions within your VPC's that also utilize IP address ranges. Must have smaller IP range than your VPC. They can be public or private
+
+#### Security Groups and NACL's
+* `Security Groups` work at the instance level
+	* Implicitly denies all traffic
+	* Work off of allow rules only (stateful)
+* `Network Access Control List (NACL)` work at subnet level
+	* Virtual firewall at the network level
+	* Uses allow and deny rules (stateless)
+
+#### VPN and Direct Connect
+* `Virtual Private Network` is generally the equivalent to an on-premise version of VPC. Provides an isolated secure environment to access resources
+	* An AWS VPN establishes the same tunnel but between your network/devices and the AWS global network
+	* Two types of VPN's
+		* Site to site VPN - connect on-premise network to VPC
+		* Client VPN - connect end users to AWS or on-premise networks
+* `AWS Direct Connect` allows you to create a direct, physical connection to AWS from on-premise where your traffic never touches the public internet
+
+#### Encryption
+* Allows your data to stay confidential at all stages of its life cycle
+* Two primary modes of encryption:
+	* In transit - SSL/TLS
+	* At rest - S3 SSE, RDS DB instances, and more
+* One of the most popular and secure types of encryption is AES-256
+
+#### AWS Inspector
+* `Inspector` runs a security benchmark against specified EC2 instances
+
+#### AWS Shield
+* Used specifically to prevent DDoS attacks
+* Inherently used with Route53 and CloudFront
+* Standard version is free, Advanced is $3000/month
+
+#### Amazon GuardDuty
+* Threat detection services that continuously monitors your accounts for malicious activity
+
