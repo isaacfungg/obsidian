@@ -71,3 +71,7 @@
 * Training and Game Days to drive innovation
 * Tools to monitor costs and performance through Trusted Advisor and Health API/Dashboard
 
+#### AWS Marketplace
+* A digital catalog that includes thousands of software listings from independent software vendors.
+* Used to find, test, and buy software that runs on AWS
+* 
