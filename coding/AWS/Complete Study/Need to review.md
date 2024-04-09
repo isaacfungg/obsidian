@@ -2,9 +2,6 @@
 `AWS Organizations`
 * Answer
 	* Allows management of multiple AWS accounts, enabling centralized billing, account management, and applying policies across accounts for governance.
-`AWS Trusted Groups`
-* Answer
-	* Offers recommendations to help you follow AWS best practices, focusing on cost optimization, performance, security, and fault tolerance.
 `IAM User Groups`
 * Answer
 	* A way to manage IAM users by grouping them, making it easier to assign permissions to multiple users at once.
@@ -63,3 +60,33 @@
 * Answer
 	* An AWS service that enables you to visualize, understand, and manage your AWS costs and usage over time. It provides detailed reports that analyze your costs and usage trends.
 
+#### Database Services
+`DynamoDB`
+* Answer
+	* A fully managed NoSQL database service known for its high performance and scalability. It supports key-value and document data structures, ideal for web, mobile, gaming, ad tech, IoT, and many other applications.
+`Aurora`
+* Answer
+	* A part of Amazon RDS, it's a high-performance managed relational database compatible with MySQL and PostgreSQL. It provides up to five times the performance of MySQL and three times the performance of PostgreSQL, with scalability, durability, and security.
+`Redshift`
+* Answer
+	* A fully managed, petabyte-scale data warehouse service in the cloud. It allows you to analyze all your data using standard SQL and your existing Business Intelligence tools. It's optimized for complex queries (across large datasets) and designed for high performance.
+`RDS`
+* Answer
+	* Makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, supporting several database instance types - MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server.
+
+#### Security Services
+`AWS Trusted Advisor`
+* Answer
+	* Offers recommendations to help you follow AWS best practices, focusing on cost optimization, performance, security, and fault tolerance.
+`Amazon Inspector`
+* Answer
+	* Automated security assessment service to help improve the security and compliance of applications deployed on AWS.
+`Amazon SNS`
+* Answer
+	* A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication.
+`Amazon CloudWatch`
+* Answer
+	* Provides data and actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health.
+`Concierge Support Team`
+* Answer
+	* Part of AWS Support that provides account and billing guidance, and specialized attention from AWS to Business and Enterprise support plan customers.
