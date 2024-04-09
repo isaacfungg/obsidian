@@ -87,8 +87,17 @@
 `Amazon CloudWatch`
 * Answer
 	* Provides data and actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health.
+
+#### AWS Support
+`AWS Knowledge Center`
+* Answer
+	* A repository of informational articles and best practices for using AWS services and features, addressing common user questions and issues.
+`AWS Health Dashboard`
+* Answer
+	* Provides real-time visibility into the health of AWS services and accounts, alerting users to ongoing issues and planned maintenance events.
+`Infrastructure Event Management`
+* Answer
+	* Part of AWS Support, offering planning and support for customers expecting high-traffic events, ensuring their AWS environment is optimized for scale and reliability.
 `Concierge Support Team`
 * Answer
 	* Part of AWS Support that provides account and billing guidance, and specialized attention from AWS to Business and Enterprise support plan customers.
-
-#### AWS Support
