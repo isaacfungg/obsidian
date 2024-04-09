@@ -14,3 +14,52 @@
 `AWS Config`
 * Answer
 	* Provides a detailed view of the configuration of AWS resources in your account, including changes over time, for security and governance compliance.
+
+#### Storage
+`EBS`
+* Answer
+	* Provides persistent block storage volumes for use with EC2 instances, allowing you to store data beyond the lifecycle of a single EC2 instance.
+`Instance store`
+* Answer
+	* Offers temporary block-level storage directly attached to the host computer for an EC2 instance. Data is lost if the instance is stopped or terminated.
+`EFS`
+* Answer
+	* Offers scalable file storage for use with AWS Cloud services and on-premises resources. It's built to scale on demand to petabytes without disrupting applications, supporting multiple EC2 instances.
+`S3`
+* Answer
+	* Object storage service that offers industry-leading scalability, data availability, security, and performance. It can store and protect any amount of data for a range of use cases.
+	* For more general storage cases (not working with ec2)
+
+#### S3 Tiers
+`S3 Standard`
+* Answer
+	* For frequently accessed data, offering high durability, availability, and performance object storage for a wide range of applications.
+`S3 Intelligent-Tiering`
+* Answer
+	* Automatically moves data between two access tiers based on changing access patterns, suitable for data with unknown or changing access patterns.
+`S3 Standard-IA`
+* Answer
+	* For data that is less frequently accessed but requires rapid access when needed. Lower fee than Standard, but with a retrieval fee.
+`S3 One Zone-IA`
+* Answer
+	* Similar to Standard-IA but stored in a single availability zone. Cost-effective for infrequently accessed data that doesn't require the resilience of multiple availability zones.
+`S3 Glacier`
+* Answer
+	* For long-term archiving and backup at very low costs. Retrieval times can range from minutes to hours.
+`S3 Glacier Deep Archive`
+* Answer
+	* The lowest-cost storage option for long-term archive and digital preservation, with retrieval times of 12 hours or longer.
+#### Management and Governance Tools
+`Elastic Load Balancer`
+* Answer
+	* Automatically distributes incoming application traffic across multiple targets, such as EC2 instances, ensuring fault tolerance and scalability of your application.
+`AWS Budgets`
+* Answer
+	* Allows you to set custom budgets that alert you when your costs or usage exceed (or are forecasted to exceed) your budgeted amount, helping you stay within your cost and usage limits.
+`AWS Auto Scaling`
+* Answer
+	* Monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. It can scale EC2 instances up or down according to conditions you define.
+`AWS Cost Explorer`
+* Answer
+	* An AWS service that enables you to visualize, understand, and manage your AWS costs and usage over time. It provides detailed reports that analyze your costs and usage trends.
+
