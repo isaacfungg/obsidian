@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Cloud Practitioner Essentials/Module 8.md"
+                "file": "coding/AWS/Cloud Practitioner Essentials/Module 9.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "595b3f207da7d22e",
   "lastOpenFiles": [
-    "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
@@ -186,7 +187,6 @@
     "coding/Linux/Questions.md",
     "coding/Shopify/Shopify Notes.md",
     "coding/SQL/Background Info.md",
-    "coding/SQL/Questions.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
