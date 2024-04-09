@@ -101,3 +101,17 @@
 `Concierge Support Team`
 * Answer
 	* Part of AWS Support that provides account and billing guidance, and specialized attention from AWS to Business and Enterprise support plan customers.
+
+#### Communication and Networking Services
+`Amazon SQS`
+* Answer
+	* A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It provides a reliable, highly scalable, hosted queue for storing messages as they travel between computers.
+`Amazon SES`
+* Answer
+	* A cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails. It's a cost-effective, flexible, and scalable way to send emails.
+`AWS Direct Connect`
+* Answer
+	* A cloud service solution that makes it easy to establish a dedicated network connection from your premises to AWS. This can reduce network costs, increase bandwidth throughput, and provide a more consistent network experience than internet-based connections.
+`AWS Connect`
+* Answer
+	* A cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. It's easy to set up, scalable, and flexible, allowing you to create a contact center in minutes and easily manage it.
