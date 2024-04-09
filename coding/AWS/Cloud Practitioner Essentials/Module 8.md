@@ -24,3 +24,50 @@
 * Makes it easier to track the combined costs of all the linked accounts in your organization
 
 ***
+#### AWS Budgets
+* Create budgets to plan your service usage, service costs, and instance reservations
+
+***
+
+#### AWS Cost Explorer
+* Lets you visualize, understand, and manage your AWS costs and usage over time
+* Includes a default report of the costs and usage for your top five cost-accruing services
+
+***
+#### AWS Support Plans
+###### AWS Support
+* Offers four different support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services
+	* Basic
+	* Developer
+	* Business
+	* Enterprise On-Ramp
+	* Enterprise
+
+###### Basic Support
+* Free for all AWS customers
+* Includes access to whitepapers, documentation, and support communities
+* Access to limited selection of AWS Trusted Advisor checks
+
+###### Developer Support
+* Best practice guidance
+* Client-side diagnostic tool
+* Building-block architecture support, which consists of guidance for how to use AWS offerings, features, and services together
+
+###### Business Support
+* Use-case guidance to identify AWS offerings, features, and services that can best support your specific needs
+* All AWS Trusted Advisor checks
+* Limited support for third-party software, such as common operating systems and application stack components
+
+###### Enterprise On-Ramp Support
+* A pool of Technical Account Managers to provide proactive guidance and coordinate access to programs and AWS experts
+* A Cost Optimization workshop
+* A Concierge support team for billing and account assistance
+* Tools to monitor costs and performance through Trusted Advisor and Health API/Dashboard
+
+###### Enterprise Support
+* A designated Technical Account Manager to provide proactive guidance and coordinate access to programs and AWS experts
+* A concierge support team for billing and account assistance
+* Operations Reviews and tools to monitor health
+* Training and Game Days to drive innovation
+* Tools to monitor costs and performance through Trusted Advisor and Health API/Dashboard
+
