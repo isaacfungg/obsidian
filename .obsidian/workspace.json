@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloudfront",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md"
+                "file": "coding/AWS/Complete Study/Study Guide.md"
               }
             }
           },
@@ -158,20 +159,20 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
-    "coding/AWS/Complete Study/Questions Wrong.md",
-    "coding/AWS/Complete Study/Need to review.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+    "coding/AWS/Complete Study/Need to review.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
+    "coding/AWS/Complete Study/Questions Wrong.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 10.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
     "coding/AWS/Complete Study/Study Guide.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
     "coding/AWS/Complete Study",
     "coding/SQL/Node SQLite.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "2024w notes/CPSC 221/Week 11.md",
     "coding/AWS/Cloud Practitioner Essentials",
     "coding/AWS",

@@ -129,3 +129,8 @@
 `Amazon VPC`
 * Answer
 	* A service that lets you launch AWS resources in a logically isolated virtual network that you define. It gives you complete control over your virtual networking environment, including resource placement, connectivity, and security.
+
+#### Others
+`ElastiCache`
+* Answer
+	* A fully managed in-memory caching service that improves the performance of web applications by retrieving information from fast, managed, in-memory caches, instead of relying solely on slower disk-based databases. ElastiCache supports popular open-source in-memory engines such as Redis and Memcached, making it easy to set up, manage, and scale distributed in-memory data stores or cache environments in the cloud.
