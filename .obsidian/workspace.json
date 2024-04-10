@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloudfront",
+                "query": "kms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,11 +159,11 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
+    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+    "coding/AWS/Complete Study/Need to review.md",
     "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
-    "coding/AWS/Complete Study/Need to review.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
     "coding/AWS/Complete Study/Questions Wrong.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
