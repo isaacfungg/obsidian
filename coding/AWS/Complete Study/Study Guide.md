@@ -238,7 +238,8 @@ Physical devices used to move data in and out of the AWS cloud
 
 #### AWS Shield
 * Used specifically to prevent DDoS attacks
-* Inherently used with Route53 and CloudFront
+* Inherently used with Route53 and 
+* CloudFront
 * Standard version is free, Advanced is $3000/month
 
 #### Amazon GuardDuty
