@@ -115,3 +115,17 @@
 `AWS Connect`
 * Answer
 	* A cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. It's easy to set up, scalable, and flexible, allowing you to create a contact center in minutes and easily manage it.
+
+#### Networking and Infrastructure Services
+`AWS VPN`
+* Answer
+	* Provides a secure and private connection between your network or device and the AWS network. It allows you to establish secure communication channels for remote access or to connect your on-premises network to your AWS infrastructure.
+`AWS Subnets`
+* Answer
+	* A subnet is a range of IP addresses in your VPC. Subnets allow you to segment your VPC's IP address range into smaller groups, which can be used to isolate and control access to resources for better security and operational efficiency.
+`AWS Dedicated Hosts`
+* Answer
+	* Physical servers with EC2 instance capacity fully dedicated for your use. Dedicated Hosts can help you address compliance requirements and reduce costs by allowing you to use your existing server-bound software licenses.
+`Amazon VPC`
+* Answer
+	* A service that lets you launch AWS resources in a logically isolated virtual network that you define. It gives you complete control over your virtual networking environment, including resource placement, connectivity, and security.
