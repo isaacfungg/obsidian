@@ -81,9 +81,6 @@
 `Amazon Inspector`
 * Answer
 	* Automated security assessment service to help improve the security and compliance of applications deployed on AWS.
-`Amazon SNS`
-* Answer
-	* A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication.
 `Amazon CloudWatch`
 * Answer
 	* Provides data and actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health.
@@ -109,6 +106,9 @@
 `Amazon SES`
 * Answer
 	* A cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails. It's a cost-effective, flexible, and scalable way to send emails.
+`Amazon SNS`
+* Answer
+	* A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication.x
 `AWS Direct Connect`
 * Answer
 	* A cloud service solution that makes it easy to establish a dedicated network connection from your premises to AWS. This can reduce network costs, increase bandwidth throughput, and provide a more consistent network experience than internet-based connections.
