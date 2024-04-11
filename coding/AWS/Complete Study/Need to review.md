@@ -134,3 +134,21 @@
 `ElastiCache`
 * Answer
 	* A fully managed in-memory caching service that improves the performance of web applications by retrieving information from fast, managed, in-memory caches, instead of relying solely on slower disk-based databases. ElastiCache supports popular open-source in-memory engines such as Redis and Memcached, making it easy to set up, manage, and scale distributed in-memory data stores or cache environments in the cloud.
+`Amazon Cognito`
+* Answer
+	* Service that provides authentication, authorization, and user management for web and mobile applications
+`Amazon EMR`
+* Answer
+	* Cloud big data platform for processing massive amounts of data using open-source tools
+`Amazon MQ`
+* Answer
+	* Managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers in the cloud
+`EBS Snapshot`
+* Answer
+	* Point-in-time backup for your amazon EBS volume, which can be used to create a new EBS volume or restore a previous state
+`AMI`
+* Answer
+	* An image of a server in the amazon Cloud that contains all the information necessary to boot instances of your software
+`AWS WAF`
+* Answer
+	* Web application firewall service that helps protect web applications and API's against common web exploits and bots that may affect availability
