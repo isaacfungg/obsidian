@@ -169,12 +169,10 @@
 	- Useful for understanding application behavior and pinpointing the root cause of issues.
 `aaS (Infrastructure as a Service)`
 * Answer
-	* This cloud computing model provides virtualized computing resources over the internet. IaaS allows users to rent virtual servers and storage, and to run and manage virtual data centers. Amazon EC2 is a classic example of IaaS, providing scalable compute capacity.
-    
+	* This cloud computing model provides virtualized computing resources over the internet. IaaS allows users to rent virtual servers and storage, and to run and manage virtual data centers. Amazon EC2 is a classic example of IaaS, providing scalable compute capacity.   
 `SaaS (Software as a Service)`
 * Answer
 	* This model delivers software applications over the internet, on a subscription basis. Users access software through their web browser without managing underlying infrastructure. Examples include Google Workspace, Salesforce, and Microsoft Office 365.
-    
 `PaaS (Platform as a Service)`
 * Answer
 	* PaaS provides a platform allowing customers to develop, run, and manage applications without dealing with the complexities of building and maintaining the infrastructure typically associated with developing and launching an app. Examples include Heroku, Google App Engine, and AWS Elastic Beanstalk.
