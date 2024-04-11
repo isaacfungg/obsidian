@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 2.md"
+                "file": "2024w notes/STAT 201/Final Review/Week 3.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
-    "coding/AWS/Complete Study/Need to review.md",
     "2024w notes/STAT 201/Final Review/Week 2.md",
+    "2024w notes/STAT 201/Final Review/Week 3.md",
+    "coding/AWS/Complete Study/Need to review.md",
     "2024w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
@@ -187,7 +188,6 @@
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Two Pointers.md",
     "coding/Network Devices/Questions.md",
-    "coding/Network Devices/Lesson 1.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
