@@ -26,6 +26,7 @@
 * Answer
 	* Object storage service that offers industry-leading scalability, data availability, security, and performance. It can store and protect any amount of data for a range of use cases.
 	* For more general storage cases (not working with ec2)
+	* Designed with native multi-AZ fault tolerance in mind
 
 #### S3 Tiers
 `S3 Standard`
@@ -64,6 +65,7 @@
 `DynamoDB`
 * Answer
 	* A fully managed NoSQL database service known for its high performance and scalability. It supports key-value and document data structures, ideal for web, mobile, gaming, ad tech, IoT, and many other applications.
+	* Designed with native multi-AZ fault tolerance in mind
 `Aurora`
 * Answer
 	* A part of Amazon RDS, it's a high-performance managed relational database compatible with MySQL and PostgreSQL. It provides up to five times the performance of MySQL and three times the performance of PostgreSQL, with scalability, durability, and security.
@@ -73,6 +75,12 @@
 `RDS`
 * Answer
 	* Makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, supporting several database instance types - MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server.
+	* It's primary storage is EBS
+
+ `Read Replicas`:
+ * Answer
+	 * These are copies of your primary database that can serve read traffic. While their primary purpose is to scale out beyond the capacity of a single database for read-heavy database workloads, they can also be promoted to become standalone databases in the event of a failure.
+	 * For **Aurora**, **DynamoDB** and **ElastiCache**
 
 #### Security Services
 `AWS Trusted Advisor`
@@ -152,3 +160,10 @@
 `AWS WAF`
 * Answer
 	* Web application firewall service that helps protect web applications and API's against common web exploits and bots that may affect availability
+`AWS X-ray`
+* Answer
+	* Provides insights into application performance and interactions with AWS and external services.
+	- Helps analyze and debug distributed applications, including those built with microservices.
+	- Offers an end-to-end view of requests through your application.
+	- Shows a map of application components to identify performance issues and errors.
+	- Useful for understanding application behavior and pinpointing the root cause of issues.
