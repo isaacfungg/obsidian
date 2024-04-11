@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kms",
+                "query": "ebs ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md"
+                "file": "2024w notes/STAT 201/Final Review/Week 2.md"
               }
             }
           },
@@ -159,12 +158,14 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
-    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
     "coding/AWS/Complete Study/Need to review.md",
+    "2024w notes/STAT 201/Final Review/Week 2.md",
+    "2024w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study/Study Guide.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 6.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "coding/AWS/Complete Study/Questions Wrong.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
@@ -187,14 +188,12 @@
     "coding/LeetCode/Two Pointers.md",
     "coding/Network Devices/Questions.md",
     "coding/Network Devices/Lesson 1.md",
-    "coding/Linux/Terminal Commands.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
     "2024w notes/CPSC 213/Practice Quiz",
     "coding/Network Devices",
     "coding/LeetCode",
-    "coding/Linux",
     "Untitled.canvas"
   ]
 }
