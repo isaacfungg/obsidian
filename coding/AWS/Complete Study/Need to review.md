@@ -178,3 +178,6 @@
 `PaaS (Platform as a Service)`
 * Answer
 	* PaaS provides a platform allowing customers to develop, run, and manage applications without dealing with the complexities of building and maintaining the infrastructure typically associated with developing and launching an app. Examples include Heroku, Google App Engine, and AWS Elastic Beanstalk.
+`AWS Elastic Beanstalk`
+* Answer
+	* A PaaS that automates the deployment and scaling of applications. You upload your code, and it handles provisioning, load balancing, and monitoring, while still allowing you to control the underlying resources.
