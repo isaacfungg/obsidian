@@ -10,13 +10,32 @@
 #### Definitions
 `Population`
 * The group containing all elements you want to study
-* Is unknown
+* Is **unknown
 `Population Distribution`
 * Obtained by measuring all the elements in the population
-* Is unknown
+* Is **unknown
 `Parameters`
 * Quantities that summarize the population
-* Fixed but known
+* Fixed but **unknown
 `Random Sample`
 * A subset of the population selected at random
 * Changes every time you draw a sample
+`Sample Distribution`
+* Obtained by measuring all the elements in the sample
+* The distribution of a statistic across **all possible** samples
+* Is **known
+* We hope that the sample distribution resembles the population distribution
+* Things that affect the sampling distribution
+	* Population
+	* Sample size
+	* Statistic
+`Statistics`
+* Quantities that summarize the sample
+* Samples are random, so statistics are also random
+* We use statistics to estimate unknown population parameters
+`Independent sample`
+* The selection of one element does not influence the selection of another
+`Sampling with Replacement`
+* Allows repeated elements in our sample
+`Sampling without Replacement`
+* Doesn't allow repeated elements in our sample
