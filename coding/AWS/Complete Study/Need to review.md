@@ -179,3 +179,7 @@
 `AWS Elastic Beanstalk`
 * Answer
 	* A PaaS that automates the deployment and scaling of applications. You upload your code, and it handles provisioning, load balancing, and monitoring, while still allowing you to control the underlying resources.
+`AWS Lambda`
+* Answer
+	* The primary serverless compute tool. Used to run code without provisioning servers
+	* Scales automatically
