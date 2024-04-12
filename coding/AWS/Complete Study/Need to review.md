@@ -183,3 +183,12 @@
 * Answer
 	* The primary serverless compute tool. Used to run code without provisioning servers
 	* Scales automatically
+`AWS Application Discovery Service`
+* Answer
+	* Used for the initial planning stage of a migration
+`AWS Migration Hub`
+* Answer
+	* Used to track the progress of migrations from multiple AWS and partner solutions
+`Database Migration Service (DMS)`
+* Answer
+	* Used for migrating databases to AWS either by replicating live databases with minimal downtime or moving data between different database platforms
