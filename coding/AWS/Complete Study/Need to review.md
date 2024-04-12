@@ -167,7 +167,7 @@
 	- Offers an end-to-end view of requests through your application.
 	- Shows a map of application components to identify performance issues and errors.
 	- Useful for understanding application behavior and pinpointing the root cause of issues.
-`aaS (Infrastructure as a Service)`
+`IaaS (Infrastructure as a Service)`
 * Answer
 	* This cloud computing model provides virtualized computing resources over the internet. IaaS allows users to rent virtual servers and storage, and to run and manage virtual data centers. Amazon EC2 is a classic example of IaaS, providing scalable compute capacity.   
 `SaaS (Software as a Service)`
@@ -192,3 +192,6 @@
 `Database Migration Service (DMS)`
 * Answer
 	* Used for migrating databases to AWS either by replicating live databases with minimal downtime or moving data between different database platforms
+`Tagging strategy`
+* Answer
+	* Using standardized metadata tags to organize, manage, and track resources in a cloud environment for improved cost allocation, security, and operational efficiency

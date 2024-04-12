@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lamb",
+                "query": "cloudtrail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d41e7d7796aa2441",
+  "active": "e33a512bbe210740",
   "lastOpenFiles": [
     "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Complete Study/Need to review.md",
