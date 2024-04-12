@@ -157,7 +157,7 @@
 `AMI`
 * Answer
 	* An image of a server in the amazon Cloud that contains all the information necessary to boot instances of your software
-`AWS WAF`
+`AWS Web Application Firewall (WAF)`
 * Answer
 	* Web application firewall service that helps protect web applications and API's against common web exploits and bots that may affect availability
 `AWS X-ray`
@@ -196,3 +196,12 @@
 `Tagging strategy`
 * Answer
 	* Using standardized metadata tags to organize, manage, and track resources in a cloud environment for improved cost allocation, security, and operational efficiency
+`Cloud Adoption Framework (CAF)`
+* Answer
+	* Guideline that provides a structured approach for developing an efficient and effective plan for cloud adoption across an organization
+`AWS Total Cost of Ownership (TCO)`
+* Answer
+	* A tool designed to help users estimate the cost savings when migrating to AWS by comparing the financial cost of operating their infrastructure on AWS versus on-premises or in a traditional data center
+`AWS Pricing Calculator`
+* Answer
+	* Helps users estimate the cost of their AWS usage by providing detailed price breakdowns for each AWS service based on the user's specific requirements, such as instance types, regions, and other resource options
