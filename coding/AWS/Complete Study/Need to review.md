@@ -183,6 +183,7 @@
 * Answer
 	* The primary serverless compute tool. Used to run code without provisioning servers
 	* Scales automatically
+	* Only executes code when triggered by events
 `AWS Application Discovery Service`
 * Answer
 	* Used for the initial planning stage of a migration
