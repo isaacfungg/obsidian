@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Need to review 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Need to review 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md",
+                "file": "coding/AWS/Complete Study/Need to review 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review.md"
+                "file": "coding/AWS/Complete Study/Need to review 1.md"
               }
             }
           },
@@ -157,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e33a512bbe210740",
+  "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
-    "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Complete Study/Need to review.md",
+    "coding/AWS/Complete Study/Need to review 1.md",
+    "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
@@ -188,7 +188,6 @@
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Two Pointers.md",
-    "coding/Network Devices/Questions.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",

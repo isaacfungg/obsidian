@@ -167,6 +167,17 @@
 	- Offers an end-to-end view of requests through your application.
 	- Shows a map of application components to identify performance issues and errors.
 	- Useful for understanding application behavior and pinpointing the root cause of issues.
+`AWS Elastic Beanstalk`
+* Answer
+	* A PaaS that automates the deployment and scaling of applications. You upload your code, and it handles provisioning, load balancing, and monitoring, while still allowing you to control the underlying resources.
+`AWS Lambda`
+* Answer
+	* The primary serverless compute tool. Used to run code without provisioning servers
+	* Scales automatically
+	* Only executes code when triggered by events
+
+
+#### Types of Services
 `IaaS (Infrastructure as a Service)`
 * Answer
 	* This cloud computing model provides virtualized computing resources over the internet. IaaS allows users to rent virtual servers and storage, and to run and manage virtual data centers. Amazon EC2 is a classic example of IaaS, providing scalable compute capacity.   
@@ -176,14 +187,8 @@
 `PaaS (Platform as a Service)`
 * Answer
 	* PaaS provides a platform allowing customers to develop, run, and manage applications without dealing with the complexities of building and maintaining the infrastructure typically associated with developing and launching an app. Examples include Heroku, Google App Engine, and AWS Elastic Beanstalk.
-`AWS Elastic Beanstalk`
-* Answer
-	* A PaaS that automates the deployment and scaling of applications. You upload your code, and it handles provisioning, load balancing, and monitoring, while still allowing you to control the underlying resources.
-`AWS Lambda`
-* Answer
-	* The primary serverless compute tool. Used to run code without provisioning servers
-	* Scales automatically
-	* Only executes code when triggered by events
+	
+#### Migration Services
 `AWS Application Discovery Service`
 * Answer
 	* Used for the initial planning stage of a migration
@@ -193,12 +198,16 @@
 `Database Migration Service (DMS)`
 * Answer
 	* Used for migrating databases to AWS either by replicating live databases with minimal downtime or moving data between different database platforms
+
+#### Framework/Strategies
 `Tagging strategy`
 * Answer
 	* Using standardized metadata tags to organize, manage, and track resources in a cloud environment for improved cost allocation, security, and operational efficiency
 `Cloud Adoption Framework (CAF)`
 * Answer
 	* Guideline that provides a structured approach for developing an efficient and effective plan for cloud adoption across an organization
+
+#### Pricing
 `AWS Total Cost of Ownership (TCO)`
 * Answer
 	* A tool designed to help users estimate the cost savings when migrating to AWS by comparing the financial cost of operating their infrastructure on AWS versus on-premises or in a traditional data center
