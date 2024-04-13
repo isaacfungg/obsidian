@@ -66,7 +66,6 @@
 `Database Migration Service (DMS)`
 * Answer
 	* Used for migrating databases to AWS either by replicating live databases with minimal downtime or moving data between different database platforms
-
 #### Framework/Strategies
 `Tagging strategy`
 * Answer
