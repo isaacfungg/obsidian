@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 5.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 5.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 5.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 5.md"
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d41e7d7796aa2441",
+  "active": "223da003e8feb6d4",
   "lastOpenFiles": [
-    "2024w notes/STAT 201/Final Review/Week 4.md",
     "2024w notes/STAT 201/Final Review/Week 5.md",
+    "2024w notes/STAT 201/Final Review/Week 8.md",
+    "2024w notes/STAT 201/Final Review/Week 4.md",
     "2024w notes/STAT 201/Final Review/Week 3.md",
     "2024w notes/STAT 201/Final Review/Week 2.md",
     "coding/AWS/Complete Study/Need to review 1.md",
@@ -187,7 +188,6 @@
     "2024w notes/CPSC 221/Week 10.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 3.md",
-    "coding/Todo.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
