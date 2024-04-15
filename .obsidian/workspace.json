@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review 1.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review 1.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review 1.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/AWS/Complete Study/Need to review 1.md"
+                "file": "2024w notes/STAT 201/Final Review/Week 4.md"
               }
             }
           },
@@ -158,18 +158,19 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
+    "2024w notes/STAT 201/Final Review/Week 3.md",
+    "2024w notes/STAT 201/Final Review/Week 4.md",
+    "2024w notes/STAT 201/Final Review/Week 2.md",
+    "coding/AWS/Complete Study/Need to review 1.md",
     "coding/AWS/Complete Study/Need to review.md",
     "coding/AWS/Complete Study/Need to review 2.md",
     "coding/AWS/Complete Study/Need to review 1 1.md",
-    "coding/AWS/Complete Study/Need to review 1.md",
     "coding/AWS/Complete Study/Questions Wrong.md",
     "coding/AWS/Complete Study/Study Guide.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 7.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 9.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 10.md",
-    "2024w notes/STAT 201/Final Review/Week 3.md",
-    "2024w notes/STAT 201/Final Review/Week 2.md",
     "2024w notes/STAT 201/Final Review",
     "coding/AWS/Cloud Practitioner Essentials/Module 5.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 4.md",
@@ -187,7 +188,6 @@
     "coding/Network Devices/Lesson 3.md",
     "coding/Todo.md",
     "coding/LeetCode/Arrays & Hashing.md",
-    "coding/LeetCode/Syntax.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
