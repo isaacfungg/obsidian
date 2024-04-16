@@ -22,8 +22,12 @@
 	* Sampling distribution of a point estimate increasingly follows a normal distribution
 	* The variation of these sampling distributions gets smaller, as quantified by their standard erros
 
+#### Errors
+`Type 1 Error`
+* This occurs when you reject a true null hypothesis
 
-
+`Type 2 Error`
+* occurs when you reject a true null hypothesis
 
 #### pnorm (z value to percentile)
 You can use *pnorm* with the Z value, the mean, and the standard deviation to get the percentile
