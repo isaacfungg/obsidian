@@ -17,6 +17,13 @@
 * The standard deviation controls the spread of the curve
 
 #### Central Limit Theorem
+* When sample means are based on larger and larger sample sizes, the sampling distribution of these sample means become both increasingly normally shaped and narrow
+* When our sample size gets larger
+	* Sampling distribution of a point estimate increasingly follows a normal distribution
+	* The variation of these sampling distributions gets smaller, as quantified by their standard erros
+
+
+
 
 #### pnorm (z value to percentile)
 You can use *pnorm* with the Z value, the mean, and the standard deviation to get the percentile
