@@ -1,4 +1,6 @@
 ***
+#### Learning Objectives
+1. Describe the learning 
 #### pnorm (z value to percentile)
 You can use *pnorm* with the Z value, the mean, and the standard deviation to get the percentile
 ```r
