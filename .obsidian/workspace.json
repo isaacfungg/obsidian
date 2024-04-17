@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 10.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 10.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 10.md",
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/STAT 201/Final Review/Week 10.md"
+                "file": "2024w notes/STAT 201/Final Review/Week 8.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "lastOpenFiles": [
     "2024w notes/STAT 201/Final Review/Week 9.md",
     "2024w notes/STAT 201/Final Review/Week 10.md",
+    "2024w notes/STAT 201/Final Review/Week 12.md",
     "2024w notes/STAT 201/Final Review/Week 8.md",
     "2024w notes/STAT 201/Final Review/Week 5.md",
     "2024w notes/STAT 201/Final Review/Week 4.md",
@@ -187,7 +188,6 @@
     "coding/AWS/Cloud Practitioner Essentials",
     "coding/AWS",
     "coding/DevOps/SAP Questions.md",
-    "2024w notes/CPSC 221/Week 10.md",
     "coding/DevOps",
     "2024w notes/STAT 201/Reading",
     "coding/oneAPI",
