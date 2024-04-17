@@ -21,6 +21,13 @@
 * $x_1, x_2$ are the means of the two samples
 * $s_p$ is the pooled variance, calculated as weighted average of the variances of the two samples
 * $n_1, n_2$ are the sample sizes
+
+`Paired Sample t-test`
+* Used to compare the means from the same group at different times, or the differences between pairs of related observations.
+* $d/(s_d/\sqrt{n})$
+* $d$ is the mean of the differences between the paired observations
+* $s_d$ is the standard deviation of these differences
+* $n$ is the number of pairs
 ### Z score
 $Z = (point estimate - null value) / SE$
 * Ratio of how the sample proportion differs from the hypothesized proportion as compared to the expected variability of the p values
