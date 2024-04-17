@@ -11,7 +11,4 @@ alpha <- 0.03
 critical_z_value <- qnorm(1 - alpha, lower.tail = FALSE)
 ```
 
-What is the 94% confidence interval for the parameter of interest.
-```R
-
-```
+#### Question 2
