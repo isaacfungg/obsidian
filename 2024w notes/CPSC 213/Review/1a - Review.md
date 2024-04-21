@@ -65,3 +65,17 @@ byte b = i;   // stored as 11111010
 byte b = (byte) i;
 ```
 
+#### Bit Operations in C/Java
+```c
+a << b; // Shift all bits in a to the left b times, fill remaining right bits with zero
+
+a >> b;  // Shift all bits in a to the right b times
+// C: If a is unsigned, zero-extends, otherwise sign-extends
+// Java: operator >> sign-extends, operator >>> zero-extends
+
+a & b;  // AND applied to corresponding bits in a and b
+a | b;  // OR applied to corresponding bits in a and b
+a ^ b;  // XOR applied to corresponding bits in a and b
+~a;     // Inverts every bit of a
+```
+
