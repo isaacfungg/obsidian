@@ -38,3 +38,30 @@
 * Every memory access requires accessing a whole block
 
 #### Changing Data Types
+* Extending an integer: increasing the number of bytes used to store it
+```c
+byte b = -6;     // stored as 11111010
+int i = b;       // stored as 11111111111111111111111111111010
+```
+
+`Signed extension`
+* Used in **signed** data types
+* Everything is signed in Java
+* Copy first bit (sign) to extend bits
+
+`Zero extension`
+* Used in **unsigned** data types (C)
+* Set all extended bits to zero
+
+`Truncating an integer`
+* Reducing the number of bytes used to store it
+```c
+int i = -6;   // stored as 11111111111111111111111111111010
+byte b = i;   // stored as 11111010
+```
+* Java warns you if you truncate implicitly 
+* To avoid warning , cast explicitly
+```Java
+byte b = (byte) i;
+```
+
