@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1a - Review.md",
+                "file": "2024w notes/CPSC 213/Review/1b - Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1a - Review.md",
+                "file": "2024w notes/CPSC 213/Review/1b - Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1a - Review.md",
+                "file": "2024w notes/CPSC 213/Review/1b - Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1a - Review.md"
+                "file": "2024w notes/CPSC 213/Review/1b - Review.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "d41e7d7796aa2441",
   "lastOpenFiles": [
-    "2024w notes/STAT 201/Final Review/Week 8.md",
     "2024w notes/CPSC 213/Review/1a - Review.md",
+    "2024w notes/CPSC 213/Review/1b - Review.md",
+    "2024w notes/STAT 201/Final Review/Week 8.md",
     "2024w notes/CPSC 213/Review",
     "2024w notes/STAT 201/Final Review/Week 9.md",
     "2024w notes/STAT 201/Final Review/Week 10.md",
@@ -186,7 +187,6 @@
     "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "coding/AWS/Cloud Practitioner Essentials/Module 8.md",
     "coding/AWS/Complete Study",
-    "coding/SQL/Node SQLite.md",
     "coding/AWS/Cloud Practitioner Essentials",
     "coding/AWS",
     "coding/DevOps",
