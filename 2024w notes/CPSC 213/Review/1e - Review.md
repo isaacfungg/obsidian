@@ -27,3 +27,16 @@
 * Part in `caller` just before returning
 **Deallocates** activation frame and restores stack pointer
 * Add frame size to stack pointer r5
+
+#### Allocating and Deallocating Stack Frames
+`Caller Prologue` (before call)
+* Allocate space for arguments
+* Save actual argument values to stack
+`Callee Prologue` (Start of function code)
+* Allocate space for return address/local variables
+* Save return address to stack, if needed
+`Caller Epilogue` (After return from call)
+* Deallocate space of arguments
+`Callee Epilogue` (End of function code)
+* Load return address from stack if stored there
+* Deallocate space of return address/local variables
