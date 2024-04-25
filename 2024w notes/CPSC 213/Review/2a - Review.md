@@ -47,4 +47,9 @@
 * Control transfer
 * Controller $\leftrightarrow$ CPU
 
-
+#### Writing Asynchronous Code in C
+`Events`
+* Things that cause asynchronous code to run
+`Event Handler`
+* The code that runs when event occurs
+* 
