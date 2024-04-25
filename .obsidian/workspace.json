@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1f - Review.md",
+                "file": "2024w notes/CPSC 213/Review/2a - Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1f - Review.md",
+                "file": "2024w notes/CPSC 213/Review/2a - Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1f - Review.md",
+                "file": "2024w notes/CPSC 213/Review/2a - Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/1f - Review.md"
+                "file": "2024w notes/CPSC 213/Review/2a - Review.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "09a8e682713c405b",
   "lastOpenFiles": [
-    "2024w notes/CPSC 213/Review/1e - Review.md",
+    "2024w notes/CPSC 213/1f.md",
+    "2024w notes/CPSC 213/Review/2a - Review.md",
     "2024w notes/CPSC 213/Review/1f - Review.md",
+    "2024w notes/CPSC 213/Review/1e - Review.md",
     "2024w notes/CPSC 213/Practice Quiz/PQ5.md",
     "2024w notes/CPSC 213/1e - Lecture.md",
     "2024w notes/CPSC 213/1e.md",
@@ -183,8 +185,6 @@
     "coding/AWS/Complete Study/Need to review 2.md",
     "coding/AWS/Complete Study/Need to review 1 1.md",
     "coding/AWS/Complete Study/Questions Wrong.md",
-    "coding/AWS/Complete Study/Study Guide.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 2.md",
     "2024w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
     "coding/AWS/Cloud Practitioner Essentials",
