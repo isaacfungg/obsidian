@@ -32,3 +32,17 @@
 		* Very fast, clock-speed poll
 	* CPU jumps to controller's *Interrupt*
 
+#### PIO, DMA and Interrupts
+`PIO`
+* Data transfer
+* CPU $\leftrightarrow$ Controller
+* Initiated by CPU
+
+`DMA`
+* Data transfer
+* Controller $\leftrightarrow$ Memory
+* Initiated by Controller
+
+`Interrupt`
+* Control transfer
+* Controller $\leftrightarrow$ CPU
