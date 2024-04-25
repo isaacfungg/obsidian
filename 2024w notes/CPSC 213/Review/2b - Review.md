@@ -23,3 +23,10 @@
 	* Can obtain the return value of the target thread
 
 #### Thread Operations - Detach
+* What if no thread is planning to join with it?
+	* **Detach** the thread: notify it that it is not going to be joined
+
+#### Thread Operations - Yield
+* Yielding a thread
+	* Save thread's state and switch to a different runnable thread
+	* Allows a running thread to tell the scheduling algorithm that it can be paused to give other threads a chance to execute
