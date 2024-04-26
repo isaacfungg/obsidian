@@ -138,3 +138,19 @@ keys inserted in order: O E Q V U A S I
 ☐ a queue implemented as a circular array, we do two enqueues
 
 ```
+
+
+
+Programming mix function
+```cpp
+
+void DoublyLinkedList::Mix() {
+	if (!head || !head->next) return;
+
+	Node *current = head;
+	while (current && current->next) {
+		Node* nextNode = current->next;
+		
+	}
+}
+```
