@@ -101,10 +101,11 @@ gloggy(int n){
 	* N
 ```
 Key k, hash(k)
-A 3
-P 1
-N 2
-I 6
+A 6
+P 3
+N 1
+I 2
+M 6
 G 6
 C 0
 
