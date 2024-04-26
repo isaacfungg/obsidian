@@ -69,10 +69,6 @@ How to make it 18 subtree of 18?
 8. What is this big O(?)
 
 Find exact expression for return value.
-
-Found shortest path P from vertex s to vertex t, on graph G with positive edge weights. Which changes will cause P to remain shortest path from s to t? 
-- Mult weight of every edge by pos/neg const.
-- Let e1,e2 be on P, e1||e2, e1 closer to s, swap weights of e1,e2.
 ```
 gloggy(int n){
   int r = 2;
