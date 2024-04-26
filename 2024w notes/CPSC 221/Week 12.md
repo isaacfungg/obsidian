@@ -63,7 +63,7 @@ for ("       ") {
  13   28 68  110
 
 ```
-How to make it 18?
+How to make it 18 subtree of 18?
 
 
 8. What is this big O(?)
