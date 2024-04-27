@@ -1,4 +1,0 @@
-***
-* Closed/General form
-* Hashing
-* 
