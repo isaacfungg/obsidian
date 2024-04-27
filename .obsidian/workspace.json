@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/Study Guide.md",
+                "file": "2024w notes/CPSC 213/Review/Quiz 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/Study Guide.md",
+                "file": "2024w notes/CPSC 213/Review/Quiz 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/Study Guide.md",
+                "file": "2024w notes/CPSC 213/Review/Quiz 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024w notes/CPSC 213/Review/Study Guide.md"
+                "file": "2024w notes/CPSC 213/Review/Quiz 2.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "09a8e682713c405b",
   "lastOpenFiles": [
-    "2024w notes/CPSC 221/Week 12.md",
     "2024w notes/CPSC 213/Review/Study Guide.md",
+    "2024w notes/CPSC 213/Review/Quiz 2.md",
+    "2024w notes/CPSC 221/Week 12.md",
     "2024w notes/CPSC 221/Week 11.md",
     "2024w notes/CPSC 221/Week 10.md",
     "2024w notes/CPSC 221/Week 9.md",
@@ -184,7 +185,6 @@
     "2024w notes/STAT 201/Final Review/Week 9.md",
     "2024w notes/STAT 201/Final Review/Week 10.md",
     "2024w notes/STAT 201/Final Review/Week 12.md",
-    "2024w notes/STAT 201/Final Review/Midterm 2.md",
     "2024w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
     "coding/AWS/Cloud Practitioner Essentials",
