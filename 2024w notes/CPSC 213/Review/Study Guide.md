@@ -10,4 +10,14 @@ C Programming
 
 #### Final Notes
 * Program Counter: address of the next instruction to execute
+* Jumps using relative addressing are called branches
+* Memory Bus: Control path connecting CPU, main memory, and I/O bus
+* I/O bus: Data control path connecting memory bus and I/O controllers
+* I/O Controller: A processor running software that connects I/O Device to I/O Device
+* I/O Device: I/O mechanism that generates or consumes data
+
+PIO Limitations
+* Reading/Writing large amounts of data slows CPU
+I/O Controller cannot initiate communication
+* Soometimes CPU asks for data
 * 
