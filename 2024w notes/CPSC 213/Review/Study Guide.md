@@ -19,5 +19,5 @@ C Programming
 PIO Limitations
 * Reading/Writing large amounts of data slows CPU
 I/O Controller cannot initiate communication
-* Soometimes CPU asks for data
+* Sometimes CPU asks for data
 * 
