@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/React Native/FlatList.md",
+                "file": "coding/Javascript/Promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/React Native/FlatList.md",
+                "file": "coding/Javascript/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/React Native/FlatList.md",
+                "file": "coding/Javascript/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/React Native/FlatList.md"
+                "file": "coding/Javascript/Promises.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "09a8e682713c405b",
   "lastOpenFiles": [
-    "coding/Shopify/Shopify Notes.md",
     "coding/React Native/FlatList.md",
+    "coding/Javascript/Promises.md",
+    "coding/Javascript",
+    "coding/Javascript.md",
+    "coding/Todo.md",
+    "coding/Shopify/Shopify Notes.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 1.md",
@@ -181,9 +185,6 @@
     "2023w notes/CPSC 213/1e.md",
     "2023w notes/CPSC 213/1e - Lecture.md",
     "2023w notes/CPSC 213/Review/1e - Review.md",
-    "2023w notes/CPSC 213/Review/1f - Review.md",
-    "2023w notes/CPSC 213/Practice Quiz/PQ5.md",
-    "2023w notes/CPSC 221/Week 5.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
@@ -193,7 +194,6 @@
     "2023w notes/STAT 201/Reading",
     "coding/oneAPI",
     "2023w notes/CPSC 213/Practice Quiz",
-    "coding/Network Devices",
     "Untitled.canvas"
   ]
 }
