@@ -16,3 +16,8 @@ map.second   // Gets the value
 map.count(x) // Returns the number of elements (0 or 1)
 ```
 
+
+#### Priority Queue
+```cpp
+priority_queue<int, vector<int>, greater<int>> minHeap;
+```
