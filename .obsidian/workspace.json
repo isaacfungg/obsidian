@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "coding/Javascript/Async.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "coding/Javascript/Async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "coding/Javascript/Async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md"
+                "file": "coding/Javascript/Async.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "09a8e682713c405b",
   "lastOpenFiles": [
-    "LeetCode/Arrays & Hashing/Contains Duplicate.md",
+    "coding/Javascript/Promises.md",
+    "coding/Javascript/Async.md",
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+    "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "LeetCode/Syntax.md",
     "LeetCode/Arrays & Hashing",
     "LeetCode",
@@ -167,7 +169,6 @@
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Syntax.md",
     "coding/LeetCode/Arrays & Hashing.md",
-    "coding/Javascript/Promises.md",
     "coding/React Native/FlatList.md",
     "coding/Javascript",
     "coding/Javascript.md",
@@ -186,7 +187,6 @@
     "2023w notes/CPSC 221/Week 10.md",
     "2023w notes/CPSC 221/Week 9.md",
     "2024w notes/CPSC 221/Things to go over.md",
-    "2023w notes/CPSC 221/MST.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
