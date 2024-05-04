@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "449fa13619a25e88",
+        "id": "caf6258431de9b94",
         "type": "tabs",
         "children": [
           {
-            "id": "09a8e682713c405b",
+            "id": "78aac00c1dcfe862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Javascript/Async.md",
+                "file": "LeetCode/Arrays & Hashing/Two Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Javascript/Async.md",
+                "file": "LeetCode/Arrays & Hashing/Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Javascript/Async.md",
+                "file": "LeetCode/Arrays & Hashing/Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Javascript/Async.md"
+                "file": "LeetCode/Arrays & Hashing/Two Sum.md"
               }
             }
           },
@@ -156,11 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09a8e682713c405b",
+  "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "Untitled.md",
-    "coding/Javascript/Async.md",
+    "LeetCode/Arrays & Hashing/Valid Anagram.md",
+    "LeetCode/Arrays & Hashing/Two Sum.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
+    "coding/Javascript/Async.md",
+    "Untitled.md",
     "coding/Javascript/Promises.md",
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Syntax.md",
@@ -185,8 +187,6 @@
     "2024w notes/CPSC 213/Review/Quiz 2.md",
     "2024w notes/CPSC 213/Review/Study Guide.md",
     "2024w notes/CPSC 221/Week 12.md",
-    "2023w notes/CPSC 221/Week 10.md",
-    "2023w notes/CPSC 221/Week 9.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
