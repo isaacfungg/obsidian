@@ -4,7 +4,7 @@ vector<int> twoSum (vector<int> nums, int target) {
 	int size = nums.size();
 
 	for (int i = 0; i < size; i++) {
-		map[x] = i;
+		map[nums[i]] = i;
 	}
 
 	for (int i = 0; i < size; i++) {
