@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Top K Frequent Elements.md"
+                "file": "LeetCode/Syntax.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
+    "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
     "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "coding/Javascript/Async.md",
     "Untitled.md",
     "coding/Javascript/Promises.md",
-    "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Syntax.md",
     "LeetCode/Arrays & Hashing",
     "LeetCode",

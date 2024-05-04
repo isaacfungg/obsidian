@@ -1,11 +1,16 @@
 ***
+
+#### Vector
+```cpp
+vector<int> vec(x, y);   // size = x, initial value = y
+vec.push_back(3);
+```
 #### Hash Set
 ```cpp
 unordered_set<int> set;
 
 set.count(num);
 ```
-
 
 #### Hash Map
 ```cpp
