@@ -9,6 +9,7 @@ vec.push_back(3);
 ```cpp
 unordered_set<int> set;
 
+set.insert(1);
 set.count(num);
 ```
 

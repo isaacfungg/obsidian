@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Javascript/NodeJS Project.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Javascript/NodeJS Project.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Javascript/NodeJS Project.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Javascript/NodeJS Project.md"
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
-    "coding/Javascript/NodeJS Project.md",
-    "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Syntax.md",
+    "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "coding/Javascript/NodeJS Project.md",
+    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
+    "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
     "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
@@ -186,7 +187,6 @@
     "coding/Linux/Questions.md",
     "coding/Linux/Notes.md",
     "2023w notes/CPSC 221/Week 11.md",
-    "2024w notes/CPSC 213/Review/Quiz 2.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
