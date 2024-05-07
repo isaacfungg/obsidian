@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Two Pointer/Container With Most Water.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Two Pointer/Container With Most Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Two Pointer/Container With Most Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Syntax.md"
+                "file": "LeetCode/Two Pointer/Container With Most Water.md"
               }
             }
           },
@@ -158,17 +158,19 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
+    "LeetCode/Two Pointer/Three Sum.md",
+    "LeetCode/Two Pointer/Container With Most Water.md",
+    "LeetCode/Arrays & Hashing/Valid Anagram.md",
+    "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Two Sum II.md",
     "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
     "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
-    "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Valid Palindrome.md",
     "LeetCode/Two Pointer",
     "coding/Javascript/NodeJS Project.md",
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
-    "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "coding/Javascript/Async.md",
     "Untitled.md",
     "coding/Javascript/Promises.md",
@@ -186,8 +188,6 @@
     "coding/Network Devices/Lesson 3.md",
     "coding/Network Devices/Lesson 2.md",
     "coding/Network Devices/Lesson 1.md",
-    "coding/Linux/Terminal Commands.md",
-    "coding/Linux/Questions.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
