@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Two Pointer/Two Sum II.md",
+                "file": "LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Two Pointer/Two Sum II.md",
+                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Two Pointer/Two Sum II.md",
+                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Two Pointer/Two Sum II.md"
+                "file": "LeetCode/Syntax.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
     "LeetCode/Two Pointer/Two Sum II.md",
+    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
     "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "LeetCode/Syntax.md",
