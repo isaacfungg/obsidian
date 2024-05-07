@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md"
+                "file": "LeetCode/Syntax.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
+    "LeetCode/Two Pointer/Valid Palindrome.md",
     "LeetCode/Syntax.md",
+    "LeetCode/Two Pointer",
     "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
     "coding/Javascript/NodeJS Project.md",
     "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
@@ -186,14 +188,12 @@
     "coding/Linux/Terminal Commands.md",
     "coding/Linux/Questions.md",
     "coding/Linux/Notes.md",
-    "2023w notes/CPSC 221/Week 11.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
     "coding/AWS/Cloud Practitioner Essentials",
     "coding/AWS",
     "coding/DevOps",
-    "2023w notes/STAT 201/Reading",
     "Untitled.canvas"
   ]
 }
