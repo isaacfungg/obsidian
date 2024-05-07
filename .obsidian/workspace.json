@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Syntax.md"
+                "file": "LeetCode/Arrays & Hashing/Product of Array Except Self.md"
               }
             }
           },
@@ -159,13 +159,14 @@
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
+    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
+    "LeetCode/Syntax.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
     "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "coding/Javascript/Async.md",
     "Untitled.md",
     "coding/Javascript/Promises.md",
-    "LeetCode/Syntax.md",
     "LeetCode/Arrays & Hashing",
     "LeetCode",
     "coding/LeetCode/Two Pointers.md",
@@ -186,7 +187,6 @@
     "2023w notes/CPSC 221/Week 11.md",
     "2024w notes/CPSC 213/Review/Quiz 2.md",
     "2024w notes/CPSC 213/Review/Study Guide.md",
-    "2024w notes/CPSC 221/Week 12.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
