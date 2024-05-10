@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Stack/Valid Parentheses.md",
+                "file": "LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Stack/Valid Parentheses.md",
+                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Stack/Valid Parentheses.md",
+                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Stack/Valid Parentheses.md"
+                "file": "LeetCode/Syntax.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Two Pointer/Container With Most Water.md",
+    "LeetCode/Stack/Min Stack.md",
     "LeetCode/Stack/Valid Parentheses.md",
+    "LeetCode/Two Pointer/Container With Most Water.md",
     "LeetCode/Stack",
     "coding/TensorFlow",
     "LeetCode/Two Pointer/Three Sum.md",
@@ -189,7 +190,6 @@
     "coding/Todo.md",
     "coding/Shopify/Shopify Notes.md",
     "coding/Network Devices/Lesson 3.md",
-    "coding/Network Devices/Lesson 2.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",

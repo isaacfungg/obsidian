@@ -9,6 +9,7 @@ tolower('A');    // Turns it to lower
 ```cpp
 vector<int> vec(x, y);   // size = x, initial value = y
 vec.push_back(3);
+vec.back();    // Returns a reference to the last element in the vector
 ```
 #### Hash Set
 ```cpp
