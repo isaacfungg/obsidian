@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Stack/Min Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Stack/Min Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "LeetCode/Stack/Min Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Syntax.md"
+                "file": "LeetCode/Stack/Min Stack.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
+    "LeetCode/Syntax.md",
     "LeetCode/Stack/Min Stack.md",
     "LeetCode/Stack/Valid Parentheses.md",
     "LeetCode/Two Pointer/Container With Most Water.md",
@@ -165,7 +166,6 @@
     "coding/TensorFlow",
     "LeetCode/Two Pointer/Three Sum.md",
     "LeetCode/Arrays & Hashing/Valid Anagram.md",
-    "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Two Sum II.md",
     "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
     "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
