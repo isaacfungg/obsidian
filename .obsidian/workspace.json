@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Two Pointer/Container With Most Water.md",
+                "file": "LeetCode/Stack/Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Two Pointer/Container With Most Water.md",
+                "file": "LeetCode/Stack/Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Two Pointer/Container With Most Water.md",
+                "file": "LeetCode/Stack/Valid Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Two Pointer/Container With Most Water.md"
+                "file": "LeetCode/Stack/Valid Parentheses.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Two Pointer/Three Sum.md",
     "LeetCode/Two Pointer/Container With Most Water.md",
+    "LeetCode/Stack/Valid Parentheses.md",
+    "LeetCode/Stack",
+    "coding/TensorFlow",
+    "LeetCode/Two Pointer/Three Sum.md",
     "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Two Sum II.md",
@@ -187,13 +190,10 @@
     "coding/Shopify/Shopify Notes.md",
     "coding/Network Devices/Lesson 3.md",
     "coding/Network Devices/Lesson 2.md",
-    "coding/Network Devices/Lesson 1.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",
     "coding/AWS/Cloud Practitioner Essentials",
-    "coding/AWS",
-    "coding/DevOps",
     "Untitled.canvas"
   ]
 }
