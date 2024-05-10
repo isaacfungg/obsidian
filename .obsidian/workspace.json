@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
+                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
+                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
+                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md"
+                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Stack/Min Stack.md",
     "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
+    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+    "Cloud Practitioner Review/AWS Compute Services",
+    "Cloud Practitioner Review",
+    "coding/AWS/CP Review",
+    "LeetCode/Stack/Min Stack.md",
     "LeetCode/Stack/Valid Parentheses.md",
     "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Container With Most Water.md",
@@ -189,11 +193,7 @@
     "coding/Javascript",
     "coding/Javascript.md",
     "coding/Todo.md",
-    "coding/Shopify/Shopify Notes.md",
     "2023w notes/CPSC 213/Review",
-    "2023w notes/STAT 201/Final Review",
-    "coding/AWS/Complete Study",
-    "coding/AWS/Cloud Practitioner Essentials",
     "Untitled.canvas"
   ]
 }
