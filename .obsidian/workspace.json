@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Stack/Min Stack.md",
+                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Stack/Min Stack.md",
+                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Stack/Min Stack.md",
+                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Stack/Min Stack.md"
+                "file": "LeetCode/Stack/Evaluate Reverse Polish Notation.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Syntax.md",
     "LeetCode/Stack/Min Stack.md",
+    "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
     "LeetCode/Stack/Valid Parentheses.md",
+    "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Container With Most Water.md",
     "LeetCode/Stack",
     "coding/TensorFlow",
@@ -189,7 +190,6 @@
     "coding/Javascript.md",
     "coding/Todo.md",
     "coding/Shopify/Shopify Notes.md",
-    "coding/Network Devices/Lesson 3.md",
     "2023w notes/CPSC 213/Review",
     "2023w notes/STAT 201/Final Review",
     "coding/AWS/Complete Study",

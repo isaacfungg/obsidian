@@ -28,3 +28,6 @@ public:
 	}
 }
 ```
+
+* pop_back()
+* Have a pair with the second value being the min value of all the values of itself and before
