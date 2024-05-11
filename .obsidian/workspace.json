@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+                "file": "LeetCode/Stack/Generate Parenthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+                "file": "LeetCode/Stack/Generate Parenthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+                "file": "LeetCode/Stack/Generate Parenthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md"
+                "file": "LeetCode/Stack/Generate Parenthesis.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
     "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
+    "LeetCode/Stack/Generate Parenthesis.md",
     "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
     "Cloud Practitioner Review/AWS Compute Services",
     "Cloud Practitioner Review",
@@ -192,7 +193,6 @@
     "coding/React Native/FlatList.md",
     "coding/Javascript",
     "coding/Javascript.md",
-    "coding/Todo.md",
     "2023w notes/CPSC 213/Review",
     "Untitled.canvas"
   ]
