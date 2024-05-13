@@ -15,3 +15,5 @@ vector<int> dailyTemperatures(vector<int>& temperatures) {
 ```
 
 
+how do u manage to work in so many fields?
+I started emailing some profs at my uni for cs research but i want to expand my knowledge to different fields but idk how much i would be able to contribute for other fields
