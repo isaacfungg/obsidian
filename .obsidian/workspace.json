@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Stack/Daily Temperatures.md",
+                "file": "LeetCode/Binary Search/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Stack/Daily Temperatures.md",
+                "file": "LeetCode/Binary Search/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Stack/Daily Temperatures.md",
+                "file": "LeetCode/Binary Search/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Stack/Daily Temperatures.md"
+                "file": "LeetCode/Binary Search/Binary Search.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "coding/TensorFlow/Implementing Neural Networks.md",
     "LeetCode/Stack/Daily Temperatures.md",
+    "LeetCode/Binary Search/Binary Search.md",
+    "LeetCode/Binary Search",
+    "coding/TensorFlow/Implementing Neural Networks.md",
     "LeetCode/Stack/Generate Parenthesis.md",
     "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
     "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
@@ -191,9 +193,7 @@
     "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Takeaways.md",
     "coding/LeetCode/Syntax.md",
-    "coding/LeetCode/Arrays & Hashing.md",
     "coding/Javascript",
-    "2023w notes/CPSC 213/Review",
     "Untitled.canvas"
   ]
 }
