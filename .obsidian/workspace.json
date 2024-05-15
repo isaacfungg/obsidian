@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Binary Search/Binary Search.md",
+                "file": "LeetCode/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Binary Search/Binary Search.md",
+                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Binary Search/Binary Search.md",
+                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Binary Search/Binary Search.md"
+                "file": "LeetCode/Syntax.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "LeetCode/Stack/Daily Temperatures.md",
+    "LeetCode/Binary Search/Search a 2d Matrix.md",
     "LeetCode/Binary Search/Binary Search.md",
+    "LeetCode/Stack/Daily Temperatures.md",
     "LeetCode/Binary Search",
     "coding/TensorFlow/Implementing Neural Networks.md",
     "LeetCode/Stack/Generate Parenthesis.md",
@@ -192,7 +193,6 @@
     "LeetCode",
     "coding/LeetCode/Two Pointers.md",
     "coding/LeetCode/Takeaways.md",
-    "coding/LeetCode/Syntax.md",
     "coding/Javascript",
     "Untitled.canvas"
   ]

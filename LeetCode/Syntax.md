@@ -4,7 +4,7 @@
 ```cpp
 isalnum('a');    // check if a given character is alphanumeric
 tolower('A');    // Turns it to lower
-```
+/```
 #### Vector
 ```cpp
 vector<int> vec(x, y);   // size = x, initial value = y
