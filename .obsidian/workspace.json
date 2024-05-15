@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "2024s notes/CPSC 330/Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024s notes/CPSC 330/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024s notes/CPSC 330/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2024s notes/CPSC 330/Lecture 3.md"
               }
             }
           },
@@ -154,12 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "223da003e8feb6d4",
+  "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2024s notes/CPSC 330/Lecture 3.md",
     "2024s notes/CPSC 330",
     "2024s notes",
     "LeetCode/Syntax.md",
-    "Untitled.md",
     "LeetCode/Binary Search/Search a 2d Matrix.md",
     "LeetCode/Binary Search/Binary Search.md",
     "LeetCode/Stack/Daily Temperatures.md",
@@ -190,7 +193,6 @@
     "coding/Javascript/Async.md",
     "coding/Javascript/Promises.md",
     "LeetCode/Arrays & Hashing",
-    "LeetCode",
     "coding/LeetCode/Two Pointers.md",
     "Untitled.canvas"
   ]
