@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Syntax.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -156,8 +154,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78aac00c1dcfe862",
+  "active": "223da003e8feb6d4",
   "lastOpenFiles": [
+    "2024s notes/CPSC 330",
+    "2024s notes",
+    "LeetCode/Syntax.md",
+    "Untitled.md",
     "LeetCode/Binary Search/Search a 2d Matrix.md",
     "LeetCode/Binary Search/Binary Search.md",
     "LeetCode/Stack/Daily Temperatures.md",
@@ -171,7 +173,6 @@
     "coding/AWS/CP Review",
     "LeetCode/Stack/Min Stack.md",
     "LeetCode/Stack/Valid Parentheses.md",
-    "LeetCode/Syntax.md",
     "LeetCode/Two Pointer/Container With Most Water.md",
     "LeetCode/Stack",
     "coding/TensorFlow",
@@ -187,13 +188,10 @@
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
     "coding/Javascript/Async.md",
-    "Untitled.md",
     "coding/Javascript/Promises.md",
     "LeetCode/Arrays & Hashing",
     "LeetCode",
     "coding/LeetCode/Two Pointers.md",
-    "coding/LeetCode/Takeaways.md",
-    "coding/Javascript",
     "Untitled.canvas"
   ]
 }
