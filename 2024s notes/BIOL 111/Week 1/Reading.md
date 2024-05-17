@@ -20,7 +20,6 @@
 * Compared *Proteins* -> *Bread* and *Lipids* -> *Filling*
 * `Fluid Mosaic Model`: Describes the plasma membrane structure as a mosaic of components.
 
-
 #### 5.2 Passive Transport - Selective Permeability
 * Plasma membranes are asymmetric
 * Considerable difference between the array of phospholipids and proteins between two leaflets that form a membrane
@@ -32,3 +31,22 @@
 * `Osmosis`: The movement of water through a semipermeable membrane according to the water's concentration gradient across the membrane, which is inversely proportional to the solutes' concentration
 
 #### 5.3 Active Transport
+* `Active transport`: Require the cell's energy, usually in the form of *adenosine triphosphate* (ATP)
+* Substances move from areas of lower concentration to areas of higher concentration, against the gradient
+
+#### 4.2 Prokaryotic Cells
+* All cells share four common components:
+	* A plasma membrane
+	* An outer covering that separates the cell's interior from its surrounding environment
+	* DNA
+	* Ribosomes, which synthesize proteins
+* `Prokaryote`: A simple, mostly single-celled organism that lacks a nucleus, or any other membrane-bound organelle
+* They are significantly smaller than *eukaryotic cells* (0.1 - 5.0 $\mu$m vs 10 - 100 $\mu$m)
+* Its small size allows ions and organic molecules that enter them to quickly diffuse to other parts of the cell
+
+#### 4.3 Eukaryotic Cells
+* Unlike *prokaryotic cells*, `eukayotic cells` have:
+	* A membrane-bound nucleus
+	* Numerous membrane-bound organelles, Golgi apparatus, chloroplasts, mitochondria, and others
+	* Several rod-shaped chromosomes
+
