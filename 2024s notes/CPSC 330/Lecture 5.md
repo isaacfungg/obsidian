@@ -12,3 +12,14 @@ X_test_scaled = scaler.transform(X_test)  # transforming the test split
 * We can fit on train and then we would use transform on test
 * For standard scaling we make the mean equal to 0 and the standard deviation to be equal to 1
 
+#### NaN Values
+* For *categorial values* we can replace it with the most frequent value
+* For *numerical values* we can replace it with the mean or median value of the column
+
+We can do this by using SimpleImputer
+```python
+imputer = SimpleImputer(strategy="median")
+imputer.fit(X_train)
+X_train_imp = imputer.transform(X_train)
+X_test_imp = imputer.transform(X_test)
+```
