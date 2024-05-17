@@ -24,4 +24,11 @@
 #### 5.2 Passive Transport - Selective Permeability
 * Plasma membranes are asymmetric
 * Considerable difference between the array of phospholipids and proteins between two leaflets that form a membrane
-* 
+#### 5.2 Passive Transport - Diffusion
+* `Diffusion`: A passive process of transport
+* A single substance moves from a high concentration to a low concentration area until the concentration is equal across a space
+
+#### 5.2 Passive Transport - Osmosis
+* `Osmosis`: The movement of water through a semipermeable membrane according to the water's concentration gradient across the membrane, which is inversely proportional to the solutes' concentration
+
+#### 5.3 Active Transport
