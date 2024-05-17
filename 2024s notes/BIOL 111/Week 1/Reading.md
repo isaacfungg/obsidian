@@ -50,3 +50,6 @@
 	* Numerous membrane-bound organelles, Golgi apparatus, chloroplasts, mitochondria, and others
 	* Several rod-shaped chromosomes
 
+#### 23.1 Eukaryotic Origins - Endosymbiotic Theory
+* `Endosymbiotic Theory`: Eukaryotes may have been a product of one cell engulfing another, one living within another, and coevolving over time until the separate cells were no longer recognizable as such and shared genetic control of a mutualistic metabolic pathway to produce ATP
+
