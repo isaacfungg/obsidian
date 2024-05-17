@@ -21,3 +21,7 @@
 * `Fluid Mosaic Model`: Describes the plasma membrane structure as a mosaic of components.
 
 
+#### 5.2 Passive Transport - Selective Permeability
+* Plasma membranes are asymmetric
+* Considerable difference between the array of phospholipids and proteins between two leaflets that form a membrane
+* 
