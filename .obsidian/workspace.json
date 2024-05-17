@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 4.md",
+                "file": "2024s notes/CPSC 330/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 4.md",
+                "file": "2024s notes/CPSC 330/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 4.md",
+                "file": "2024s notes/CPSC 330/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 4.md"
+                "file": "2024s notes/CPSC 330/Lecture 5.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "78aac00c1dcfe862",
   "lastOpenFiles": [
-    "2024s notes/CPSC 330/Lecture 3.md",
     "2024s notes/CPSC 330/Lecture 4.md",
+    "2024s notes/CPSC 330/Lecture 5.md",
+    "2024s notes/CPSC 330/Lecture 3.md",
     "2024s notes/BIOL 111/Week 1/Reading.md",
     "2024s notes/BIOL 111/Week 1/May 14.md",
     "2024s notes/BIOL 111/Week 1",
@@ -193,7 +194,6 @@
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "LeetCode/Two Pointer/Valid Palindrome.md",
     "coding/Javascript/NodeJS Project.md",
-    "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "Untitled.canvas"
   ]
 }

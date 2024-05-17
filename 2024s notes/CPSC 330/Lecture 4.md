@@ -4,6 +4,10 @@
 * A larger *gamma* and *c* value makes it more complex 
 * A smaller *gamma* and *c* value makes it less complex
 
+Common Ranges
+* *c*: 0.01 - 100
+* *gamma*: 0.0001 - 1
+
 ###### Outside Class Scope
 * A high *gamma* value leads to the model reacting more significantly to deviations in data which can capture more complex patterns but can also lead to overfitting
 * A high *c* value places more emphasis on identifying the correct training data points
