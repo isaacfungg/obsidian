@@ -6,3 +6,7 @@
 
 #### 3.3 Lipids
 * `Fat molecule`: Consists of Glycerol and fatty acids
+* Are a class of macromolecules that are non-polar and hydrophobic in nature
+* `Unsaturated fatty acid`: May have one or more double bonds in the hydrocarbon chain
+* `Saturated fatty acid`: Only single bonds are present
+* 
