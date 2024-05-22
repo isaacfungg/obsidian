@@ -1,5 +1,5 @@
 ***
-11, 11:30, 11:45
+11, 11:30, 11:45, 12, 12:15, 12:25
 #### Column Transformer
 ```Python
 from sklearn.compose import make_column_transformer
