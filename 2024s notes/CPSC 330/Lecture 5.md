@@ -59,3 +59,36 @@ When you call `fit` on the pipeline, it carries out the following steps:
 - Fit `StandardScaler` on `X_train_imp`
 - Transform `X_train_imp` using the fit `StandardScaler` to create `X_train_imp_scaled`
 - Fit the model (`KNeighborsRegressor` in our case) on `X_train_imp_scaled`
+
+
+#### Ordinal Encoding (Occasionally Recommended)
+```Python
+from sklearn.preprocessing import OrdinalEncoder
+
+enc = OrdinalEncoder()
+enc.fit(X_toy)
+X_toy_ord = enc.transform(X_toy)
+df = pd.DataFrame(
+    data=X_toy_ord,
+    columns=["language_enc"],
+    index=X_toy.index,
+)
+pd.concat([X_toy, df], axis=1)
+```
+* Turns categorial data into numerical
+* It is better for categorial values like ["cold", "warm", "hot"] besides languages because it will create some order that can make the data messy
+* **Solution**: Use *One-Hot Encoding* that will create n new binary columns where a language would be 1 if true and 0 if false
+
+#### One-Hot Encoding
+```Python
+from sklearn.preprocessing import OneHotEncoder
+
+enc = OneHotEncoder(handle_unknown="ignore", sparse_output=False)
+enc.fit(X_toy)
+X_toy_ohe = enc.transform(X_toy)
+pd.DataFrame(
+    data=X_toy_ohe,
+    columns=enc.get_feature_names_out(["language"]),
+    index=X_toy.index,
+)
+```
