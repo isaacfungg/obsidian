@@ -45,3 +45,20 @@ data["calculation"].append("sklearn")
 df = pd.DataFrame(data)
 df.set_index(["calculation"])
 ```
+
+### Cross validation with different metrics
+
+- We can pass different evaluation metrics with `scoring` argument of `cross_validate`.
+```python
+scoring = [
+    "accuracy",
+    "f1",
+    "recall",
+    "precision",
+]  # scoring can be a string, a list, or a dictionary
+pipe = make_pipeline(StandardScaler(), LogisticRegression())
+scores = cross_validate(
+    pipe, X_train_big, y_train_big, return_train_score=True, scoring=scoring
+)
+pd.DataFrame(scores)
+```
