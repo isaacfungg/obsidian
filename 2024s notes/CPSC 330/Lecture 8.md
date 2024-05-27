@@ -75,3 +75,5 @@ y = uniform.rvs(0, 5, 10000) # Uniformed distribution
 y = norm.rvs(0, 1, 10000) # Normal distribution
 y = expon.rvs(0, 1, 10000) # Skewed distribution
 ```
+
+#### Optimization Bias
