@@ -10,6 +10,7 @@ Asexual Reproduction
 * Time efficient
 * Requires less energy 
 * Not mate required
+* Lack of genetic variation
 * Populations can grow quickly and survive if the environment is stable
 
 #### Sister chromatids and Homologous Chromosomes
