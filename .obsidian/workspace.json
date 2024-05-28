@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9.md"
+                "file": "2024s notes/BIOL 111/Week 3/May 28.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "2024s notes/CPSC 330/Lecture 8.md",
     "2024s notes/CPSC 330/Lecture 9.md",
+    "2024s notes/BIOL 111/Week 3/May 28.md",
+    "2024s notes/BIOL 111/Week 3",
+    "2024s notes/CPSC 330/Lecture 8.md",
     "2024s notes/BIOL 111/Week 2/Assignment.md",
     "2024s notes/BIOL 111/Week 2/May 21 Reading.md",
     "2024s notes/BIOL 111/Week 2/May 23.md",
@@ -189,11 +191,9 @@
     "LeetCode/Syntax.md",
     "LeetCode/Stack/Daily Temperatures.md",
     "LeetCode/Binary Search",
-    "coding/TensorFlow/Implementing Neural Networks.md",
     "Cloud Practitioner Review/AWS Compute Services",
     "Cloud Practitioner Review",
     "coding/AWS/CP Review",
-    "LeetCode/Stack",
     "Untitled.canvas"
   ]
 }
