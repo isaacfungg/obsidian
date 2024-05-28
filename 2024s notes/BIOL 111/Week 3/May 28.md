@@ -41,6 +41,3 @@ Asexual Reproduction
 
 #### Meiosis
 * Produces gametes (sex cells)
-
-Meiosis I
-* 
