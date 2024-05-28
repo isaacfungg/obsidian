@@ -17,6 +17,7 @@ Asexual Reproduction
 	* Held together by a centromere
 	* Have the same genes
 	* Genes are at the same location
+	* 2 Sister chromatids is considered one chromosome
 * `Homologous Chromosomes`: A set of one paternal and one maternal chromosome that pair up with each other inside a cell during meiosis
 * Same size
 * Have the same genes
