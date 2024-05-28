@@ -37,3 +37,10 @@ Asexual Reproduction
 
 * Gamete has one set of 23 chromosomes
 * The union of gametes create a diploid cell called a zygote
+
+
+#### Meiosis
+* Produces gametes (sex cells)
+
+Meiosis I
+* 
