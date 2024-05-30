@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md"
+                "file": "2024s notes/BIOL 111/Week 3/May 30 Lecture.md"
               }
             }
           },
@@ -158,18 +158,20 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
+    "2024s notes/CPSC 330/Lecture 2.md",
+    "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
+    "2024s notes/CPSC 330/Lecture 8.md",
     "2024s notes/CPSC 330/Lecture 9.md",
     "2024s notes/CPSC 330/Lecture 10.md",
+    "2024s notes/CPSC 330/Lecture 5.md",
+    "2024s notes/CPSC 330/Lecture 6.md",
+    "2024s notes/CPSC 330/Lecture 7.md",
     "2024s notes/BIOL 111/Week 3/May 28.md",
     "2024s notes/BIOL 111/Week 3/May 28 Lecture.md",
     "2024s notes/BIOL 111/Week 3",
-    "2024s notes/CPSC 330/Lecture 8.md",
     "2024s notes/BIOL 111/Week 2/Assignment.md",
     "2024s notes/BIOL 111/Week 2/May 21 Reading.md",
     "2024s notes/BIOL 111/Week 2/May 23.md",
-    "2024s notes/CPSC 330/Lecture 7.md",
-    "2024s notes/CPSC 330/Lecture 6.md",
-    "2024s notes/CPSC 330/Lecture 5.md",
     "2024s notes/BIOL 111/Week 2/May 21.md",
     "2024s notes/BIOL 111/Week 2",
     "2024s notes/BIOL 111/Week 1/May 16.md",
@@ -186,8 +188,6 @@
     "2024s notes/CPSC 330/Lecture 3.md",
     "2024s notes/BIOL 111/Week 1",
     "2024s notes/BIOL 111",
-    "2024s notes/CPSC 330/Lecture 2.md",
-    "Untitled.md",
     "2024s notes/CPSC 330",
     "2024s notes",
     "LeetCode/Binary Search",
