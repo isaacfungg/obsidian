@@ -2,13 +2,9 @@
 #### Topics
 * Supervised and unsupervised 
 * Scoring models (accuracy)
+* Decision Tree
+* Parameters and hyperparameters
 
-
-
-
-
-* Most pure (100% of one type)
-* Most impure (50% one type and 50% another)
 #### Decision Trees Classification
 * Goes down until the values are completely pure if the depth is not specified
 ```python
@@ -18,7 +14,14 @@ model.fit(X_binary, y)
 model.score(X_binary, y)
 ```
 * The leaf nodes represent the answers
-* 
+* `Decision Stump`: A decision tree with only one split
+* Most pure (100% of one type)
+* Most impure (50% one type and 50% another)
+
+###### Parameters
+* The decision tree algorithm primarily learns two things:
+	* The best feature to split on
+	* The best threshold for the feature to split on at each node
 
 #### Scoring
 ```python
