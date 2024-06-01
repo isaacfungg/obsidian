@@ -23,4 +23,6 @@ model.score(X_binary, y)
 #### Scoring
 ```python
 model.score(X_test, y_test) # Compares the predictions made from X_test to y_test
+
+1 - model.score(X_test, y_test) # Gives the error
 ```
