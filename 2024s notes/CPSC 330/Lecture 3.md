@@ -16,6 +16,7 @@ Deployment data
 | Validation |          | ✔️      | ✔️        |
 | Test       |          | once    | once      |
 | Deployment |          |         | ✔️        |
+***
 #### Cross Validation
 * If the dataset is small then you might end up with a tiny test/validation set
 * This causes it so that if you get unlucky it can make it so that it does not represent the data well
@@ -26,6 +27,17 @@ Deployment data
 - It's better to examine the variation in the scores across folds.
 - Common practice to pick the model with the minimum cross validation error
 
+###### Cross_val_score
+```python
+model = DecisionTreeClassifier(max_depth=4) 
+cv_scores = cross_val_score(mode, X_train, y_train, cv=10)
+cv_scores
+# returns an array containing the scores of all folds
+
+np.mean(cv_scores) # Get the average score
+np.std(cv_scores) # Get the Standard deviation
+```
+***
 #### Types of Errors
 `Underfitting`
 * The model is too simple
