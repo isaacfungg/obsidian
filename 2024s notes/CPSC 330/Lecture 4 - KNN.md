@@ -1,14 +1,43 @@
 ***
+#### Knn
+**Pros
+* Easy to understand
+* Simple hyperparameter
+* Takes no time to fit
+* Can learn very complex functions given enough data
+
+**Cons
+* Can potentially be very slow during prediction time
+* Often not that great test accuracy compared to the modern approaches
+* It does not work well on datasets with many features where most feature values are 0
+
+***
+#### Dimensions
+* Dimensions are also known as features
+* d = 20 is considered low dimensional
+* d = 1000 is considered medium dimensional
+* d = 100, 000 is considered high dimensional
+
+***
 #### Support Vector Machines (SVM)
-* SVM's have two hyperparameters: *c* and *gamma*
+* Unlike k-NN, SVM RBFs **only remember the key examples (support vectors)**
+* The `support vectors` get decided during **fit**
+
+ SVM's have two hyperparameters: *c* and *gamma*
 * A larger *gamma* and *c* value makes it more complex 
 * A smaller *gamma* and *c* value makes it less complex
 
 Common Ranges
 * *c*: 0.01 - 100
 * *gamma*: 0.0001 - 1
-
-###### Outside Class Scope
+***
+#### Parametric vs Non Parametric (Optional)
+* If you need to store at least O(n) worth of stuff to make predictions it is `Non-parametric`
+* Examples
+	* **Non-Parametric**: k-NN 
+	* **Parametric**: Decision stump
+***
+#### Outside Class Scope
 * A high *gamma* value leads to the model reacting more significantly to deviations in data which can capture more complex patterns but can also lead to overfitting
 * A high *c* value places more emphasis on identifying the correct training data points
 

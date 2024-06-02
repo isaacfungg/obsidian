@@ -37,8 +37,23 @@ cv_scores
 np.mean(cv_scores) # Get the average score
 np.std(cv_scores) # Get the Standard deviation
 ```
+
+###### cross_validate
+```python
+scores = cross_validate(model, X_train, y_train, cv=10, return_train_score=True)
+pd.DataFrame(scores)
+# Creates a df that includes fit and score time as well as test and train score
+```
+* Both `cross_val_score` and `cross_validate` function **do NOT** shuffle the data
+
 ***
 #### Types of Errors
+There are four types of errors:
+-   $E_{Train}$ is your training error (or mean train error from cross-validation).
+-  $E_{Valid}$ is your validation error (or mean validation error from cross-validation).
+-  $E_{Test}$ is your test error.
+-  $E_{Best}$ is the best possible error you could get for a given problem (often unknown, but desired).
+
 `Underfitting`
 * The model is too simple
 * Both train and validation errors would be high
