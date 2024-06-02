@@ -12,7 +12,26 @@
 #### Cell Theory - 4.1
 * One or more cells comprise all living things, the cell is the basic unit of life, and new cells arise from existing cells
 
-#### Selective Permeability - 5.2
+#### Prokaryotic Cells - 4.2
+* All cells share four common components
+	* Plasma membrane
+	* Cytoplasm
+	* DNA
+	* Ribosomes
+* `Prokaryote`
+	* A simple, mostly single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle
+	* The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration
+	* Since they are smaller they have an increased surface area to volume ratio
+		* Faster rates of nutrient uptake and waste elimination
+		* Faster growth and replication
+		* Efficiency in resource use
+
+#### Eukaryotic Cells - 4.3
+* Unlike prokaryotic cells, eukaryotic cells have:
+	* A membrane-bound nucleus
+	* Numerous membrane-bound **organelles**
+	* Severed rod-shaped chromosomes
+#### Passive Transport - 5.2
 * Plasma membranes are asymmetric
 * `Diffusion`
 	* Passive process of transport
@@ -28,3 +47,9 @@
 	* High concentration to a low concentration
 	* Low concentration may mean high solute concentration and high concentration may mean low solute concentration
 	* Hypertonic and hypotonic
+
+#### Active Transport - 5.3
+* `Active Transport`
+	* Requires the cell's energy, usually in the form of `adenosine triphosphate` (ATP)
+	* If a substance must move into the cell against its concentration gradient the cell **must use energy** to move the substance
+
