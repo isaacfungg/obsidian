@@ -8,6 +8,20 @@
 * Homeostasis
 * Energy processing
 * Evolution
+
+***
+#### Carbohydrates - 3.2
+* `Monosaccharides`
+	* Simple sugars, the most common of which is glucose
+	* Most monosaccharides names end with the suffix -ose
+* `Disaccharides`
+	* Form when two **monosaccharides** undergo a dehydration reaction
+	* Common disaccharides include lactose, maltose and sucrose
+	* Can be broken down into monosaccharides through `hydrolysis`
+* `Polysaccharides`
+	* A long chain of **monosaccharides** linked by glycosidic bonds 
+	* Starch is a polysaccharide
+	* Can be broken down into monosaccharides through `hydrolysis`
 ***
 #### Cell Theory - 4.1
 * One or more cells comprise all living things, the cell is the basic unit of life, and new cells arise from existing cells
