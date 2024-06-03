@@ -48,6 +48,18 @@
 	* Sequence of amino acids in the polypeptide chain
 * `Secondary Structure`
 	* Local folded structure that forms within a polypeptide due to hydrogen bonding between atoms
+	* Common types of secondary structures include alpha-helices (spiral) and beta-sheets (folded sheets)
+* `Tertiary Structure`
+	* Polypeptides unique three dimensional structure
+	* The interactions among R groups create the protein's complex three-dimensional tertiary structure
+* `Quaternary Structure`
+	* Exists in proteins with multiple polypeptide chains
+
+#### Nucleic Acids - 3.5
+* `Nucleotide`
+	* A nitrogenous base
+	* A sugar Molecule
+	* A phosphate group
 
 ***
 #### Cell Theory - 4.1
