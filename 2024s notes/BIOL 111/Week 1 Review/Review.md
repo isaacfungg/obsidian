@@ -125,3 +125,13 @@
 	* Requires the cell's energy, usually in the form of `adenosine triphosphate` (ATP)
 	* If a substance must move into the cell against its concentration gradient the cell **must use energy** to move the substance
 
+***
+#### Energy in Living Systems
+* `Hydrolysis`
+	* The process of breaking complex macromolecules apart
+	* The hydrolysis of ATP produces ADP and the release of free energy
+* `Adenosiine Triphosphate`
+	* Base
+	* 3 phosphate
+	* Sugar
+* ``
