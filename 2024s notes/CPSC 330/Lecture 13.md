@@ -19,3 +19,18 @@ pd.DataFrame(
     columns=["Feature coefficient"],
 )
 ```
+
+
+#### KBinsDiscretizer
+```python
+from sklearn.preprocessing import KBinsDiscretizer
+
+discretization_feats = ["latitude", "longitude"]
+numeric_feats = ["rooms_per_household"]
+
+preprocessor2 = make_column_transformer(
+    (KBinsDiscretizer(n_bins=20, encode="onehot"), discretization_feats),
+    (make_pipeline(SimpleImputer(), StandardScaler()), numeric_feats),
+)
+```
+* It discretizes continuous features into discrete values across k bins, where k is a user-defined number. This can help capture non-linear relationships between features and the target variable.
