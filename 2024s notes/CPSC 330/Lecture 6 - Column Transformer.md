@@ -22,7 +22,16 @@ ct.named_transformers_["standardscaler"].get_feature_names_out()
 # array(['university_years', 'lab1', 'lab3', 'lab4', 'quiz1'], dtype=object)
 ```
 
+#### Ordinal Encoding
+```python
+X_toy["class_attendance"].unique()
+class_attendance_levels = ["Poor", "Average", "Good", "Excellent"]
 
+oe = OrdinalEncoder(categories=[class_attendance_levels], dtype=int, handle_unknown="ignore")
+oe.fit(X_toy[["class_attendance"]])
+```
+* `handle_unknown`
+	* Creates a row with all zeros
 #### Count Vectorizer
 Used to count the number of times a values is used
 - `binary`
