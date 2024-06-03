@@ -22,6 +22,33 @@
 	* A long chain of **monosaccharides** linked by glycosidic bonds 
 	* Starch is a polysaccharide
 	* Can be broken down into monosaccharides through `hydrolysis`
+
+#### Lipids - 3.3
+* A diverse group of compounds that are largely nonpolar in nature
+* Non-polar molecules are hydrophobic, or insoluble in water
+* Cells store energy for long-term use in the form of fats
+* `Fat molecule`
+	* Consists of two main components:
+		* Glycerol
+		* Fatty acids
+* `Saturated Fatty Acids`
+	* Have no double bonds between the carbon atoms
+	* "Saturated" with hydrogen atoms
+	* Saturated fatty acids are typically solid at room temperature
+* `Unsaturated Fatty Acids`
+	* Contain one or more double bonds in their hydrocarbon chain
+	* They are usually liquid at room temperature and are found in oils such as olive oil, canola oil and fish oil
+
+#### Proteins - 3.4
+* One of the most abundant organic molecules in living systems and have the most diverse range of functions of all macromolecules
+* Serve in transport, storage, or membranes
+* `Amino Acids`
+	* Monomers that comprise proteins
+* `Primary Structure`
+	* Sequence of amino acids in the polypeptide chain
+* `Secondary Structure`
+	* Local folded structure that forms within a polypeptide due to hydrogen bonding between atoms
+
 ***
 #### Cell Theory - 4.1
 * One or more cells comprise all living things, the cell is the basic unit of life, and new cells arise from existing cells
