@@ -101,6 +101,7 @@
 #### Endosymbiotic Theory
 * Eukaryotes may have been a product of one cell engulfing another, one living within another, and coevolving over time until the separate cells were no longer recognizable as such and shared genetic control of a mutualistic metabolic pathway to produce ATP
 * Mitochondria and chloroplasts have double membranes
+* Organelles still have their own DNA
 
 ***
 #### Passive Transport - 5.2
