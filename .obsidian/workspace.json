@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
+                "file": "2024s notes/BIOL 111/Week 1/Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
+                "file": "2024s notes/BIOL 111/Week 1/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
+                "file": "2024s notes/BIOL 111/Week 1/Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md"
+                "file": "2024s notes/BIOL 111/Week 1/Quiz.md"
               }
             }
           },
@@ -158,14 +158,17 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "2024s notes/BIOL 111/Week 2 Review/Review.md",
+    "2024s notes/BIOL 111/Week 2/Quiz.md",
+    "2024s notes/BIOL 111/Week 1/Quiz.md",
+    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
+    "2024s notes/BIOL 111/Week 1 Review/Review.md",
+    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
+    "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
     "2024s notes/CPSC 330/Lecture 13.md",
     "2024s notes/CPSC 330/Lecture 12.md",
-    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
     "2024s notes/BIOL 111/Week 2 Review",
-    "2024s notes/BIOL 111/Week 1 Review/Review.md",
     "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
     "2024s notes/CPSC 330/Lecture 2 - Decision Trees.md",
@@ -186,9 +189,7 @@
     "2024s notes/BIOL 111/Week 2/Assignment.md",
     "2024s notes/BIOL 111/Week 2/May 21 Reading.md",
     "2024s notes/BIOL 111/Week 2/May 23.md",
-    "2024s notes/BIOL 111/Week 2/May 21.md",
     "2024s notes/BIOL 111/Week 2",
-    "2024s notes/BIOL 111/Week 1/May 16.md",
     "2024s notes/BIOL 111/Week 1",
     "2024s notes/BIOL 111",
     "2024s notes/CPSC 330",
