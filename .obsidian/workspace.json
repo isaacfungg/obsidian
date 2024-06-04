@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
+                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
+                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 3/May 28.md",
+                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 3/May 28.md"
+                "file": "2024s notes/BIOL 111/Week 2 Review/Review.md"
               }
             }
           },
@@ -159,19 +158,25 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 1 Review/Review.md",
-    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
-    "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
-    "2024s notes/BIOL 111/Midterm 1 Review/Midterm Learning Goals.md",
-    "2024s notes/BIOL 111/Week 1/May 14.md",
-    "2024s notes/BIOL 111/Week 2 Review/Review.md",
-    "2024s notes/BIOL 111/Midterm 1 Review",
-    "2024s notes/BIOL 111/Week 3/May 28.md",
-    "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
     "2024s notes/BIOL 111/Week 3/May 28 Lecture.md",
+    "2024s notes/BIOL 111/Week 3/May 28.md",
+    "2024s notes/BIOL 111/Midterm 1 Review/Cheat Sheet.md",
+    "2024s notes/BIOL 111/Week 1/May 16.md",
+    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
     "2024s notes/BIOL 111/Week 1/Quiz.md",
-    "2024s notes/BIOL 111/Week 2/Quiz.md",
+    "2024s notes/BIOL 111/Week 2 Review/Review.md",
     "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
+    "2024s notes/BIOL 111/Week 1/May 14.md",
+    "2024s notes/BIOL 111/Midterm 1 Review/Midterm Learning Goals.md",
+    "2024s notes/BIOL 111/Week 1 Review/Review.md",
+    "2024s notes/BIOL 111/Week 2/May 23.md",
+    "2024s notes/BIOL 111/Week 2/May 21 Reading.md",
+    "2024s notes/BIOL 111/Week 2/May 21.md",
+    "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
+    "2024s notes/BIOL 111/Week 2/Assignment.md",
+    "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
+    "2024s notes/BIOL 111/Midterm 1 Review",
+    "2024s notes/BIOL 111/Week 2/Quiz.md",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
     "2024s notes/CPSC 330/Lecture 13.md",
@@ -183,14 +188,8 @@
     "2024s notes/CPSC 330/Lecture 7 - Linear Models.md",
     "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/CPSC 330/Synax.md",
-    "2024s notes/CPSC 330/Lecture 5 - Preprocessing.md",
     "2024s notes/BIOL 111/Week 1 Review",
-    "2024s notes/CPSC 330/Lecture 4 - KNN.md",
-    "2024s notes/CPSC 330/Lecture 11.md",
-    "2024s notes/CPSC 330/Lecture 9.md",
-    "2024s notes/CPSC 330/Lecture 10.md",
     "2024s notes/BIOL 111/Week 3",
-    "2024s notes/BIOL 111/Week 2/Assignment.md",
     "2024s notes/BIOL 111/Week 2",
     "2024s notes/BIOL 111/Week 1",
     "2024s notes/BIOL 111",
