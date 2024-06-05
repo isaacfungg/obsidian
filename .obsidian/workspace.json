@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 13.md",
+                "file": "2024s notes/CPSC 330/Lecture 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 13.md",
+                "file": "2024s notes/CPSC 330/Lecture 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 13.md",
+                "file": "2024s notes/CPSC 330/Lecture 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 13.md"
+                "file": "2024s notes/CPSC 330/Lecture 14.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
+    "2024s notes/CPSC 330/Lecture 13.md",
+    "2024s notes/CPSC 330/Lecture 14.md",
     "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
     "2024s notes/BIOL 111/Week 3/May 28 Lecture.md",
     "2024s notes/BIOL 111/Week 3/May 28.md",
@@ -181,13 +183,11 @@
     "2024s notes/BIOL 111/Midterm 1 Review",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
-    "2024s notes/CPSC 330/Lecture 13.md",
     "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/BIOL 111/Week 2 Review",
     "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
     "2024s notes/CPSC 330/Lecture 2 - Decision Trees.md",
-    "2024s notes/CPSC 330/Lecture 7 - Linear Models.md",
     "2024s notes/BIOL 111/Week 1 Review",
     "2024s notes/BIOL 111/Week 3",
     "2024s notes/BIOL 111/Week 2",
