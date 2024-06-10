@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 4/Reading.md"
+                "file": "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "Pasted image 20240607101646.png",
+    "LeetCode/Arrays & Hashing/Contains Duplicate.md",
+    "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "2024s notes/BIOL 111/Week 4/June 6 Lecture.md",
+    "2024s notes/BIOL 111/Week 4/June 4 Lecture.md",
     "2024s notes/BIOL 111/Week 4/Reading.md",
+    "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
     "2024s notes/CPSC 330/Lecture 13.md",
     "2024s notes/BIOL 111/Week 4",
@@ -183,9 +187,6 @@
     "2024s notes/BIOL 111/Week 2/May 21 Reading.md",
     "2024s notes/BIOL 111/Week 2/May 21.md",
     "2024s notes/BIOL 111/Week 2/Assignment.md",
-    "2024s notes/BIOL 111/Week 1 Review/Review.md",
-    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
-    "2024s notes/BIOL 111/Week 1/Quiz.md",
     "2024s notes/BIOL 111/Midterm 1 Review",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
