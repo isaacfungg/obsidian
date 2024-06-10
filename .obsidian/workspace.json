@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ef407ccbfef0bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP Interview.md",
+                "file": "LeetCode/Stack/Daily Temperatures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP Interview.md",
+                "file": "LeetCode/Stack/Daily Temperatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP Interview.md",
+                "file": "LeetCode/Stack/Daily Temperatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP Interview.md"
+                "file": "LeetCode/Stack/Daily Temperatures.md"
               }
             }
           },
@@ -169,12 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ef407ccbfef0bae",
+  "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "LeetCode/Syntax.md",
-    "SAP Interview.md",
-    "LeetCode/Stack/Valid Parentheses.md",
+    "LeetCode/Two Pointer/Two Sum II.md",
+    "LeetCode/Two Pointer/Three Sum.md",
+    "LeetCode/Two Pointer/Container With Most Water.md",
     "LeetCode/Stack/Min Stack.md",
+    "LeetCode/Stack/Valid Parentheses.md",
+    "SAP Interview.md",
+    "LeetCode/Syntax.md",
     "LeetCode/Stack/Generate Parenthesis.md",
     "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
     "LeetCode/Stack/Daily Temperatures.md",
@@ -197,9 +187,6 @@
     "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/CPSC 330/Lecture 11.md",
     "2024s notes/CPSC 330/Lecture 10.md",
-    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
-    "2024s notes/CPSC 330/Lecture 5 - Preprocessing.md",
-    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
     "2024s notes/BIOL 111/Midterm 1 Review",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
