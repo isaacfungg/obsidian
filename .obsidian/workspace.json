@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 15.md",
+                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elasti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 15.md",
+                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 15.md",
+                "file": "2024s notes/BIOL 111/Week 4/Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 15.md"
+                "file": "2024s notes/BIOL 111/Week 4/Reading.md"
               }
             }
           },
@@ -159,10 +159,21 @@
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
     "Pasted image 20240607101646.png",
-    "2024s notes/CPSC 330/Lecture 14.md",
-    "2024s notes/CPSC 330/Lecture 15.md",
+    "2024s notes/BIOL 111/Week 4/Reading.md",
     "Pasted image 20240605115647.png",
     "2024s notes/CPSC 330/Lecture 13.md",
+    "2024s notes/BIOL 111/Week 4",
+    "2024s notes/CPSC 330/Lecture 12.md",
+    "2024s notes/CPSC 330/Lecture 11.md",
+    "2024s notes/CPSC 330/Lecture 10.md",
+    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
+    "2024s notes/CPSC 330/Lecture 5 - Preprocessing.md",
+    "LeetCode/Syntax.md",
+    "coding/AWS/Cloud Practitioner Essentials/Module 3.md",
+    "coding/DevOps/SAP Questions.md",
+    "coding/DevOps/DevOps Interview Questions.md",
+    "2024s notes/CPSC 330/Lecture 15.md",
+    "2024s notes/CPSC 330/Lecture 14.md",
     "2024s notes/BIOL 111/Week 3/May 30 Lecture.md",
     "2024s notes/BIOL 111/Week 3/May 28 Lecture.md",
     "2024s notes/BIOL 111/Week 3/May 28.md",
@@ -175,20 +186,10 @@
     "2024s notes/BIOL 111/Week 1 Review/Review.md",
     "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
     "2024s notes/BIOL 111/Week 1/Quiz.md",
-    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
-    "2024s notes/BIOL 111/Week 1/May 16.md",
-    "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
-    "2024s notes/BIOL 111/Week 1/May 14.md",
-    "2024s notes/BIOL 111/Midterm 1 Review/Class Notes GPT - Week 2.md",
-    "2024s notes/BIOL 111/Midterm 1 Review/Midterm Learning Goals.md",
-    "2024s notes/BIOL 111/Midterm 1 Review/Class Notes GPT - Week 1.md",
-    "2024s notes/BIOL 111/Midterm 1 Review/Cheat Sheet.md",
     "2024s notes/BIOL 111/Midterm 1 Review",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
-    "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/BIOL 111/Week 2 Review",
-    "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/BIOL 111/Week 1 Review",
     "2024s notes/BIOL 111/Week 3",
     "2024s notes/BIOL 111/Week 2",
@@ -196,7 +197,6 @@
     "2024s notes/BIOL 111",
     "2024s notes/CPSC 330",
     "2024s notes",
-    "LeetCode/Binary Search",
     "Untitled.canvas"
   ]
 }
