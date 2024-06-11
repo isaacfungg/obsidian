@@ -35,3 +35,10 @@ Three Steps to Speciation (order is important)
 * Diagram that depicts the hypothesized evolutionary relationships amongst  species or other taxa
 	* We cannot know evolutionary relationships with absolute certainty.
 * Also called an evolutionary tree
+
+#### Principle of Parsimony
+- `Principle of Parsimony` is used to determine which tree represents the “best hypothesis”
+- Simply stated, parsimony is the assumption that the simplest explanation is most likely to be true
+
+### Test Questions
+Which taxa is B most closely related to – Taxa A or Taxa D?
