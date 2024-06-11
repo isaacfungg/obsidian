@@ -18,3 +18,15 @@ Three Steps to Speciation (order is important)
 - `Sympatric Speciation`
 	- No physical barrier to separate individuals in a population.  
 	- Some other mechanism results in **reproductive isolation** between populations
+
+#### Reproductive Barriers
+* `Prezygotic reproductive barriers` 
+	* (before zygote) -hinders matings or prevents fertilization of the egg.
+	* Difference in timing of reproduction
+	* Habitat isolation
+	* Behavioural - Difference in mating rituals
+	* Gametic Barrier
+* `Post-zygotic reproductive barriers`
+	* (after zygote) -  hinders zygote development – reduced viability or fertility.
+	* Hybrid Sterility or less fertile
+	* Hybrid inviability
