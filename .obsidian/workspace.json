@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Valid Anagram.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elasti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Valid Anagram.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Valid Anagram.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Arrays & Hashing/Valid Anagram.md"
+                "file": "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
+    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
+    "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
+    "2024s notes/BIOL 111/Week 5",
+    "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
+    "LeetCode/Arrays & Hashing/Valid Anagram.md",
     "LeetCode/Binary Search/Binary Search.md",
     "LeetCode/Binary Search/Search a 2d Matrix.md",
     "LeetCode/Binary Search/Koko Eating Bananas.md",
@@ -182,11 +187,7 @@
     "2024s notes/BIOL 111/Week 4/Reading.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
-    "2024s notes/CPSC 330/Lecture 13.md",
     "2024s notes/BIOL 111/Week 4",
-    "2024s notes/CPSC 330/Lecture 12.md",
-    "2024s notes/CPSC 330/Lecture 11.md",
-    "2024s notes/CPSC 330/Lecture 10.md",
     "2024s notes/BIOL 111/Midterm 1 Review",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
@@ -197,7 +198,6 @@
     "2024s notes/BIOL 111/Week 1",
     "2024s notes/BIOL 111",
     "2024s notes/CPSC 330",
-    "2024s notes",
     "Untitled.canvas"
   ]
 }
