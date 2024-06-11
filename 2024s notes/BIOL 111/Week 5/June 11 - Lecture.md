@@ -30,3 +30,8 @@ Three Steps to Speciation (order is important)
 	* (after zygote) -  hinders zygote development – reduced viability or fertility.
 	* Hybrid Sterility or less fertile
 	* Hybrid inviability
+
+#### Phylogenetic Tree
+* Diagram that depicts the hypothesized evolutionary relationships amongst  species or other taxa
+	* We cannot know evolutionary relationships with absolute certainty.
+* Also called an evolutionary tree
