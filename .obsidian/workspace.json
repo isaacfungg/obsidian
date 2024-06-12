@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Option Volatility & Pricing/Terminology.md",
+                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.0024719238281
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Option Volatility & Pricing/Terminology.md",
+                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Option Volatility & Pricing/Terminology.md",
+                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Option Volatility & Pricing/Terminology.md"
+                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
     "Option Volatility & Pricing/Terminology.md",
+    "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
     "Option Volatility & Pricing",
     "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/BIOL 111/Week 5",
