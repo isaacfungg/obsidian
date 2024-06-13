@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f460562bbd9f24f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2548e1958c3341db",
+  "active": "0f460562bbd9f24f",
   "lastOpenFiles": [
     "Option Volatility & Pricing/Terminology.md",
     "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
