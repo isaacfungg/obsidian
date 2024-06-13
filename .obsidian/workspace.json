@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f460562bbd9f24f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
+                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md"
+                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md"
               }
             }
           },
@@ -167,10 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f460562bbd9f24f",
+  "active": "2548e1958c3341db",
   "lastOpenFiles": [
-    "Option Volatility & Pricing/Terminology.md",
     "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
+    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+    "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
+    "Option Volatility & Pricing/Terminology.md",
     "Option Volatility & Pricing",
     "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/BIOL 111/Week 5",
@@ -195,8 +186,6 @@
     "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
     "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
-    "2024s notes/BIOL 111/Week 4/June 6 Lecture.md",
-    "2024s notes/BIOL 111/Week 4/June 4 Lecture.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
     "2024s notes/BIOL 111/Week 4",
