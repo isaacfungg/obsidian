@@ -78,7 +78,7 @@ Under what conditions can we realistically expect **exponential growth** to occu
 		* Called pioneering species
 
 * `Secondary succession`
-	* Follows a  disturbance that has removed some  or all living organisms, but some of the soil remains.
+	* Follows a  disturbance that has removed some or all living organisms, but some of the soil remains.
 	* An example of secondary succession would be succession following a forest fire.
 
 * `Early Succession`
