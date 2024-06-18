@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md"
+                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md"
               }
             }
           },
@@ -168,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2548e1958c3341db",
+  "active": "674ebd3397c04154",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+    "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "2024s notes/BIOL 111/Week 6",
     "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
     "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
