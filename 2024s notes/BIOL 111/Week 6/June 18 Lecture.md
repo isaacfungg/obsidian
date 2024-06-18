@@ -20,7 +20,7 @@
 * A considerable amount of energy (~80-95%) is lost, as heat at each step in the food chain/food web
 * `Ten Percent Rule`
 	* Only about 10% of the chemical energy available at one trophic level is transferred and stored in usable form in the bodies of organisms at the next trophic level.
-
+* Bioaccumulation of toxic chemicals in the bodies of organisms; the concentration of toxic chemical increase as one moves up the trophic level
 
 ###### Exam Question
 * You collected data on the biomass of multiple taxa within an ecosystem.  Identify trophic level (e.g. 1° consumer). Assuming ~90% energy loss between trophic levels, **draw a food web**.   **2 minutes, discuss with your neighbours  
