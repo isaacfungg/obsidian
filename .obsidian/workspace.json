@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 6/June 18 Lecture.md"
+                "file": "2024s notes/BIOL 111/Week 6/June 20 Lecture.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "674ebd3397c04154",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
+    "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
+    "LeetCode/Arrays & Hashing/Contains Duplicate.md",
+    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "2024s notes/BIOL 111/Week 6",
     "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
     "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
@@ -198,8 +200,6 @@
     "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
     "LeetCode/Arrays & Hashing/Top K Frequent Elements.md",
     "LeetCode/Arrays & Hashing/Two Sum.md",
-    "LeetCode/Arrays & Hashing/Product of Array Except Self.md",
-    "LeetCode/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
     "2024s notes/BIOL 111/Week 4",
