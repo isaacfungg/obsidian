@@ -8,4 +8,7 @@ int singleNumber(vector<int>& nums) {
 		ans ^= x;
 	return ans;
 }
+
+# Time: O(n) 
+# Space: O(1)
 ```
