@@ -8,24 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2548e1958c3341db",
+            "id": "674ebd3397c04154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+                "file": "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e1cce3f48fd7cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba22473efbed36e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024s notes/BIOL 111/Final/Learning Goals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "674ebd3397c04154",
+            "id": "2114e878e6dc178b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Strategies/XOR - Single Number.md",
+                "file": "2024s notes/BIOL 111/Final/Final Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Strategies/XOR - Single Number.md",
+                "file": "2024s notes/BIOL 111/Final/Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Strategies/XOR - Single Number.md",
+                "file": "2024s notes/BIOL 111/Final/Final Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Strategies/XOR - Single Number.md"
+                "file": "2024s notes/BIOL 111/Final/Final Review.md"
               }
             }
           },
@@ -169,10 +187,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "674ebd3397c04154",
+  "active": "2114e878e6dc178b",
   "lastOpenFiles": [
-    "LeetCode/Syntax.md",
+    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
+    "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
+    "2024s notes/BIOL 111/Week 1/May 16.md",
+    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
+    "2024s notes/BIOL 111/Week 1/May 14.md",
+    "2024s notes/BIOL 111/Final/Final Review.md",
+    "2024s notes/BIOL 111/Week 1/Quiz.md",
+    "2024s notes/BIOL 111/Week 1 Review/Review.md",
+    "2024s notes/BIOL 111/Final/Learning Goals.md",
+    "2024s notes/BIOL 111/Final",
+    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "LeetCode/Strategies/XOR - Single Number.md",
+    "LeetCode/Syntax.md",
     "LeetCode/Others",
     "LeetCode/Other/Untitled.md",
     "LeetCode/Strategies",
@@ -180,7 +209,6 @@
     "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
     "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
-    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "2024s notes/BIOL 111/Week 6",
     "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
     "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
@@ -194,15 +222,6 @@
     "LeetCode/Binary Search/Search a 2d Matrix.md",
     "LeetCode/Binary Search/Koko Eating Bananas.md",
     "LeetCode/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "LeetCode/Stack/Daily Temperatures.md",
-    "LeetCode/Two Pointer/Two Sum II.md",
-    "LeetCode/Two Pointer/Three Sum.md",
-    "LeetCode/Two Pointer/Container With Most Water.md",
-    "LeetCode/Stack/Min Stack.md",
-    "LeetCode/Stack/Valid Parentheses.md",
-    "SAP Interview.md",
-    "LeetCode/Stack/Generate Parenthesis.md",
-    "LeetCode/Stack/Evaluate Reverse Polish Notation.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
     "2024s notes/BIOL 111/Week 4",
@@ -210,7 +229,6 @@
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
     "2024s notes/BIOL 111/Week 2 Review",
-    "2024s notes/BIOL 111/Week 1 Review",
     "Untitled.canvas"
   ]
 }

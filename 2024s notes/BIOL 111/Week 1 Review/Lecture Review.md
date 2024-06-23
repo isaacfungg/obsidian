@@ -21,14 +21,6 @@
 * DNA
 * Ribosomes
 
-`Hypertonic`
-* The solute concentration outside the cell is lower than inside the cell
-* Water moves into the cell
-
-`Hypertonic`
-* The solute concentration outside the cell is higher than inside the cell
-* Water moves out of the cell
-
 #### Carbon Cycle
 * `Autotrophs`
 	* Fix carbon, converting them into organic compounds
