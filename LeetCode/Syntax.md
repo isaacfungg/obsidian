@@ -24,6 +24,7 @@ set.count(num);
 ```cpp
 unordered_map<int, int> map;
 
+map[x] = 2;  // Placing items in a map
 map.first    // Gets the key
 map.second   // Gets the value
 map.count(x) // Returns the number of elements (0 or 1)
