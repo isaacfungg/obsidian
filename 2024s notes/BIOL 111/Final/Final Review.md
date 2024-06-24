@@ -147,7 +147,7 @@
 * Not inherited from a common ancestor
 * Due to convergent evolution %%
 
-###### Four Mechanisms of Evolution
+%% ###### Four Mechanisms of Evolution
 `Mutation`
 * Formerly unknown alleles in a population
 * Base substitutions or base insertions or deletions
@@ -181,12 +181,12 @@
 		* Limited by ability to obtain resources for producing eggs
 	* Male Fitness
 		* Energetically inexpensive
-		* Limited by the number of females they can mate with
-`Adaptation`
-* Heritable traits that increases the fitness of individuals
+		* Limited by the number of females they can mate with %%
+%% `Adaptation`
+* Heritable traits that increases the fitness of individuals %%
 
 #### Week 5
-`Species`
+%% `Species`
 * Group of organisms that can reproduce with each other and produce viable offspring and is reproductively isolated from other organisms
 `Speciation`
 * Evolutionary process of by which new species form
@@ -203,7 +203,7 @@
 	* `Dispersal`
 		* A few members of a population move to a new area
 * `Sympatric Speciation`
-	* No physical barrier to separate individuals in a population
+	* No physical barrier to separate individuals in a population %%
 
 `Prezygotic reproductive barrier`
 * Hinders mating or prevents fertilization of the egg
