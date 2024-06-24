@@ -46,7 +46,7 @@
 * A theory that explains the origin of certain organelles in eukaryotic cells, particularly mitochondria and chloroplasts
 * These organelles still have their own DNA %%
 
-`Lipids`
+%% `Lipids`
 * Long chains of carbon and hydrogen
 * They don't interact well with water - hydrophobic
 * Important energy sources
@@ -58,13 +58,13 @@
 
 `Proteins`
 * Made up of amino acids
-* Provide structural support
-
+* Provide structural support %%
+%% 
 `Autotrophs`
 * Fix carbon, converting them into organic compounds
 
 `Heterotrophs`
-* Eat autotrophs containing the fixed carbon
+* Eat autotrophs containing the fixed carbon %%
 
 `Photosynthesis`
 * Sets off the process of carbon cycle
@@ -85,17 +85,17 @@
 
 #### Week 2
 `Nucleic Acids`
-* Chains of nucleotides are used to store genetic sequence information
+%% * Chains of nucleotides are used to store genetic sequence information
 * Base: Determines the identity of the nucleotide
-* Nucleotide: Sugar + base + 1 to 3 phosphates
+* Nucleotide: Sugar + base + 1 to 3 phosphates %%
 
-`Genome`
+%% `Genome`
 * All the genetic material in an organism passed from parent to offspring
 
 `Genes`
 * Basic unit of heredity
 * Can encode proteins
-* Can encode functional RNAs
+* Can encode functional RNAs %%
 
 ###### DNA vs RNA
 * RNA uses ribose while DNA uses deoxyribose
