@@ -106,6 +106,7 @@
 * We call the end with the phosphate 5'
 * The end with a hydroxyl is called 3'
 * New nucleotides are added at the 3' end
+* Starts at AUG
 
 ###### Why do you think cells divide?
 * To form a certain structure while an organism is growing
