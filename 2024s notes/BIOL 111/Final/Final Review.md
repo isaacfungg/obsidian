@@ -84,4 +84,45 @@
 
 
 #### Week 2
+`Nucleic Acids`
+* Chains of nucleotides are used to store genetic sequence information
+* Base: Determines the identity of the nucleotide
+* Nucleotide: Sugar + base + 1 to 3 phosphates
+
+`Genome`
+* All the genetic material in an organism passed from parent to offspring
+
+`Genes`
+* Basic unit of heredity
+* Can encode proteins
+* Can encode functional RNAs
+
+###### DNA vs RNA
+* RNA uses ribose while DNA uses deoxyribose
+* DNA is much more stable than RNA
+* RNA uses U while DNA uses T
+
+###### Base Pairing
+* We call the end with the phosphate 5'
+* The end with a hydroxyl is called 3'
+* New nucleotides are added at the 3' end
+
+###### Why do you think cells divide?
+* To form a certain structure while an organism is growing
+* To replace injured cells
+* To replace cells that die at the end of their life span
+
+###### Cell Cycle
+* Has 4 different stages: G1, S, G2, and M
+* Interphase: G1, S, G2
+	* G1 - Cell Growth
+		* Checkpoint ensures that everything is ready for DNA synthesis
+		* Size, nutrients, molecular signals, DNA integrity
+	* S - Synthesis
+		* DNA replication
+	* G2 - Growth + preparation for mitosis
+		* Checkpoint ensures that everything is ready for M phase
+		* DNA integrity
+		* DNA replication
+* M: Mitosis and cytokinesis (cell division)
 * 
