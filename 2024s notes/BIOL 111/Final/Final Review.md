@@ -8,14 +8,14 @@
 `Passive Transport`
 * Does not require external energy
 
-`Diffusion`
+%% `Diffusion`
 * Passive transport process where molecules move from an area of higher concentration to an area of lower concentration
 * The rate of diffusion is determined by the distance the substance needs to travel and the surface area allowed for diffusion
 * Cells are very small because of the efficiency of diffusion (less distance and more surface area)
 
 `Facilitated Diffusion`
 * Passive transport method but involves the use of protein channels or carriers in the cell membrane to help specific molecules such as glucose and ions across the membrane
-* Mainly for molecules too large for diffusion
+* Mainly for molecules too large for diffusion %%
 
 `Active Transport`
 * Requires energy to move molecules against their concentration gradient
@@ -26,25 +26,25 @@
 * DNA
 * Ribosomes (to make proteins based on the DNA)
 
-`Osmosis`: The movement of water through a semipermeable membrane according to the water's concentration gradient across the membrane, which is inversely proportional to the solutes' concentration
+%% `Osmosis`: The movement of water through a semipermeable membrane according to the water's concentration gradient across the membrane, which is inversely proportional to the solutes' concentration %%
 
-`Hypertonic`
+%% `Hypotonic`
 * The solute concentration outside the cell is lower than inside the cell
 * Water moves into the cell
 
 `Hypertonic`
 * The solute concentration outside the cell is higher than inside the cell
-* Water moves out of the cell
+* Water moves out of the cell %%
 
-`Endocytosis`
+%% `Endocytosis`
 * Process involves the cell takin gin substances by enveloping them in a section of its own membrane
 
 `Exocytosis`
-* Involves the cell expelling materials. Vesicles within the cell fuse with the plasma membrane, releasing their contents to the outside of the cell.
+* Involves the cell expelling materials. Vesicles within the cell fuse with the plasma membrane, releasing their contents to the outside of the cell. %%
 
-`Endosymbiotic Theory`
+%% `Endosymbiotic Theory`
 * A theory that explains the origin of certain organelles in eukaryotic cells, particularly mitochondria and chloroplasts
-* These organelles still have their own DNA
+* These organelles still have their own DNA %%
 
 `Lipids`
 * Long chains of carbon and hydrogen
