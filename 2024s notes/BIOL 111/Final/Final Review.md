@@ -126,4 +126,129 @@
 		* DNA integrity
 		* DNA replication
 * M: Mitosis and cytokinesis (cell division)
-* 
+
+
+#### Week 4
+%% `Biological Evolution`
+* A change in the (heritable) characteristics of a population over generations
+`Microevolution`
+* Changes in allele frequencies in a population in a relative short period of time
+`Macroevolution`
+* Evolution that occurs at or above the species level %%
+
+%% `Homology`
+* Similarity between species that results from the inheritance of traits from a common ancestor
+	* Structural (morphological traits)
+	* Developmental (embryonic structures/processes)
+	* Genetic (gene structure and the genetic code)
+
+`Analogous traits`
+* Independent solution to an environmental demand
+* Not inherited from a common ancestor
+* Due to convergent evolution %%
+
+###### Four Mechanisms of Evolution
+`Mutation`
+* Formerly unknown alleles in a population
+* Base substitutions or base insertions or deletions
+* Only 2% of DNA codes for proteins so it is rare
+* Considered a weak evolutionary mechanism
+* Ultimate source of genetic variation
+`Genetic Drift`
+* Random fluctuations in allele frequencies due to chance
+* More likely to occur in small isolated populations
+	* `Population Bottleneck`
+		* Population size decreases rapidly over a short period of time (e.g fire)
+		* Reduces the number and diversity of alleles that can pass to the next generation
+	* `Founder Effect`
+		* New population is founded by a few individuals (colonization)
+`Gene Flow`
+* Movements of individuals in and out of populations resulting in change in allele frequencies
+* Can introduce new alleles into a population
+* Lack of gene flow between population can lead to genetic divergence
+`Natural Selection`
+* Increase in the frequency of advantageous alleles in a population due to differential survival and reproduction
+	* Three requirements
+		* Variation in a certain trait
+		* The trait is heritable
+		* More offspring are produced than can possibly survive
+		* 
+
+`Fitness`
+* Refers to the capability of an organism to produce viable offspring relative to others in the population
+	* Female Fitness
+		*  Energetically expensive
+		* Limited by ability to obtain resources for producing eggs
+	* Male Fitness
+		* Energetically inexpensive
+		* Limited by the number of females they can mate with
+`Adaptation`
+* Heritable traits that increases the fitness of individuals
+
+#### Week 5
+`Species`
+* Group of organisms that can reproduce with each other and produce viable offspring and is reproductively isolated from other organisms
+`Speciation`
+* Evolutionary process of by which new species form
+* 3 Steps
+	* Gene flow stops - Genetically isolated
+	* Isolated populations diverge genetically
+		* Due to mutations, natural selection or genetic drift
+	* Reproductive isolation
+* `Allopatric Speciation`
+	* Geographic separation of populations
+	* No gene flow between populations
+	* `Vicariance`
+		* Physical splitting of one population into two or more 
+	* `Dispersal`
+		* A few members of a population move to a new area
+* `Sympatric Speciation`
+	* No physical barrier to separate individuals in a population
+
+`Prezygotic reproductive barrier`
+* Hinders mating or prevents fertilization of the egg
+`Post-zygotic reproductive barrier`
+* Hinders zygote development 
+
+`Parsimony`
+* Assumption that the simplest explanation is most likely to be true
+
+`Ecology`
+* Scientific study of how organisms interact with one another and their environment
+* Goals of ecological research
+	* Identify and describe the patterns of distribution and abundance of organisms
+	* Understand these patterns
+
+`Abiotic`
+* Non living factors
+`Biotic`
+* Living factors
+
+`Range of Tolerance`
+* Range of abiotic conditions in which an organism can survive and reproduce
+
+`Logistic Growth`
+* The population growth rate ( _r_ ) declines as the population size gets closer its **carrying capacity (K).**
+###### Survivorship Curves
+* `Type 1`
+	* Most survive and until old age
+	* e.g. Humans and elephants
+* `Type 2`
+	* Constant proportion of deaths per age
+	* e.g. Birds and lizards
+* `Type 3`
+	* Most die at young age
+	* e.g. Fish and plants
+
+`r-selected Life History Strategy
+* Maximizes reproduction
+* Limited investment in offspring
+* Young have high mortality 
+* High mortality prevents populations from reaching _K_
+* Tend to be organisms  that are adapted to environmentally unstable/unpredictable environments
+
+`K-selected Life History Strategy
+* Heavy investment in parental care
+* Long-lived organisms with a long period of maturations before becoming reproductively mature
+* Offspring have a higher chance of surviving
+* More common in high-quality and competitive environments
