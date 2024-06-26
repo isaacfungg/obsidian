@@ -1,4 +1,37 @@
 ***
+**Feature engineering** is the process of **transforming raw data into features** that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.
+
+### Better features usually help more than a better model.
+- Good features would ideally:
+    - capture **most important aspects** of the problem
+    - allow learning with **few examples**
+    - **generalize** to new scenarios.
+- There is a trade-off between **simple** and **expressive** features:
+    - With **simple features** overfitting risk is low, but **scores might be low**.
+    - With **complicated features** scores can be high, but so is **overfitting risk**.
+
+### The best features may be dependent on the model you use.
+- Examples:
+    - For counting-based methods like decision trees, separate relevant **groups of variable values**
+        - Discretization
+            - Partitioning and converting continuous attributes into discrete intervals
+            - Enables using continuous features for algorithms requiring discrete features
+    - For distance-based methods like kNN, we want different class labels to be "far".
+        - Standardization
+            - Avoid dominance of wide-ranging features over other features with smaller ranges
+    - For regression-based methods like linear regression, we want targets to have a linear dependency on features.
+
+### Feature crosses for one-hot encoded features
+- You can think of **feature crosses of one-hot-features as logical conjunctions**
+- Suppose you want to predict whether you will **find parking or not** based on two features:
+    - **area** (possible categories: UBC campus and Rogers Arena)
+    - **time** of the day (possible categories: 9am and 7pm)
+- A **feature cross** in this case would create **four new features**:
+    - UBC campus and 9am
+    - UBC campus and 7pm
+    - Rogers Arena and 9am
+    - Rogers Arena and 7pm.
+- The features UBC campus and 9am on their own are not that informative but the newly created feature UBC campus and 9am or Rogers Arena and 7pm would be quite informative.
 #### PolynomialFeatures
 ```python
 from sklearn.preprocessing import PolynomialFeatures

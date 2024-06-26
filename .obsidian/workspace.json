@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 12.md",
+                "file": "2024s notes/CPSC 330/Lecture 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 12.md",
+                "file": "2024s notes/CPSC 330/Lecture 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 12.md",
+                "file": "2024s notes/CPSC 330/Lecture 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 12.md"
+                "file": "2024s notes/CPSC 330/Lecture 13.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "674ebd3397c04154",
   "lastOpenFiles": [
+    "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/CPSC 330/Lecture 11.md",
     "2024s notes/CPSC 330/Lecture 10.md",
     "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
@@ -185,7 +186,6 @@
     "LeetCode/Strategies/XOR - Single Number.md",
     "LeetCode/Syntax.md",
     "LeetCode/Others",
-    "LeetCode/Other/Untitled.md",
     "LeetCode/Strategies",
     "LeetCode/Other",
     "2024s notes/BIOL 111/Week 6",
