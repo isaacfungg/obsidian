@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/CPSC 330/Lecture 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/CPSC 330/Lecture 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md",
+                "file": "2024s notes/CPSC 330/Lecture 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/CPSC 330/Lecture 10.md"
+                "file": "2024s notes/CPSC 330/Lecture 12.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "674ebd3397c04154",
   "lastOpenFiles": [
-    "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
+    "2024s notes/CPSC 330/Lecture 11.md",
     "2024s notes/CPSC 330/Lecture 10.md",
+    "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
     "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
     "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/CPSC 330/Lecture 7 - Linear Models.md",
@@ -187,7 +188,6 @@
     "LeetCode/Other/Untitled.md",
     "LeetCode/Strategies",
     "LeetCode/Other",
-    "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "2024s notes/BIOL 111/Week 6",
     "Option Volatility & Pricing",
     "2024s notes/BIOL 111/Week 5",
