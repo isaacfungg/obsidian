@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+                "file": "2024s notes/CPSC 330/Lecture 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "6e1cce3f48fd7cdb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba22473efbed36e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024s notes/BIOL 111/Final/Learning Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2114e878e6dc178b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024s notes/BIOL 111/Final/Final Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024s notes/BIOL 111/Final/Final Review.md",
+                "file": "2024s notes/CPSC 330/Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024s notes/BIOL 111/Final/Final Review.md",
+                "file": "2024s notes/CPSC 330/Lecture 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024s notes/BIOL 111/Final/Final Review.md"
+                "file": "2024s notes/CPSC 330/Lecture 10.md"
               }
             }
           },
@@ -187,12 +156,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2114e878e6dc178b",
+  "active": "674ebd3397c04154",
   "lastOpenFiles": [
-    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
-    "2024s notes/BIOL 111/Final/Final Review.md",
-    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
+    "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
+    "2024s notes/CPSC 330/Lecture 10.md",
+    "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
+    "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
+    "2024s notes/CPSC 330/Lecture 7 - Linear Models.md",
+    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
+    "2024s notes/CPSC 330/Lecture 5 - Preprocessing.md",
+    "2024s notes/CPSC 330/Lecture 4 - KNN.md",
+    "2024s notes/CPSC 330/Lecture 2 - Decision Trees.md",
+    "2024s notes/BIOL 111/Week 4/June 6 Lecture.md",
     "2024s notes/BIOL 111/Final/Learning Goals.md",
+    "2024s notes/BIOL 111/Final/Final Review.md",
+    "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
+    "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
+    "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
+    "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
     "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
     "2024s notes/BIOL 111/Week 1/May 16.md",
     "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
@@ -206,22 +187,10 @@
     "LeetCode/Other/Untitled.md",
     "LeetCode/Strategies",
     "LeetCode/Other",
-    "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
-    "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "LeetCode/Arrays & Hashing/Contains Duplicate.md",
     "2024s notes/BIOL 111/Week 6",
-    "2024s notes/BIOL 111/Week 5/June 11 - Lecture.md",
-    "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
-    "Option Volatility & Pricing/Terminology.md",
     "Option Volatility & Pricing",
-    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/BIOL 111/Week 5",
-    "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
-    "LeetCode/Arrays & Hashing/Valid Anagram.md",
-    "LeetCode/Binary Search/Binary Search.md",
-    "LeetCode/Binary Search/Search a 2d Matrix.md",
-    "LeetCode/Binary Search/Koko Eating Bananas.md",
-    "LeetCode/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
     "2024s notes/BIOL 111/Week 4",
