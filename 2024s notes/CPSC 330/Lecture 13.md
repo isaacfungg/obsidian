@@ -70,10 +70,10 @@ preprocessor2 = make_column_transformer(
 
 ***
 #### RFE algorithm
-1. Decide , the number of features to select.
+1. Decide the number of features to select.
 2. Assign importances to features, e.g. by fitting a model and looking at `coef_` or `feature_importances_`.
 3. Remove the least important feature.
-4. Repeat steps 2-3 until only  features are remaining.
+4. Repeat steps 2-3 until only  $k$ features are remaining.
 
 ```python
 from sklearn.feature_selection import RFE
