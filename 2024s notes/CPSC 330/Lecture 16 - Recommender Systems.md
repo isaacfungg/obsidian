@@ -1,0 +1,12 @@
+***
+- **Collaborative filtering**
+    - "Unsupervised" learning
+    - We only have labels 𝑦𝑖𝑗 (rating of user 𝑖 for item 𝑗).
+    - We learn features.
+- **Content-based recommenders**
+    - Supervised learning
+    - Extract features 𝑥𝑖 of users and/or items and building a model to predict rating 𝑦𝑖 given 𝑥𝑖.
+    - Apply model to predict for new users/items.
+- Hybrid
+    - Combining collaborative filtering with content-based filtering
+    - 
