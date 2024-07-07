@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "674ebd3397c04154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024s notes/CPSC 330/Lecture 16 - Recommender Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae0febe019af85f5",
+            "id": "b2923d3416846731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.0024719238281
+    "width": 200
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -169,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae0febe019af85f5",
+  "active": "b2923d3416846731",
   "lastOpenFiles": [
+    "LeetCode/Syntax.md",
     "Research/BC Childrens/Info.md",
     "Research/BC Childrens",
     "Research",
@@ -198,7 +186,6 @@
     "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
     "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
     "2024s notes/BIOL 111/Week 1/May 16.md",
-    "2024s notes/BIOL 111/Week 1/May 16 Reading.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",

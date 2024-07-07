@@ -4,7 +4,8 @@
 ```cpp
 isalnum('a');    // check if a given character is alphanumeric
 tolower('A');    // Turns it to lower
-/```
+stoi("1");       // Turns strings to number
+```
 #### Vector
 ```cpp
 vector<int> vec(x, y);   // size = x, initial value = y
@@ -32,7 +33,14 @@ map.count(x) // Returns the number of elements (0 or 1)
 map.find(x) != map.end() // Checks if something is in the map
 ```
 
-
+#### Stack
+```cpp
+stack<char> x;
+x.push(y);
+x.pop();
+x.empty();
+x.top();
+```
 #### Priority Queue
 ```cpp
 priority_queue<int, vector<int>, greater<int>> minHeap;
