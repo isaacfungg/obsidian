@@ -18,3 +18,54 @@ Assume that we have an smp instance with zero stable solutions and employers hav
 
 Since we have determined that the applicants would follow a specific order and choose accordingly that tells us that there is one solution causing a contradiction.
 
+
+
+
+**Claim**: There exists only one stable solution
+
+###### Proof by contradiction
+
+Example:
+E = {e1, e2, e3}
+A = {a1, a2, a3}
+
+e1: a3 a2 a1
+e2: a3 a2 a1
+e3: a3 a2 a1
+
+a1: e1, e2, e3
+a2: e3, e2, e1
+a3: e1, e2, e3
+
+P = {a3, a2, a1} - *Order in which applicants can choose
+* Logic: All employers first pick is **a3** so a3 basically gets to "choose" its employer because whatever its preference is it would get. Repeat for all of **P** and if an employer is already picked then go to the next preferred.
+##### Example:
+According to **P**, **A3** would get to "decide" first. 
+{(e1, a3)}
+~~e1: a3 a2 a1~~
+e2: ~~a3~~ a2 a1
+e3: ~~a3~~ a2 a1
+
+a1: ~~e1~~, e2, e3
+a2: e3, e2, e1
+~~a3: e1, e2, e3~~
+
+Next up would be e2 which has its first preference of e3:
+{(e1, a3), (e2, a2)}
+~~e1: a3 a2 a1~~
+~~e2: a3 a2 a1~~
+e3: ~~a3~~ ~~a2~~ a1
+
+a1: ~~e1~~, ~~e2~~, e3
+~~a2: e3, e2, e1~~
+~~a3: e1, e2, e3~~
+
+Which leaves us with the last pair e3 and a1.
+
+
+***
+
+
+
+
+
