@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "Research/BC Childrens/Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26ba5083d09f5773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 320 - A1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "CPSC 320 - A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Syntax.md",
+                "file": "CPSC 320 - A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Syntax.md"
+                "file": "CPSC 320 - A1.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2923d3416846731",
+  "active": "26ba5083d09f5773",
   "lastOpenFiles": [
-    "LeetCode/Syntax.md",
     "Research/BC Childrens/Info.md",
+    "CPSC 320 - A1.md",
+    "LeetCode/Syntax.md",
     "Research/BC Childrens",
     "Research",
     "2024s notes/CPSC 330/Lecture 15.md",
@@ -185,7 +199,6 @@
     "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
     "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
-    "2024s notes/BIOL 111/Week 1/May 16.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
