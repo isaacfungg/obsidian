@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 320 - A1.md",
+                "file": "Research/BC Childrens/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPSC 320 - A1.md",
+                "file": "Research/BC Childrens/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPSC 320 - A1.md",
+                "file": "Research/BC Childrens/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPSC 320 - A1.md"
+                "file": "Research/BC Childrens/Start.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "26ba5083d09f5773",
   "lastOpenFiles": [
     "Research/BC Childrens/Info.md",
+    "Research/BC Childrens/Start.md",
     "CPSC 320 - A1.md",
     "LeetCode/Syntax.md",
     "Research/BC Childrens",
@@ -198,7 +199,6 @@
     "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "2024s notes/BIOL 111/Week 5/June 13 - Lecture.md",
     "2024s notes/BIOL 111/Week 1 Review/Lecture Review.md",
-    "2024s notes/BIOL 111/Week 1/May 14 Reading.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
