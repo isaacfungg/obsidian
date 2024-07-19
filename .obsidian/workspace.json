@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -169,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26ba5083d09f5773",
+  "active": "223da003e8feb6d4",
   "lastOpenFiles": [
     "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Progress.md",

@@ -1,6 +1,6 @@
 ***
 #### Learning Rate: 0.001, Weight Decay: 1e-4
-Name: exp_lr_0.001_wd_1e-4_epochs_100
+Name: **exp_lr_0.001_wd_1e-4_epochs_100**
 ###### Train:
 loss: -0.2733
 IoU: 0.4938
@@ -10,6 +10,17 @@ val_iou: 0.4690
 IoU: 0.4790
 Dice: 0.6478
 
+#### Learning Rate: 0.001, Weight Decay: 1e-5, Gamma: 0.5, epoch 100
+Name: **exp_lr_0.001_wd_1e-5_gamma_0.5_epochs_50**
+
+###### Train:
+loss: 0.5194
+IoU: 0.3824 
+val_loss: 0.5150 
+val_iou: 0.3882
+###### Test:
+IoU: 0.3882
+Dice: 0.5593
 
 ```python
 python train.py --dataset /scratch/st-ilker 1/ifung01/US_Children_dataset_segmentation/full_dataset \
