@@ -29,12 +29,21 @@ Loss: 0.3169
 IoU: 0.4248 
 val_loss: 0.3147
 val_iou: 0.4294
-
 ###### Test:
 IoU: 0.4252
 Dice: 0.5967
 
+#### Learning Rate: 0.001, Weight Decay: 1e-4, Gamma: 0.5, Epoch: 50
+Name: **exp_lr_0.001_wd_1e-4_gamma_0.5_epochs_50**
+###### Train:
+Loss: 0.3629
+IoU: 0.3971
+val_loss: 0.3511
+val_iou: 0.4081
 
+###### Test:
+IoU: 0.4152
+Dice: 0.5867
 
 ```python
 python train.py --dataset /scratch/st-ilker 1/ifung01/US_Children_dataset_segmentation/full_dataset \
