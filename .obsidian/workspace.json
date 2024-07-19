@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Info.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 100.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Progress.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 50.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 295.0024719238281
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/Progress.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/Progress.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/Progress.md"
+                "file": "Research/BC Childrens/Scores - Epoch = 50.md"
               }
             }
           },
@@ -170,12 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "223da003e8feb6d4",
+  "active": "26ba5083d09f5773",
   "lastOpenFiles": [
-    "Research/BC Childrens/Start.md",
-    "Research/BC Childrens/Progress.md",
-    "Research/BC Childrens/Update.md",
+    "Research/BC Childrens/Scores - Epoch = 250.md",
+    "Research/BC Childrens/Scores - Epoch = 100.md",
+    "Research/BC Childrens/Scores - Epoch = 50.md",
     "Research/BC Childrens/Info.md",
+    "Research/BC Childrens/Start.md",
+    "Research/BC Childrens/Update.md",
     "CPSC 320 - A1.md",
     "LeetCode/Syntax.md",
     "Research/BC Childrens",
@@ -198,8 +199,6 @@
     "2024s notes/BIOL 111/Week 4/June 6 Lecture.md",
     "2024s notes/BIOL 111/Final/Learning Goals.md",
     "2024s notes/BIOL 111/Final/Final Review.md",
-    "2024s notes/BIOL 111/Week 6/June 20 Lecture.md",
-    "2024s notes/BIOL 111/Week 6/June 18 Lecture.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
