@@ -5,6 +5,10 @@
 5. conda activate unext
 6. python train.py --dataset /scratch/st-ilker-1/ifung01/US_Children_dataset_segmentation/full_dataset --arch UNext --name experiment_1 --img_ext .png --mask_ext .png --lr 0.0001 --epochs 500 --input_w 512 --input_h 512 --b 8
 
+#### Training Models
+1. ssh ifung01@sockeye.arc.ubc.ca
+2. cd /scratch/st-ilker-1/ifung01/UNeXt-pytorch
+3. python ...
 
 #### Reusing models
 cd Unext/models
