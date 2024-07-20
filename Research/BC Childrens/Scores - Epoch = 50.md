@@ -43,3 +43,9 @@ val_iou: 0.4099
 IoU: 0.4115
 Dice: 0.5830
 
+#### Learning Rate: 0.0001, Weight Decay: 1e-5, Gamma: 0.5
+Train:
+Loss: 0.6347
+IoU 0.3086
+val_loss: 0.6113 
+val_iou: 0.3243
