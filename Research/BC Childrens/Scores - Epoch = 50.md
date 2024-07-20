@@ -1,4 +1,11 @@
 ***
+#### Learning Rate: 0.001, Weight Decay: 1e-5, Gamma: 0.8
+Name: **exp_lr_0.001_wd_1e-5_gamma_0.8_epochs_50**
+
+###### Train:
+loss 0.3073 - iou 0.4293 - val_loss 0.3018 - val_iou 0.4329
+
+###### Test:
 #### Learning Rate: 0.001, Weight Decay: 1e-5, Gamma: 0.5
 Name: **exp_lr_0.001_wd_1e-5_gamma_0.5_epochs_50**
 
