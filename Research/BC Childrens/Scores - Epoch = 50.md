@@ -79,3 +79,16 @@ Loss: 0.3427
 IoU: 0.4158
 val_loss: 0.3386
 val_iou: 0.4238
+
+
+#### Learning Rate: 0.001, Weight Decay: 1e-6, Gamma: 0.8
+Name: **exp_lr_0.001_wd_1e-6_gamma_0.8_epochs_50**
+
+###### Train:
+Loss: 0.4934
+IoU: 0.3880
+val_loss: 0.4896
+val_iou: 0.3917
+###### Test:
+IoU: 0.3954
+Dice: 0.5667
