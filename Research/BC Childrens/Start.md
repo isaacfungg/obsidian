@@ -8,7 +8,8 @@
 #### Training Models
 1. ssh ifung01@sockeye.arc.ubc.ca
 2. cd /scratch/st-ilker-1/ifung01/UNeXt-pytorch
-3. python ...
+3. conda activate unext
+4. python ...
 
 #### Reusing models
 cd Unext/models
