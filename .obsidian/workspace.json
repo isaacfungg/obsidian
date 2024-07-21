@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Scores - Epoch = 50.md",
+                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292ed2c5f84d5ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/Scores - Epoch = 250.md",
+                "file": "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/Scores - Epoch = 250.md",
+                "file": "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/Scores - Epoch = 250.md"
+                "file": "Research/BC Childrens/Epoch = 50, LR= 0.001.md"
               }
             }
           },
@@ -169,11 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26ba5083d09f5773",
+  "active": "292ed2c5f84d5ac0",
   "lastOpenFiles": [
-    "Research/BC Childrens/Start.md",
+    "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+    "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
-    "Research/BC Childrens/Scores - Epoch = 50.md",
+    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Scores - Epoch = 100.md",
     "Research/BC Childrens/Update.md",
     "Research/BC Childrens/Info.md",
@@ -198,7 +211,6 @@
     "2024s notes/CPSC 330/Lecture 2 - Decision Trees.md",
     "2024s notes/BIOL 111/Week 4/June 6 Lecture.md",
     "2024s notes/BIOL 111/Final/Learning Goals.md",
-    "2024s notes/BIOL 111/Final/Final Review.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
