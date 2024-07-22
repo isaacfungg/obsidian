@@ -13,13 +13,13 @@ Dice: 0.6338
 #### Learning Rate: 0.0005, Weight Decay: 1e-4, Gamma: 1.0, Epoch: 50
 Name: **exp_lr_0.0005_wd_1e-4_gamma_1.0_epochs_50**
 ###### Train:
-- Loss:
-- IoU:
-- val_loss:
-- val_iou:
+- Loss: 0.2396
+- IoU: 0.4614
+- val_loss: 0.2462
+- val_iou: 0.4559
 ###### Test:
-- IoU:
-- Dice:
+IoU: 0.4584
+Dice: 0.6282
 #### Learning Rate: 0.0005, Weight Decay: 5e-4, Gamma: 0.8, Epoch: 50
 ###### Train:
 Loss: -0.0330
