@@ -1,13 +1,4 @@
-#### Learning Rate: 0.0005, Weight Decay: 1e-4, Gamma: 0.7, Epoch: 50
-Name: **exp_lr_0.0005_wd_1e-4_gamma_0.7_epochs_50**
-###### Train:
-- Loss:
-- IoU:
-- val_loss:
-- val_iou:
-###### Test:
-- IoU:
-- Dice:
+
 #### Learning Rate: 0.0005, Weight Decay: 1e-4, Gamma: 0.8, Epoch: 50
 Name: **exp_lr_0.0005_wd_1e-4_gamma_0.8_epochs_50**
 ###### Train:
@@ -18,6 +9,27 @@ Name: **exp_lr_0.0005_wd_1e-4_gamma_0.8_epochs_50**
 ###### Test:
 IoU: 0.4663
 Dice: 0.6357
+
+#### Learning Rate: 0.0005, Weight Decay: 1e-4, Gamma: 0.7, Epoch: 50
+Name: **exp_lr_0.0005_wd_1e-4_gamma_0.7_epochs_50**
+###### Train:
+- Loss:  0.2427 
+- IoU: 0.4644
+- val_loss: 0.2426
+- val_iou: 0.4605\
+###### Test:
+IoU: 0.4605
+Dice: 0.6303
+#### Learning Rate: 0.0005, Weight Decay: 5e-5, Gamma: 0.8, Epoch: 50
+Name: **exp_lr_0.0005_wd_5e-5_gamma_0.8_epochs_50**
+###### Train:
+- Loss:
+- IoU:
+- val_loss:
+- val_iou:
+###### Test:
+- IoU:
+- Dice:
 #### Learning Rate: 0.0005, Weight Decay: 1e-4, Gamma: 0.9, Epoch: 50
 Name: **exp_lr_0.0005_wd_1e-4_gamma_0.9_epochs_50**
 ###### Train:
