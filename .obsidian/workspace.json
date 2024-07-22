@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 100.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+                "file": "Research/BC Childrens/Scores - Epoch = 100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md"
+                "file": "Research/BC Childrens/Scores - Epoch = 100.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "b2923d3416846731",
   "lastOpenFiles": [
-    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
     "Research/BC Childrens/Scores - Epoch = 100.md",
