@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+                "file": "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,9 +183,9 @@
   },
   "active": "292ed2c5f84d5ac0",
   "lastOpenFiles": [
+    "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
     "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
     "Research/BC Childrens/Scores - Epoch = 100.md",
-    "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
     "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
     "Research/BC Childrens/Update.md",
