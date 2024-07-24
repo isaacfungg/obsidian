@@ -28,8 +28,10 @@ Dice: 0.6364
 #### Learning Rate: 0.001, Weight Decay: 1e-4, Gamma: 0.9, Epoch: 100
 Name: **exp_lr_0.001_wd_1e-4_gamma_0.9_epochs_100**
 ###### Train:
+loss -6.3147 - iou 0.4900 - val_loss -4.4356 - val_iou 0.4547
 ###### Test:
-
+IoU: 0.4556
+Dice: 0.6258
 #### Learning Rate: 0.001, Weight Decay: 1e-4
 Name: **exp_lr_0.001_wd_1e-4_epochs_100**
 ###### Train:
