@@ -62,9 +62,6 @@ val_iou: 0.4099
 ###### Test:
 IoU: 0.4115
 Dice: 0.5830
-
-
-
 #### Learning Rate: 0.001, Weight Decay: 1e-5, Gamma: 0.5
 Name: **exp_lr_0.001_wd_1e-5_gamma_0.5_epochs_50**
 ###### Train:
