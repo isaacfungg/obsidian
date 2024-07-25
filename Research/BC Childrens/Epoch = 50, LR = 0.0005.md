@@ -89,7 +89,7 @@ Name: **exp_lr_0.0005_wd_5e-5_gamma_0.7_epochs_50**
 loss 0.3414 - iou 0.4105 - val_loss 0.3437 - val_iou 0.4097
 ###### Test:
 IoU: 0.4131
-	Dice: 0.5846`
+Dice: 0.5846
 
 #### Learning Rate: 0.0005, Weight Decay: 5e-4, Gamma: 1.0, Epoch: 50
 Name: **exp_lr_0.0005_wd_5e-4_gamma_1.0_epochs_50**
