@@ -102,6 +102,14 @@ val_iou 0.4048
 IoU: 0.4054
 Dice: 0.5769
 
+#### Learning Rate: 0.0005, Weight Decay: 5e-5, Gamma: 1.0, Epoch: 50
+Name: **exp_lr_0.0005_wd_5e-5_gamma_1.0_epochs_50**
+###### Train:
+loss 0.3436 - iou 0.4120 - val_loss 0.3341 - val_iou 0.4204
+###### Test:
+IoU: 0.4051
+Dice: 0.5766
+
 #### Learning Rate: 0.0005, Weight Decay: 5e-4, Gamma: 0.7, Epoch: 50
 Name: **exp_lr_0.0005_wd_5e-4_gamma_0.7_epochs_50**
 ###### Train:
