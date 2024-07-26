@@ -14,3 +14,11 @@
 #### Reusing models
 cd Unext/models
 python val.py --name experiment_test_20_epochs
+
+
+#### Checking the images
+cd /scratch/st-ilker-1/ifung01/UNeXt-pytorch/outputs
+
+#### File Manager
+https://app.globus.org/file-manager/collections
+Look in collection "ubcarc#sockeye"
