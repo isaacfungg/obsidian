@@ -15,7 +15,8 @@
 cd Unext/models
 python val.py --name experiment_test_20_epochs
 
-
+#### Location of Data
+cd /scratch/st-ilker-1/ifung01/US_Children_dataset_segmentation/full_dataset
 #### Checking the images
 cd /scratch/st-ilker-1/ifung01/UNeXt-pytorch/outputs
 
