@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/Start.md",
+                "file": "Research/BC Childrens/Epoch = 20, LR = 0.003.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/Start.md",
+                "file": "Research/BC Childrens/Epoch = 20, LR = 0.003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/Start.md",
+                "file": "Research/BC Childrens/Epoch = 20, LR = 0.003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/Start.md"
+                "file": "Research/BC Childrens/Epoch = 20, LR = 0.003.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   "active": "292ed2c5f84d5ac0",
   "lastOpenFiles": [
     "Research/BC Childrens/Epoch = 50, LR= 0.001.md",
-    "Research/BC Childrens/Start.md",
+    "Research/BC Childrens/Epoch = 20, LR = 0.003.md",
     "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
+    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Epoch = 100, LR = 0.001.md",
     "Research/BC Childrens/Epoch = 100, LR = 0.0005.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
@@ -223,7 +224,6 @@
     "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/CPSC 330/Lecture 5 - Preprocessing.md",
     "2024s notes/CPSC 330/Lecture 4 - KNN.md",
-    "2024s notes/CPSC 330/Lecture 2 - Decision Trees.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
