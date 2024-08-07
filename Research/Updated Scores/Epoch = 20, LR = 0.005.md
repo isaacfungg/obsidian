@@ -10,3 +10,16 @@ Label 1:
   Average Dice: 0.4653
   Average ASSD: 2.1110
   Average NSD: 0.6281
+
+#### lr_0.005_epoch_50_wd_5e-5_gamma_0.9
+loss 0.4006 - iou 0.4809 - val_loss 0.4174 - val_iou 0.4665
+Label 0:
+  Average IoU: 0.4996
+  Average Dice: 0.6662
+  Average ASSD: 0.9488
+  Average NSD: 0.8079
+Label 1:
+  Average IoU: 0.4240
+  Average Dice: 0.5942
+  Average ASSD: 1.2986
+  Average NSD: 0.7373
