@@ -10,5 +10,3 @@ Label 1:
   Average Dice: 0.4653
   Average ASSD: 2.1110
   Average NSD: 0.6281
-
-#### lr_0.005_epoch_20_wd_5e-5_gamma_0.9
