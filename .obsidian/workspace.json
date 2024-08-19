@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/GPT Command Prompt.md",
+                "file": "Research/BC Childrens/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/GPT Command Prompt.md",
+                "file": "Research/BC Childrens/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/GPT Command Prompt.md",
+                "file": "Research/BC Childrens/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/GPT Command Prompt.md"
+                "file": "Research/BC Childrens/Start.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "292ed2c5f84d5ac0",
   "lastOpenFiles": [
-    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/GPT Command Prompt.md",
+    "Pasted image 20240607101646.png",
+    "Pasted image 20240605115647.png",
+    "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Info.md",
     "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
     "Research/Updated Scores/Epoch = 20, LR = 0.005.md",
@@ -199,15 +201,12 @@
     "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
     "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/CPSC 330/Lecture 7 - Linear Models.md",
-    "2024s notes/CPSC 330/Lecture 6 - Column Transformer.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
     "LeetCode/Other",
     "2024s notes/BIOL 111/Week 6",
     "Option Volatility & Pricing",
-    "Pasted image 20240607101646.png",
-    "Pasted image 20240605115647.png",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
     "Untitled.canvas"
