@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/August 23 Update.md",
+                "file": "Research/BC Childrens/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/August 23 Update.md",
+                "file": "Research/BC Childrens/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/August 23 Update.md",
+                "file": "Research/BC Childrens/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/August 23 Update.md"
+                "file": "Research/BC Childrens/Start.md"
               }
             }
           },
@@ -170,13 +170,13 @@
   },
   "active": "292ed2c5f84d5ac0",
   "lastOpenFiles": [
+    "Research/BC Childrens/Info.md",
     "Research/BC Childrens/GPT Command Prompt.md",
     "Research/BC Childrens/August 23 Update.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
     "Research/BC Childrens/Start.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
-    "Research/BC Childrens/Info.md",
     "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
     "Research/Updated Scores/Epoch = 20, LR = 0.005.md",
     "Research/Updated Scores/Epoch = 20, LR = 0.003.md",
