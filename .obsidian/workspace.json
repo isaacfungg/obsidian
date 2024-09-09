@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/2Net.md",
+                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec924d84e06668d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML & CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/2Net.md",
+                "file": "HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/2Net.md",
+                "file": "HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/2Net.md"
+                "file": "HTML & CSS.md"
               }
             }
           },
@@ -156,12 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75c5f0d924088aea",
+  "active": "bec924d84e06668d",
   "lastOpenFiles": [
+    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+    "HTML & CSS.md",
+    "Research/BC Childrens/2Net.md",
+    "Option Volatility & Pricing/Terminology.md",
     "Research/BC Childrens/Start.md",
     "Research/BC Childrens/Scores - Epoch = 250.md",
     "Research/BC Childrens/Info.md",
-    "Research/BC Childrens/2Net.md",
     "Research/BC Childrens/GPT Command Prompt.md",
     "Research/BC Childrens/August 23 Update.md",
     "Pasted image 20240607101646.png",
@@ -187,9 +203,6 @@
     "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/CPSC 330/Lecture 11.md",
     "2024s notes/CPSC 330/Lecture 10.md",
-    "2024s notes/CPSC 330/Lecture 3 - Cross Validation.md",
-    "2024s notes/CPSC 330/Lecture 9 - Classification Metrics.md",
-    "2024s notes/CPSC 330/Lecture 8 - Hyperparameter Optimization.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
