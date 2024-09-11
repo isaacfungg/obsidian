@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS.md",
+                "file": "2024w notes/CPSC 317/Network Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML & CSS.md",
+                "file": "2024w notes/CPSC 317/Network Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML & CSS.md",
+                "file": "2024w notes/CPSC 317/Network Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML & CSS.md"
+                "file": "2024w notes/CPSC 317/Network Performance.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "bec924d84e06668d",
   "lastOpenFiles": [
-    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
     "HTML & CSS.md",
+    "2024w notes/CPSC 317/Network Performance.md",
+    "2024w notes/CPSC 317",
+    "2024w notes",
+    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
     "Research/BC Childrens/2Net.md",
     "Option Volatility & Pricing/Terminology.md",
     "Research/BC Childrens/Start.md",
@@ -202,13 +205,10 @@
     "2024s notes/CPSC 330/Lecture 13.md",
     "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/CPSC 330/Lecture 11.md",
-    "2024s notes/CPSC 330/Lecture 10.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
     "LeetCode/Other",
-    "2024s notes/BIOL 111/Week 6",
-    "Option Volatility & Pricing",
     "2024s notes/BIOL 111/Week 2 Review/Untitled.canvas",
     "LeetCode/Untitled.canvas",
     "Untitled.canvas"
