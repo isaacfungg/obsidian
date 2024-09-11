@@ -3,6 +3,10 @@
 `Latency`: Delay from when something is sent until it is received
 * Packet latency: from start of sending packet until completely received
 * Bit/byte latency: from start of sending bit/byte until that bit/byte is completely received
+Round Trip Time (RTT): latency for sending something and receiving something back
+* Latency for message + latency for response + processing time
+Jitter: variation in latency and/or RTT
+
 Data sizes: KB, MB, GB, TB (in bytes) 
 * K, M, G, T are multiples of 2  ($2^{10}$, $2^{20}$, $2^{30}$, $2^{40}$) • Except for disk drive manufacturers 
 Rates: Kbps, Mbps, Gbps, Tbps 
