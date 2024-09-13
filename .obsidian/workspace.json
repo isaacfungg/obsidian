@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75c5f0d924088aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bec924d84e06668d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/2Net.md",
+                "file": "Research/BC Childrens/GPT Command Prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/BC Childrens/2Net Errors.md",
+                "file": "Research/BC Childrens/2Net.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/BC Childrens/2Net Errors.md",
+                "file": "Research/BC Childrens/2Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/BC Childrens/2Net Errors.md",
+                "file": "Research/BC Childrens/2Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/BC Childrens/2Net Errors.md"
+                "file": "Research/BC Childrens/2Net.md"
               }
             }
           },
@@ -183,18 +171,19 @@
   },
   "active": "ccccc2525b2869c0",
   "lastOpenFiles": [
-    "Research/BC Childrens/2Net.md",
+    "Research/BC Childrens/2Net Notes.md",
     "Research/BC Childrens/2Net Errors.md",
+    "Research/BC Childrens/2Net.md",
+    "Research/BC Childrens/GPT Command Prompt.md",
+    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
+    "Research/BC Childrens/Info.md",
+    "Research/BC Childrens/Scores - Epoch = 250.md",
+    "Research/BC Childrens/Start.md",
     "2024w notes/CPSC 317/Network Performance.md",
     "HTML & CSS.md",
     "2024w notes/CPSC 317",
     "2024w notes",
-    "Cloud Practitioner Review/AWS Compute Services/Amazon EKS.md",
     "Option Volatility & Pricing/Terminology.md",
-    "Research/BC Childrens/Start.md",
-    "Research/BC Childrens/Scores - Epoch = 250.md",
-    "Research/BC Childrens/Info.md",
-    "Research/BC Childrens/GPT Command Prompt.md",
     "Research/BC Childrens/August 23 Update.md",
     "Pasted image 20240607101646.png",
     "Pasted image 20240605115647.png",
@@ -216,7 +205,6 @@
     "2024s notes/CPSC 330/Lecture 16 - Recommender Systems.md",
     "2024s notes/CPSC 330/Lecture 14.md",
     "2024s notes/CPSC 330/Lecture 13.md",
-    "2024s notes/CPSC 330/Lecture 12.md",
     "2024s notes/BIOL 111/Final",
     "LeetCode/Others",
     "LeetCode/Strategies",
