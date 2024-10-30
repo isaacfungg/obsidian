@@ -7,3 +7,8 @@ python test.py --volume_path ./data/Synapse/ --output_dir ./model_out
 
 #### Location
 cd /scratch/st-ilker-1/ifung01/2Net/MSA-2Net/
+
+
+
+
+92 images in 
