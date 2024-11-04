@@ -17,9 +17,17 @@
 
 What is the difference between list, set and tuple?
 What is the difference between UDP and TCP?
+* TCP (Transmission Control Protocol) - Establishes a connection before data transfer
+* UDP (User Datagram Protocol) - Connectionless protocol that sends data without establishing a connection
 What is args and kwargs?
+* Args allows you to pass a variable number of non-keyworded arguments to a function (Tuple)
+* Kwargs allows you to pass a variable number of key worded arguments to a function (dictionary)
 What is a mutex and a semaphore?
+- **Mutex**: A lock that allows only one thread to access a resource at a time.
+- **Semaphore**: A signalling mechanism that controls access to resources by multiple threads, with a counter to manage how many threads can access the resource simultaneously.
 What do a constructor and deconstructor do?
+- **Constructor**: A method that initializes new objects, setting initial values for object attributes and allocating resources when the object is created.
+- **Destructor**: A method called when an object is deleted to clean up resources the object used, like memory or file handles, ensuring no resource leaks occur.
 What is SQL injection and how do you avoid it?
 What is a virtual function?
 What are iterators/decorators?
