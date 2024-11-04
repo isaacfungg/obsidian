@@ -33,8 +33,11 @@ What is a virtual function?
 * A virtual function is a method in a base class that's designed to be overridden in a derived class to provide specialized behavior based on the type of the derived class object
 What are iterators/decorators?
 What is replication and consistent hash ring?
+* **Replication** is the process of duplicating data across multiple servers to increase reliability and availability.
+* **Consistent Hashing** is a technique for distributing data across a cluster to minimize re-distribution when nodes are added or removed, using a virtual ring to maintain a balanced load.
 How do you edit a file from the command line?
 If you wanted to allow more traffic to a website, how would you accomodate it?
+* Using load balancing and auto scaling
 What is the difference between range and xrange in Python?
 What is a situation in which you would use a hash-dict?
 What is a primary key?
