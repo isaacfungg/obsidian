@@ -30,6 +30,7 @@ What do a constructor and deconstructor do?
 - **Destructor**: A method called when an object is deleted to clean up resources the object used, like memory or file handles, ensuring no resource leaks occur.
 What is SQL injection and how do you avoid it?
 What is a virtual function?
+* A virtual function is a method in a base class that's designed to be overridden in a derived class to provide specialized behavior based on the type of the derived class object
 What are iterators/decorators?
 What is replication and consistent hash ring?
 How do you edit a file from the command line?
