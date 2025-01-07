@@ -13,3 +13,4 @@
 * Seek diverse perspectives and work to disconfirm their beliefs
 
 #### Learn and Be Curious
+* Leaders are never done learning and always seek to improve themselves
