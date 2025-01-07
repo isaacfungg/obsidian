@@ -17,3 +17,30 @@
 
 #### Hire and Develop the Best
 * Leaders raise the performance bar with every hire and promotion
+
+#### Insist on the Highest Standard
+* Leaders have relentlessly high standards
+
+#### Think Big
+* Leaders create and communicate a bold direction that inspires results
+
+#### Bias for Action
+* Speed matters in business
+* Many decisions and actions are reversible and do not need extensive study
+* Value calculated risk taking
+
+#### Frugality
+* Constraints breed resourcefulness, self sufficiency and invention
+
+#### Earn Trust
+* Listen attentively, speak candidly, and treat others respectfully
+#### Dive Deep
+* Leaders operate at all levels. 
+* No task is beneath them
+
+#### Have Backbone
+* Challenge decisions when they disagree
+* Once a decision is determined they commit wholly
+
+#### Deliver Results
+* Focus on the key inputs for the business and deliver them with the right quality and in a timely fashion
