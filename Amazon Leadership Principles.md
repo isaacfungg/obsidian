@@ -14,3 +14,6 @@
 
 #### Learn and Be Curious
 * Leaders are never done learning and always seek to improve themselves
+
+#### Hire and Develop the Best
+* Leaders raise the performance bar with every hire and promotion
