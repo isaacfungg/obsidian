@@ -1,8 +1,13 @@
 ***
 #### Court Levels
-###### **Civil Resolution Tribunal (CRT) - Common and Statute
+###### **Civil Resolution Tribunal (Civil Only) - Common and Statute
 * Handles small civil disputes online
 * Small claims up to $5 000
+* Can file a "Notice of Objection" and move to BC Small Claims Court for a new trial
+
+###### **Financial Services Tribunal
+* Reviews decisions from regulatory authorities in BC's financial sector
+* For mortgage, real estate, credit, insurance
 
 ###### **BC Provincial Court - Common and Statute
 * Handles most criminal, civil, family, and traffic cases
@@ -51,3 +56,12 @@
 * Postal services
 * Currency and banking
 * Marriage and divorce
+
+#### Equity Remedy
+###### **Specific Performance
+* The court forces a party to fulfill their contractual obligations
+###### **Injunction
+* A Court order stopping a party from doing something
+
+####### **Rescission
+* The court cancels a contract and restores both parties to their original state
