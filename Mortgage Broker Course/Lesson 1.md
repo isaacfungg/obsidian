@@ -24,3 +24,30 @@
 * Does not review evidence and only reviews legal errors
 
 #### Order of Events in a BC Supreme Court Civil Case
+1. [[Terms#Plaintiff|Plaintiff]] files a Notice of Civil Claim
+2. [[Terms|Defendant]] files a Response to Civil Claim
+3. [[Terms|Discovery]] Process Begins
+4. Pre-Trial Conferences & Motions
+5. Trial
+
+#### Levels of Government
+###### **Municipal Government (Local Level)
+* Zoning & land use
+* Local roads, public transit, water, and sewage
+* Property taxes, garbage collection
+* Fire and police services
+###### **Provincial Government
+* Healthcare
+* Education
+* Highways and provincial infrastructure
+* Administration of justice
+* Natural Resources
+* Private property
+###### **Federal Government
+* National defence
+* Immigration and citizenship
+* Foreign affairs and treaties
+* Criminal law
+* Postal services
+* Currency and banking
+* Marriage and divorce
