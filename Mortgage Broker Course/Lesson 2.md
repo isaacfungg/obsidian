@@ -1,6 +1,7 @@
 ***
-`Mortgage Brokers Act`
+#### Mortgage Broker Act
 * Provincial legislation that regulates the conduct of mortgage professionals in BC
+
 
 ***
 #### Licensing System
