@@ -1,7 +1,12 @@
 ***
 `Mortgage Brokers Act`
 * Provincial legislation that regulates the conduct of mortgage professionals in BC
-
+`Designated Individual`
+* Manages registration application and information of the mortgage broker
+* Manages year-end financial filing of the mortgage broker
+* Ensures all books and records of MB are accurate and up to date
+* Ensures that all employees are registered under Mortgage Broker Act
+* Ensures they are properly supervised and informed of all the relevant MB legislation and regulations
 #### Licensing System
 `Mortgage Broker`
 * Company, partnership, sole proprietorship
