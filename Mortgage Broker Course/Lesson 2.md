@@ -2,6 +2,27 @@
 #### Mortgage Broker Act
 * Provincial legislation that regulates the conduct of mortgage professionals in BC
 
+***
+#### Prescribed Forms - BCFSA
+###### **Form 9 - Disclosure to Lenders
+* Does not need it if the lender is a "sophisticated person"
+	* Government
+	* Savings institution
+	* Insurance
+	* Mortgage broker
+	* Person under securities act
+* Written Disclosure Statement must be given to the lender/investor
+	* Before any advances are made
+	* Before the funds are released from trust
+	* Upon mortgage renewal
+###### **Form 10 - Conflict of Interest (to Borrowers and Lenders)
+* Direct interests:
+	* Commissions, fees, bonuses, rewards points
+	* A mortgage broker or family member is the lender
+	* A family member or business partner of the mortgage broker is the borrowers
+	* The mortgage broker receives a fee from the borrower
+* Indirect Interests:
+	* Expected renewal fees, designation with a lender
 
 ***
 #### Licensing System
@@ -59,3 +80,9 @@
 * Lends money secured by mortgages
 * Collects mortgage payments as a business
 * Buys and sells mortgages or agreements for sale as a business
+###### **Disclosure to Borrowers
+* Cost of Credit Form
+* Disclosure Statement
+* APR - Annual Percentage Rate
+* Must be given 2 days prior
+* Once every 12 months if the interest rate is floating
