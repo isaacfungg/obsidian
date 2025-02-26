@@ -25,6 +25,26 @@
 	* Expected renewal fees, designation with a lender
 
 ***
+#### Misleading Info
+###### **Misleading the Public
+* Must publish the name under which they are registered in every publication they use
+* Must include the amortization in the advertisement when repayment schedules or rates are advertised relative to a borrowed amount
+###### **Misleading the Lender
+* Must not provide false or misleading information about borrowers
+* Duty to ensure the accuracy of information
+* If the information is not verified advise the lending institutions in writing
+
+***
+#### Types of Fraud
+###### **Identity Fraud
+* Create a fake letter of employment
+* Fraudulently transfer property title to your name
+* Asking someone you know to act as your employer
+
+###### **Value Fraud
+* Involves an artificial inflation of the price of a piece of property
+
+***
 #### Licensing System
 `Mortgage Broker`
 * Company, partnership, sole proprietorship
