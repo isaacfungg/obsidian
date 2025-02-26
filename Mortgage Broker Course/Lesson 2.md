@@ -45,6 +45,20 @@
 * Involves an artificial inflation of the price of a piece of property
 
 ***
+#### Trust Funds
+###### **Mortgage brokers that handle trust funds
+* Must maintain a trust account
+* Must issue a written receipt for all money received in cash
+* Must ensure the trust agreement between the mortgage broker, client, and other parties is in writing and available
+* If funds are paid into trust, the disclosure statement must be given prior to the release of the funds from trust
+* Brokers must file audited financial statements within 120 days of the end of the broker's fiscal year
+* The registrar has the power to freeze the trust funds of any mortgage broker pending the outcome of an investigation
+***
+#### Record Keeping
+* A mortgage broker must retain a copy of the Form 9 & 10 for a period of at least 7 years
+* All records relating to each mortgage transaction in which the mortgage broker is involved in must be kept for 7 years
+* Mortgage brokers can keep inactive records on-site or in a secure offsite storage facility where the records can be easily retrieved and made available
+***
 #### Licensing System
 `Mortgage Broker`
 * Company, partnership, sole proprietorship
