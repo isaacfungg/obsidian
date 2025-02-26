@@ -62,6 +62,13 @@
 * The court forces a party to fulfill their contractual obligations
 ###### **Injunction
 * A Court order stopping a party from doing something
-
 ####### **Rescission
 * The court cancels a contract and restores both parties to their original state
+
+#### Trial Process Terms
+`Document Discovery`: Both parties exchange relevant documents
+`Examination for Discovery`: One party questions the other under oath based on the evidence gathered in Document Discovery
+`Pleading`: Includes both filing a claim and response
+`Judgement`: After the trial, the judge makes a final decision
+`Execution`: Enforcing judgement. The winning party can take steps to enforce the judgement
+`Mediation`: A voluntary dispute resolution process where a neutral third party helps the parties negotiate a settlement. Mandatory if someone initiates it
