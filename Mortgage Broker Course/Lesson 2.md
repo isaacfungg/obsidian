@@ -8,6 +8,16 @@
 `Mortgage Broker`
 * Company, partnership, sole proprietorship
 * Must have a registered Sub-mortgage Broker who acts as a designated individual
+* Receives an amount of $1000 or more in fees in one year
+* Lends money on the security of 10 or more mortgages
+* Carries on a business of buying and selling mortgages or agreements for sale
+###### **Exceptions (Not considered Mortgage Brokers)
+* Licensed insurers, banks, credit unions, and trust companies
+* Government employees handling mortgages
+* Trustees in bankruptcy or liquidators
+* Lawyers handling mortgages as part of their legal practice
+* Employers lending money to employees for housing
+* Real estate agents handling one-time [[Terms|vendor take-back mortgages]] in a sale
 
 `Sub-Mortgage Broker`
 * Only individuals
@@ -49,11 +59,3 @@
 * Lends money secured by mortgages
 * Collects mortgage payments as a business
 * Buys and sells mortgages or agreements for sale as a business
-
-###### **Exceptions (Not considered Mortgage Brokers)
-* Licensed insurers, banks, credit unions, and trust companies
-* Government employees handling mortgages
-* Trustees in bankruptcy or liquidators
-* Lawyers handling mortgages as part of their legal practice
-* Employers lending money to employees for housing
-* Real estate agents handling one-time vendor take-back mortgages in a sale
