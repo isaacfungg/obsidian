@@ -11,3 +11,4 @@
 `Limitation Period`: The deadline for filing a lawsuit
 
 #### Lesson 2
+`Registrar`: The official authority responsible for regulating mortgage brokers in BC

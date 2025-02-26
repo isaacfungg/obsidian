@@ -1,12 +1,8 @@
 ***
 `Mortgage Brokers Act`
 * Provincial legislation that regulates the conduct of mortgage professionals in BC
-`Designated Individual`
-* Manages registration application and information of the mortgage broker
-* Manages year-end financial filing of the mortgage broker
-* Ensures all books and records of MB are accurate and up to date
-* Ensures that all employees are registered under Mortgage Broker Act
-* Ensures they are properly supervised and informed of all the relevant MB legislation and regulations
+
+***
 #### Licensing System
 `Mortgage Broker`
 * Company, partnership, sole proprietorship
@@ -17,6 +13,35 @@
 * Can only be paid as an individual
 * Must be employed by Mortgage Broker
 
+`Designated Individual`
+* (in charge of Mortgage brokers)
+* Manages registration application and information of the mortgage broker
+* Manages year-end financial filing of the mortgage broker
+* Ensures all books and records of MB are accurate and up to date
+* Ensures that all employees are registered under Mortgage Broker Act
+* Ensures they are properly supervised and informed of all the relevant MB legislation and regulations
+
+`Unregistered Assistants`
+* Order certain documents or send and accept documentation between the broker and lender
+* Perform accounting or bookkeeping services for the broker
+* Prepare documentation for the broker to execute with clients
+
+`Mortgage Administrators`
+* Must have a written agreement with the lenders specifying the extent of the responsibilities of the mortgage broker:
+	* Receive mortgage payments from borrowers and send them to investors
+	* May enforce mortgage payments
+	* May commence enforcement proceedings
+	* May discharge the mortgage
+	* May collect money under the mortgage
+***
+###### **Registrar
+* Can investigate breach under MB Act and criminal fraud
+* Attach conditions or restrictions to the registration
+* Inspect all books of account
+* Enter brokerage offices
+* Seize any relevant information
+* Freeze the trust funds
+* Take your license away
 ###### **Definition of a Mortgage Broker
 * Earns $1 000+ per year from mortgage-related fees
 * Lends money on 10+ mortgages in a year
