@@ -28,3 +28,8 @@
 `Ameliorative Waste`: Unauthorized improvements that change the property's character but do not necessarily reduce value
 `Equitable Waste`: Extreme destruction that is legally prohibited even if the tenant has broad rights over the property
 `Remaindermen/Reversioners`: The people that are entitled to the fee simple estate once the life estate has expired
+`Dominant tenement`: Land to which the benefit of an easement or restrictive covenant is attached
+`Servient tenement`: Land bearing the burden of an easement or restrictive covenant
+`Restrictive Covenant`: A restriction on the use of one person's land for the benefit of another piece of land
+`Building Scheme`: A set of restrictive covenants imposed on two or more lots within a particular subdivision
+`Profits a Prendre`: A right to enter onto the land of another person and to take some profit from the land for the use of the owner of the right
