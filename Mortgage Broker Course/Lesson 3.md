@@ -77,4 +77,20 @@ Each joint tenant has equal rights to possess and use the entire property
 1. Sale or Transfer of interest
 2. Mutual Agreement
 3. Partition
+***
+#### Tenancy in Common
+Since there is no right of survivorship, a tenant in common may leave their interest by will to whomever they wish
+
+A transfer of a deceased joint tenant's estate or interest into the name of the surviving joint tenant is a simpler procedure than the transfer to an heir when a tenant in common dies
+###### Termination of a Tenancy in Common
+1. Sale or Transfer of All Shares to One Owner (Merger)
+2. Partition (Court-Ordered or Voluntary Division)
+
+***
+
+#### Tort Law
+
+**Negligence**: Failing to take reasonable care
+**Trespass**: Entering someone's land without permission
+**Nuisance**: Unreasonable use of land that interferes with neighbours
 
