@@ -1,5 +1,5 @@
 ***
-#### Easements
+#### Easements (Runs with the Land)
 In order to constitute a valid easement, three requirements must be met:
 1. **There must be Both a Dominant and a Servient Tenement
 2. **The Easement Must Accommodate the Dominant Tenement
@@ -12,7 +12,7 @@ Easements may be granted for any length of time. However, an easement of a very 
 ###### Release of an easement
 An easement may be released by an express agreement between the present owners of the dominant and servient tenements
 ***
-#### Restrictive Covenants
+#### Restrictive Covenants (Runs with the Land)
 There are five essential requirements that must be established before the courts will find that a restrictive covenant is valid and will run with the land:
 
 1. **The covenant must be negative in nature
@@ -47,3 +47,34 @@ They must meet three basic requirements to be registrable:
 
 ###### Release of a building scheme
 The restrictions may be modified or discharged by an express agreement between all of the current owners of the lots subject to the scheme
+***
+
+#### Property Law Act
+Provides legal mechanisms for modifying or canceling certain interests in land, such as easements, statutory rights of ways, statutory building schemes, and restrictive covenants
+
+A person can apply to the BC Supreme Court to cancel or modify registered interests in land
+
+***
+
+#### Joint Tenancy
+Joint tenants cannot pass their share through a will because when one owner dies, their share automatically transfers to the surviving joint tenants.
+
+At common law, four "unities" had to exist and be maintained in order to create a joint tenancy and to have it continue:
+###### **Unity of Time**
+All Joint tenants must acquire their interest at the same time
+* If an owner is added later, it breaks the joint tenancy
+###### **Unity of Title**
+All joint tenants must acquire ownership through the same legal document
+* If one owner has a different source of title, it breaks joint tenancy
+###### **Unity of Interest**
+Each joint tenant must have an equal share in the property
+* If shares are unequal, it breaks joint tenancy
+###### **Unity of Possession**
+Each joint tenant has equal rights to possess and use the entire property
+* No owner can exclude another from any part of the property
+
+###### Termination of a Joint Tenancy
+1. Sale or Transfer of interest
+2. Mutual Agreement
+3. Partition
+

@@ -33,3 +33,5 @@
 `Restrictive Covenant`: A restriction on the use of one person's land for the benefit of another piece of land
 `Building Scheme`: A set of restrictive covenants imposed on two or more lots within a particular subdivision
 `Profits a Prendre`: A right to enter onto the land of another person and to take some profit from the land for the use of the owner of the right
+`License`: Temporary, revocable permission granted by a landowner to another party to use the land for a specific purpose
+`Joint Tenancy`: Each co-owner owns an undivided interest in the whole of the estate
