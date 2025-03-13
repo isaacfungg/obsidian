@@ -17,6 +17,7 @@ There are five essential requirements that must be established before the courts
 
 1. **The covenant must be negative in nature
 * The restriction must require the landowner not to do something
+* They can be positive in nature but does not run with the land
 
 2. **The Covenant Must Benefit or Enhance the Value of the Covenantee's Land
 * The restriction must provide a clear advantage to a specific piece of land
@@ -45,6 +46,8 @@ They must meet three basic requirements to be registrable:
 3. **The Title to the Affected Land Must Be Registered Under the Land Title Act
 * The building scheme must be registered on title to ensure future owners are legally bound by the restrictions
 
+###### Common Seller Rule
+All original buyers must purchase their lots from the same seller
 ###### Release of a building scheme
 The restrictions may be modified or discharged by an express agreement between all of the current owners of the lots subject to the scheme
 ***
@@ -77,6 +80,8 @@ Each joint tenant has equal rights to possess and use the entire property
 1. Sale or Transfer of interest
 2. Mutual Agreement
 3. Partition
+
+If someone sells their interest the previous joint tenants will remain joint tenants but the buyer will be tenant in common.
 ***
 #### Tenancy in Common
 Since there is no right of survivorship, a tenant in common may leave their interest by will to whomever they wish
