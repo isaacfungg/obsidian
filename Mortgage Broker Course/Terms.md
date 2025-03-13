@@ -38,3 +38,10 @@
 `Joint Tenancy`: Each co-owner owns an **undivided** interest in the whole of the estate
 `Tenancy in Common`: Each co-owner holds a **separate** ownership share in the property
 `Interest in Land that is less than estate`: A **non-ownership** interest in land, meaning the holder does **not** have full ownership but still has certain rights over the property.
+`Encumbrance`: A **legal claim, restriction, or liability** attached to a property that may affect its **use, value, or ability to be transferred**.
+
+#### Lesson 4
+`Deed`: A document used to transfer an interest of land from one party to another
+`Torrens land registration system`: A system for registration of the actual title to land in order to provide security to those holding interest in land
+`Indefeasibility Principle`: If a person is named on a certificate of title as owner of the fee simple estate in land, then it is conclusive proof that they are entitled to that estate
+`registered charge` is an **interest in land held by someone other than the owner**. 

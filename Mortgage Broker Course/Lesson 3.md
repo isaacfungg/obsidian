@@ -57,6 +57,8 @@ Provides legal mechanisms for modifying or canceling certain interests in land, 
 
 A person can apply to the BC Supreme Court to cancel or modify registered interests in land
 
+_Property Law Act_ requires that if there is no direction on the document of transfer to create a joint tenancy, a tenancy in common with each co-owner having an equal share is to be presumed
+
 ***
 
 #### Joint Tenancy
