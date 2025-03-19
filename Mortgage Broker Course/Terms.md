@@ -44,4 +44,6 @@
 `Deed`: A document used to transfer an interest of land from one party to another
 `Torrens land registration system`: A system for registration of the actual title to land in order to provide security to those holding interest in land
 `Indefeasibility Principle`: If a person is named on a certificate of title as owner of the fee simple estate in land, then it is conclusive proof that they are entitled to that estate
-`registered charge` is an **interest in land held by someone other than the owner**. 
+`Registered charge`: Is an **interest in land held by someone other than the owner**. 
+`Crown Land`: Any land or interest in land, whether covered by water or not, that is vested in the government
+`Charge`: A legal claim by one party over the property of another as security for a debt or other obligation
