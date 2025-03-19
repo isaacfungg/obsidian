@@ -47,3 +47,4 @@
 `Registered charge`: Is an **interest in land held by someone other than the owner**. 
 `Crown Land`: Any land or interest in land, whether covered by water or not, that is vested in the government
 `Charge`: A legal claim by one party over the property of another as security for a debt or other obligation
+`Doctrine of Notice`: Buyers are legally assumed to know about any existing interests or claims on a property.
