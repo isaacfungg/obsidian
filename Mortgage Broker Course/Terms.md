@@ -48,3 +48,7 @@
 `Crown Land`: Any land or interest in land, whether covered by water or not, that is vested in the government
 `Charge`: A legal claim by one party over the property of another as security for a debt or other obligation
 `Doctrine of Notice`: Buyers are legally assumed to know about any existing interests or claims on a property.
+`Trust`: A legal arrangement where assets are transferred by a settlor to a trustee to manage for the benefit of a beneficiary.
+`Settlor`: The individual who creates a trust, specifying its terms and designating beneficiaries.
+`Trustee`: The individual or entity responsible for managing trust assets according to the settlor's instructions and for the benefit of the beneficiary.
+`Beneficiary`: The person or persons entitled to the benefits from the trust, which may include income, property, or other assets.
