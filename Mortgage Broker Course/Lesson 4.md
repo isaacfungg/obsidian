@@ -38,5 +38,7 @@ There are seven land title districts in the province: Kamloops, Nelson, New West
 Administratively, the districts are distributed amongst three land title offices locates in New Westminister, Kamloops and Victoria
 
 
-#### Certificates of Title
-f
+#### Searching Title
+Title searches are crucial for individuals listing properties for sale, selling properties, arranging mortgage financing, or managing properties. They provide essential legal details about property ownership and encumbrances.
+
+The most effective way to conduct a title search is by using the Parcel Identifier (PID), a unique nine-digit number assigned to each property by the registrar of land titles. This PID remains with the property unless it is subdivided or consolidated. 
