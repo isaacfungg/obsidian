@@ -52,3 +52,5 @@
 `Settlor`: The individual who creates a trust, specifying its terms and designating beneficiaries.
 `Trustee`: The individual or entity responsible for managing trust assets according to the settlor's instructions and for the benefit of the beneficiary.
 `Beneficiary`: The person or persons entitled to the benefits from the trust, which may include income, property, or other assets.
+`Personal representative`: An individual appointed to manage the affairs of a deceased person's estate
+`Freehold transfer`: The process of transferring the complete ownership of real property from one party to another without any time restrictions on the length of ownership. (aka a deed)
