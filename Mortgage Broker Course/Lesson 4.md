@@ -32,3 +32,11 @@ The assurance fund serves two purposes:
     - When registering a property under a personal representative, additional details must be recorded:
         - Name and address of the personal representative.
         - An endorsement with necessary information to identify the estate of the deceased and a reference to the trust instrument.
+#### Land Title Offices
+There are seven land title districts in the province: Kamloops, Nelson, New Westminister, Prince George, Prince Rupert, Victoria and Vancouver
+
+Administratively, the districts are distributed amongst three land title offices locates in New Westminister, Kamloops and Victoria
+
+
+#### Certificates of Title
+f
