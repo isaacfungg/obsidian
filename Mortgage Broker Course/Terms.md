@@ -54,3 +54,7 @@
 `Beneficiary`: The person or persons entitled to the benefits from the trust, which may include income, property, or other assets.
 `Personal representative`: An individual appointed to manage the affairs of a deceased person's estate
 `Freehold transfer`: The process of transferring the complete ownership of real property from one party to another without any time restrictions on the length of ownership. (aka a deed)
+`Caveat`: A legal notice registered against a property's title by someone who claims to have rights to that property. It prevents others from making transactions (like selling or mortgaging) that would conflict with this claim, ensuring everyone is aware of these claimed rights.
+`Certificate of pending litigation`: A legal notice registered against a property indicating that there is an ongoing lawsuit involving the property.
+`Builders Lien`: A legal claim filed by contractors, subcontractors, workers, or suppliers against a property they have worked on or supplied materials for, to secure payment they are owed.
+`Judgement`: A formal decision made by a court following a lawsuit
