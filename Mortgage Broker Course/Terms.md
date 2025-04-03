@@ -66,5 +66,6 @@
 `Limited Common Property`: Common property designated for the exclusive use of the owners of one or more strata lots
 `Strata Council`: An executive body elected by the strata lot owners to carry out the duties of the strata corporation and oversee its affairs
 `Contingincy Reserve Fund`: A fund maintained by a strata corporation for common expenses that usually occur less often than once a year
+`Operating Fund`: A fund for the strata corporation's common expenses that usually occur one or more times each year
 `Special levy`: An additional contribution applied against owners by the strata corporation
 `Conveyance`: The legal process of transferring ownership of a piece of property from one party to another

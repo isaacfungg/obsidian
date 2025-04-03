@@ -33,7 +33,7 @@ The assurance fund serves two purposes:
         - Name and address of the personal representative.
         - An endorsement with necessary information to identify the estate of the deceased and a reference to the trust instrument.
 #### Land Title Offices
-There are seven land title districts in the province: Kamloops, Nelson, New Westminister, Prince George, Prince Rupert, Victoria and Vancouver
+There are seven land title districts in the province: Kamloops, Nelson, New Westminister, Prince George, Prince Rupe rt, Victoria and Vancouver
 
 Administratively, the districts are distributed amongst three land title offices locates in New Westminister, Kamloops and Victoria
 
@@ -44,3 +44,10 @@ The most effective way to conduct a title search is by using the Parcel Identifi
 
 #### Builders Lien
 Valid for a period of one year then the lien claimant must begin a lawsuit and file a CPL against title to the property in order to enforce its lien within this one-year period
+
+#### Strata Corporation Finances
+The strata corporation must have both an operating fund and a contingency reserve fund
+
+The _Strata Property Act_ has rules that determine the minimum contributions to a strata corporation’s contingency reserve fund.
+
+Strata corporations have several assets that may be used to secure loans, including real property, cash reserves, and accounts receivable
