@@ -58,3 +58,13 @@
 `Certificate of pending litigation`: A legal notice registered against a property indicating that there is an ongoing lawsuit involving the property.
 `Builders Lien`: A legal claim filed by contractors, subcontractors, workers, or suppliers against a property they have worked on or supplied materials for, to secure payment they are owed.
 `Judgement`: A formal decision made by a court following a lawsuit
+`Common Property`: Any part of a strata plan that is not a strata lot
+`Strata Lot`: The parts shown on the strata plan that are created for individual ownership
+`Subdivision`: The division of land into two or more parcels
+`Conversion`: A project in which the developer stratifies a building by subdividing it into strata lots
+`Schedule of unit entitlement`: A table that sets out each owner's proportionate interest in the common property
+`Limited Common Property`: Common property designated for the exclusive use of the owners of one or more strata lots
+`Strata Council`: An executive body elected by the strata lot owners to carry out the duties of the strata corporation and oversee its affairs
+`Contingincy Reserve Fund`: A fund maintained by a strata corporation for common expenses that usually occur less often than once a year
+`Special levy`: An additional contribution applied against owners by the strata corporation
+`Conveyance`: The legal process of transferring ownership of a piece of property from one party to another
