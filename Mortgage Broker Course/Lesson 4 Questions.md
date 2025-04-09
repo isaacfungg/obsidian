@@ -43,6 +43,28 @@
 **All of the above can be converted into strata developments**: Each scenario described meets the criteria under the Strata Property Act for potential conversion into a strata development, allowing for individual ownership and shared common property management.
 
 
+### Question 4
+>[!question]
+>- Sharon, the registered fee simple owner of Whiteacre, sold her interest to Anne. Anne did not register the transfer she received from Sharon. Some months later, Sharon discovered that she was still the registered owner, so she "sold" the property again to Myron, who registered his transfer. Myron did not know about Anne's purchase and paid market value for the property. Anne has now discovered what has happened. Which of the following statements is TRUE?
+>
+>1. Anne is the rightful owner of the property and she can have Myron removed from the title.
+>2. Although Anne cannot remove Myron from the title, she has a valid claim against the assurance fund.
+>3. Myron's title is indefeasible because he purchased bona fide for value from the registered owner.
+>4. Both (2) and (3) are true.
+>
+###### Click to reveal the correct answer
+**Myron's title is indefeasible because he purchased bona fide for value from the registered owner**: This statement is TRUE. Since Myron was unaware of Anne's earlier transaction and he registered his purchase, his ownership is protected under the principles of indefeasibility, typical in property law frameworks that favor registered transactions over unregistered ones.
 
+### Question 5
+>[!question]
+>- Three years ago, Bernard leased a warehouse from Harold for a 5-year term. Although Bernard was given a properly executed lease agreement, he failed to register it in the land title office. Which of the following statements is FALSE?
+>
+>1. Bernard's interest is protected in any event because there are only two years left on the lease. Therefore, it is a lease for less than 3 years and does not have to be registered.
+>2. Harold is prohibited under section 20(1) of the Land Title Act from denying Bernard's leasehold interest on the grounds that the agreement was not registered.
+>3. Bernard's interest is still valid as against Harold.
+>4. Unregistered leases greater than 3 years in length are not protected from third party buyers.
+>
+###### Click to reveal the correct answer
+**Bernard's interest is protected in any event because there are only two years left on the lease. Therefore, it is a lease for less than 3 years and does not have to be registered**: This statement is FALSE. Even though only two years remain on the lease, the initial term was for 5 years, requiring registration to protect the lease against third parties. Bernard’s failure to register does not alter the requirement based on the remaining term.
 
 
