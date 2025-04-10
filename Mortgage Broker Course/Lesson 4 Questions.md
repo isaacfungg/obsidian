@@ -80,3 +80,17 @@
 **A caveat is not of itself a cause of action or an interest in land**: This statement is TRUE. A caveat is merely a warning or notice to others that someone is claiming an interest—it does not itself create or prove the interest. A caveat only lasts for 2 months not 3.
 
 
+### Question 7
+>[!question]
+>- Under the Land Title Act (the "Act"), registration:
+>
+>1. is not required by the Act for a conveyance of land to be enforceable between the parties to the transfer.
+>2. is NOT necessary for leases for terms of greater than five years, as they are effective against all parties even if they are unregistered.
+>3. renders a charge indefeasible.
+>4. does not permit any indication of a trust on a registered title to land.
+>
+###### Click to reveal the correct answer
+**1. is not required by the Act for a conveyance of land to be enforceable between the parties to the transfer**: This is TRUE. A conveyance is valid between the parties without registration, but it must be registered to protect the buyer’s interest against third parties.
+
+
+
