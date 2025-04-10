@@ -67,4 +67,16 @@
 ###### Click to reveal the correct answer
 **Bernard's interest is protected in any event because there are only two years left on the lease. Therefore, it is a lease for less than 3 years and does not have to be registered**: This statement is FALSE. Even though only two years remain on the lease, the initial term was for 5 years, requiring registration to protect the lease against third parties. Bernard’s failure to register does not alter the requirement based on the remaining term.
 
+### Question 6
+>[!question]
+>- Which of the following statements about a caveat is TRUE?
+>
+>1. A caveat may be registered for up to three months without renewal to protect a claimed interest in land.
+>2. A caveat is not of itself a cause of action or an interest in land.
+>3. It is usual to register a certificate of pending litigation before a caveat.
+>4. The use of a caveat is a good way to tie up any further dealing in land regardless of the validity of the underlying claim.
+>
+###### Click to reveal the correct answer
+**A caveat is not of itself a cause of action or an interest in land**: This statement is TRUE. A caveat is merely a warning or notice to others that someone is claiming an interest—it does not itself create or prove the interest. A caveat only lasts for 2 months not 3.
+
 

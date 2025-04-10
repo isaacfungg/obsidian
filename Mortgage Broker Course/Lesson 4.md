@@ -42,6 +42,8 @@ Title searches are crucial for individuals listing properties for sale, selling 
 
 The most effective way to conduct a title search is by using the Parcel Identifier (PID), a unique nine-digit number assigned to each property by the registrar of land titles. This PID remains with the property unless it is subdivided or consolidated. 
 
+You would also find a caveat while searching titles. A caveat only lasts for 2 months before it has to be renewed.
+
 #### Builders Lien
 Valid for a period of one year then the lien claimant must begin a lawsuit and file a CPL against title to the property in order to enforce its lien within this one-year period
 
