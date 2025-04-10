@@ -69,7 +69,7 @@
 `Operating Fund`: A fund for the strata corporation's common expenses that usually occur one or more times each year
 `Special levy`: An additional contribution applied against owners by the strata corporation
 `Conveyance`: The legal process of transferring ownership of a piece of property from one party to another
-`Depreciation Report`: An estimation of the repair and replacement cost for major items owned by the strata corporation and the expected life of those items
+`Depreciation Report`: An estimation of the repair and replacement cost for major items owned by the strata corporation and the expected life of those items. The required interval is every five years.
 `Assurance Fund`: Used to compensate any person who is deprives of land because of the operation of the Land Title Act
 `Short term exclusive use`: A special privilege granted to owners and tenants to exclusively use common property that is not designated limited common property
-
+`Cooperative Corporation`: A legal entity owned and controlled by its members, who use its services or live in its property. In real estate, members own shares in the corporation, which owns the land and buildings, and members are granted the right to occupy a unit rather than owning it directly.
