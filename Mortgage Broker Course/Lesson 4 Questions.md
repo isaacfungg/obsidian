@@ -92,5 +92,38 @@
 ###### Click to reveal the correct answer
 **1. is not required by the Act for a conveyance of land to be enforceable between the parties to the transfer**: This is TRUE. A conveyance is valid between the parties without registration, but it must be registered to protect the buyer’s interest against third parties.
 
+### Question 8
+>[!question]
+>- In which of the following situations would someone have a successful claim against the assurance fund?
+>
+>1. Black owns Whiteacre. Mary forges a transfer to herself, registers it and then obtains a bank loan for $50,000 giving a mortgage of Whiteacre as security.
+>2. Bob owns Blackacre which is worth $1 million. Martin forges a transfer to himself, registers it and then sells the property for $1.2 million to Jim who registers the property and is unaware of the fraud. Upon completion of the sale to Jim, Martin disappears and cannot be found.
+>3. Gerald, the owner of Greenacres, gives a life estate in his property to his companion Jasmine. Subsequently, Jasmine sells her life estate to John. All necessary documents are registered in the land title office. In a fit of rage Gerald kills Jasmine to get his property back.
+>4. In all of the above situations a successful claim against the assurance fund might be brought.
+>
+###### Click to reveal the correct answer
+**2. Bob owns Blackacre... → Jim would have a successful claim**: Jim is a bona fide purchaser who registered title and suffered loss due to fraud. He can't recover from Martin (who disappeared), so he may claim compensation from the Assurance Fund.
 
+### Question 9
+>[!question]
+>- A strata plan MUST show all of the following EXCEPT:
+>
+>1. a unique registration number.  
+>2. the names of all of the registered owners of the strata lots.  
+>3. the boundaries of the land.  
+>4. the area of each strata lot in square meters.
+>
+###### Click to reveal the correct answer
+**2. the names of all of the registered owners of the strata lots**: This is FALSE. A strata plan does **not** include the names of owners — it shows the layout, lot areas, boundaries, and other technical details, but **ownership info is handled separately** in land title records.
 
+### Question 10
+>[!question]
+>- Kevin is the registered fee simple owner of Orangeacre. David forged a transfer of the fee simple from Kevin to himself and registered the transfer. David then approached ABC Trust Company and arranged a mortgage of Orangeacre. ABC advanced $100,000 to David and registered its mortgage against Orangeacre. Kevin has just discovered what has occurred. Which of the following is TRUE?
+>
+>1. Because David forged the transfer of the fee simple to himself, Kevin can have David removed from the title.  
+>2. ABC is entitled to its mortgage because it dealt with the registered fee simple owner of Orangeacre.  
+>3. ABC can successfully claim against the assurance fund for money to satisfy the mortgage.  
+>4. All of the above
+>
+###### Click to reveal the correct answer
+**1. Because David forged the transfer of the fee simple to himself, Kevin can have David removed from the title**: This is TRUE. A forged transfer is void, so Kevin never lost ownership, and the court can restore his title. ABC’s mortgage is not protected because it’s based on a fraudulent registration.

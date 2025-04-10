@@ -53,3 +53,15 @@ The strata corporation must have both an operating fund and a contingency reserv
 The _Strata Property Act_ has rules that determine the minimum contributions to a strata corporation’s contingency reserve fund.
 
 Strata corporations have several assets that may be used to secure loans, including real property, cash reserves, and accounts receivable
+
+
+#### Strata Plan
+Every plan must include the following:
+* A unique registration number
+* The boundaries of the land
+* The location of any buildings
+* A drawing distinguishing the strata lots from one another by numbers or letters in consecutive order
+* The area of each strata lot in square meters
+* Schedule of Unit Entitlement
+* A schedule of Voting Rights if there is at lest one non-residential strata lot
+* Any bylaws that differ in any respect from standard Bylaws
