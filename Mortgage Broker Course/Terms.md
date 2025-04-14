@@ -73,3 +73,8 @@
 `Assurance Fund`: Used to compensate any person who is deprives of land because of the operation of the Land Title Act
 `Short term exclusive use`: A special privilege granted to owners and tenants to exclusively use common property that is not designated limited common property
 `Cooperative Corporation`: A legal entity owned and controlled by its members, who use its services or live in its property. In real estate, members own shares in the corporation, which owns the land and buildings, and members are granted the right to occupy a unit rather than owning it directly.
+
+#### Lesson 5
+`Plaintiff`: The person who starts the lawsuit
+
+
