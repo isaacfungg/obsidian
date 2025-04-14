@@ -80,3 +80,4 @@
 `Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
 `Misrepresenation`: A false statement of fact which is relied upon by another person to their detriment
 
+

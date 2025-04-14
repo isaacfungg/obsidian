@@ -10,3 +10,9 @@ When a plaintiff can prove that the defendant owed them a duty of care which the
 **Normak Investments v. Belciug**:  
 A mortgage broker passed on false info (property value, mortgage balance, income, assets) from a third party and borrower to a lender **without verifying it**. The lender relied on this info, loaned $70,000, and lost it all when the borrower defaulted. The court found the broker **negligent** for not verifying the information and ordered compensation.
 
+#### Negligent Misrepresentation
+The Supreme Court of Canada has stated the particular requirements for liability for negligent misrepresentation as follows:
+1. There must be an untrue statement
+2. It must have been made negligently
+3. There must be a special relationship between plaintiff and defendant giving rise to a duty of care
+4. there must be reasonable reliance by the plaintiff on the negligent statement
