@@ -76,5 +76,6 @@
 
 #### Lesson 5
 `Plaintiff`: The person who starts the lawsuit
-
+`Second Mortgage`: A loan secured against a property that already has a first mortgage. In case of default and foreclosure, the first mortgage lender is paid first, and the second mortgage lender is repaid only from any remaining funds. Due to the higher risk, second mortgages usually charge higher interest rates.
+`Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
 
