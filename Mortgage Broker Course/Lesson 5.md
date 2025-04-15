@@ -1,4 +1,4 @@
-***
+`***`
 #### Negligence
 Before a person will be held to be negligent, certain criteria must be met. The plaintiff must prove three things:
 1. Duty of care – The defendant owed a legal duty to take care toward the plaintiff.
@@ -18,3 +18,8 @@ The Supreme Court of Canada has stated the particular requirements for liability
 4. there must be reasonable reliance by the plaintiff on the negligent statement
 
 #### Deceit and Fraudulent Misrepresentation
+There are two types of fraud:
+* Identity fraud
+	* Using fake ID or impersonating someone to get a mortgage
+* Value Fraud
+	* Inflating a properties price

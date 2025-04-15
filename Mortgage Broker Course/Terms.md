@@ -79,5 +79,8 @@
 `Second Mortgage`: A loan secured against a property that already has a first mortgage. In case of default and foreclosure, the first mortgage lender is paid first, and the second mortgage lender is repaid only from any remaining funds. Due to the higher risk, second mortgages usually charge higher interest rates.
 `Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
 `Misrepresenation`: A false statement of fact which is relied upon by another person to their detriment
-
-
+`Fiduciary`: Someone who is **legally and ethically required** to act in the **best interests** of another person (called the beneficiary)
+`Beneficiary`: The one who **receives the benefit** of the fiduciary’s loyalty, care, and protection
+`Statutory Liability`: When a mortgage broker **violates laws** like the **Mortgage Brokers Act** and is investigated or disciplined by the **Registrar**.
+`Regulatory Liability`: When a **professional association** (e.g., industry group) punishes a broker for breaking its **code of ethics or rules**.
+`Industry Liability`: When a **professional association** (like a mortgage brokers’ group) holds a member accountable for **violating its rules**, such as its **code of ethics or standards**.
