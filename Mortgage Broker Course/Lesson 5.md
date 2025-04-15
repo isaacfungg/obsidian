@@ -23,3 +23,10 @@ There are two types of fraud:
 	* Using fake ID or impersonating someone to get a mortgage
 * Value Fraud
 	* Inflating a properties price
+
+#### Fiduciary and Agency Relationships
+In order for two persons to be in a fiduciary relationship:
+1. The first person must have undertaken to act in the best interest of the second person
+2. The second person must be vulnerable to the first person's actions, in the sense of the first person having some power or control over them
+3. The first person must have the ability to act in a way that could negatively affect the second person's legal interests or their substantial practical interests
+
