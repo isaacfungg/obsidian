@@ -16,3 +16,5 @@ The Supreme Court of Canada has stated the particular requirements for liability
 2. It must have been made negligently
 3. There must be a special relationship between plaintiff and defendant giving rise to a duty of care
 4. there must be reasonable reliance by the plaintiff on the negligent statement
+
+#### Deceit and Fraudulent Misrepresentation
