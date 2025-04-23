@@ -86,3 +86,6 @@
 `Industry Liability`: When a **professional association** (like a mortgage brokers’ group) holds a member accountable for **violating its rules**, such as its **code of ethics or standards**.
 `Fiduciary Relationship`: A legal relationship where one person (the fiduciary) must act with **loyalty, honesty, and in the best interests** of another person (the beneficiary), who is **vulnerable or dependent** on them.
 `Agent`: a person authorized to act on behalf of another person, called the principal
+`Tort Law`: The area of law that deals with civil wrongs causing harm or loss
+`Contract Law`: The are of law that governs agreements between parties
+`Arm's Length buyer/seller`: A neutral, unrelated buyer/seller with no hidden motives or ties to the seller

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9b649d510495b14",
+            "id": "e56a3c1612efdb70",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,21 @@
             }
           },
           {
-            "id": "e56a3c1612efdb70",
+            "id": "ab2687d4d5777ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mortgage Broker Course/Lesson 5 Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 5 Questions"
+            }
+          },
+          {
+            "id": "fb91624167f4f040",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,10 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e56a3c1612efdb70",
+  "active": "fb91624167f4f040",
   "lastOpenFiles": [
-    "Mortgage Broker Course/Lesson 5.md",
+    "Mortgage Broker Course/Lesson 5 Questions.md",
     "Mortgage Broker Course/Terms.md",
+    "Mortgage Broker Course/Lesson 2.md",
+    "Mortgage Broker Course/Lesson 1.md",
+    "Mortgage Broker Course/Lesson 5.md",
     "Mortgage Broker Course/Lesson 4 Questions.md",
     "Mortgage Broker Course/Lesson 4.md",
     "Mortgage Broker Course/Lesson 3.md",
@@ -205,8 +222,6 @@
     "Amazon Leadership Principles.md",
     "Trading/Part One.md",
     "Trading",
-    "Mortgage Broker Course/Lesson 2.md",
-    "Mortgage Broker Course/Lesson 1.md",
     "CNPS Final Exam.md",
     "Mortgage Broker Course",
     "Pasted image 20240605115647.png",
@@ -225,7 +240,6 @@
     "2024w notes",
     "Option Volatility & Pricing/Terminology.md",
     "Research/BC Childrens/August 23 Update.md",
-    "Research/BC Childrens/Epoch = 50, LR = 0.0005.md",
     "Research/Updated Scores",
     "2024s notes/CPSC 320",
     "Research/BC Childrens",
