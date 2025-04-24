@@ -146,3 +146,113 @@
 >
 ###### Click to reveal the correct answer
 **3. The prosecutor need not prove that an individual consumer or a group of consumers were actually misled by Genevieve's advertisements**: This is TRUE. Under the **Competition Act**, it’s enough to show that the advertisement was **likely to mislead** — proving actual deception is **not required** for prosecution.
+
+### Question 12
+>[!question]
+>- A fraudster pretends to be a lawyer for another fraudster, who goes to a bank to ask for a mortgage loan to buy a house. The bank advances loan proceeds to the fake lawyer in exchange for a promise not to release the funds to anyone until the bank's mortgage is registered on title. The fake lawyer takes the money and disappears. What is this an example of?
+>
+>1. An agreement in restraint of trade  
+>2. Misleading advertising  
+>3. Value fraud  
+>4. Identity fraud
+>
+###### Click to reveal the correct answer
+**4. Identity fraud**: This is correct. The fraudster **impersonated a lawyer**, deceived the bank, and **stole mortgage funds** — a clear case of **identity fraud**, which involves using a false identity to commit fraud.
+
+### Question 13
+>[!question]
+>- Which of the following statements about the requirements under the Competition Act is TRUE?
+>
+>1. Agreements between competing banks to fix interest rates in the market are not considered a violation of the Competition Act.  
+>2. Agreements between competing mortgage brokers to restrict the provision of credit counselling services are considered a violation of the Competition Act.  
+>3. It is not a violation of the Competition Act for three mortgage brokers to attempt to have a fourth competitor agree to raise its rates above a certain level, so as to prevent the fourth from undercutting them.  
+>4. A statement that is a "mere puffery" will be sufficient to constitute a material representation under the misleading advertising provisions of the Competition Act.
+>
+###### Click to reveal the correct answer
+**2. Agreements between competing mortgage brokers to restrict the provision of credit counselling services are considered a violation of the Competition Act**: This is TRUE. Such agreements limit competition and are prohibited under the Act, which targets anti-competitive conduct including service restrictions and collusion.
+
+### Question 14
+>[!question]
+>- Which of the following statements about fiduciary duties is TRUE?
+>
+>1. A fiduciary does not need to disclose all known material information that may affect a principal's decision-making.  
+>2. If a fiduciary is ever in doubt as to whether a piece of information will affect the conduct of their principal, they should err on the side of non-disclosure.  
+>3. The onus is on the principal to show that non-compliance with fiduciary duties has occurred.  
+>4. Fiduciaries owe a duty of utmost loyalty to their beneficiaries.
+>
+###### Click to reveal the correct answer
+**4. Fiduciaries owe a duty of utmost loyalty to their beneficiaries**: This is TRUE. Fiduciaries are legally obligated to act in the **best interests** of those they represent, with **full honesty, loyalty, and disclosure**.
+
+### Question 15
+>[!question]
+>- Which of the following statements about deceit and fraudulent misrepresentation is TRUE?
+>
+>1. Deceit and fraudulent misrepresentation are focused on carelessness, not wilful wrongdoing.  
+>2. Deceit and fraudulent misrepresentation involve a sense of moral fraud.  
+>3. A person needs to be an expert to be liable for deceit or fraudulent misrepresentation.  
+>4. So long as a person didn't knowingly make a false statement, they cannot be liable for deceit and fraudulent misrepresentation.
+>
+###### Click to reveal the correct answer
+**2. Deceit and fraudulent misrepresentation involve a sense of moral fraud**: This is TRUE. These claims focus on **intentional or reckless wrongdoing**, not mere carelessness, and are based on **deliberate dishonesty or moral fault**.
+
+
+### Question 16
+>[!question]
+>- Which of the following statements about money-laundering is FALSE?
+>
+>1. Real estate agents are reporting entities who have mandatory money-laundering reporting obligations under the Proceeds of Crime (Money Laundering) and the Terrorist Financing Act.  
+>2. The Financial Transactions and Reports Analysis Centre of Canada ("FINTRAC") is a privately-owned company that contracts with the government to provide anti-money-laundering services.  
+>3. One particular money-laundering tactic was so prevalent in British Columbia that it was labelled the "Vancouver Model" by the international community.  
+>4. The first stage of the money-laundering process is known as "placement".
+>
+###### Click to reveal the correct answer
+**2. The Financial Transactions and Reports Analysis Centre of Canada ("FINTRAC") is a privately-owned company that contracts with the government to provide anti-money-laundering services**: This is FALSE. **FINTRAC is a government agency**, not a private company. It plays a central role in **detecting and deterring money laundering and terrorist financing in Canada**.
+
+### Question 17
+>[!question]
+>- Which of the following is a factor that must be present in order for a relationship to be fiduciary in nature?
+>
+>1. The first person must undertake to act in the second person's best interests.  
+>2. The first person must be a registered mortgage broker.  
+>3. The first person must owe a duty of care to the second person.  
+>4. The first person must have breached the standard of care.
+>
+###### Click to reveal the correct answer
+**1. The first person must undertake to act in the second person's best interests**: This is TRUE. A fiduciary relationship exists when one party **voluntarily agrees to act loyally and in the best interests** of another, creating a high standard of trust and obligation.
+
+### Question 18
+>[!question]
+>- Which of the following mortgage brokering activities is most likely to give rise to a fiduciary relationship between a mortgage broker and a borrower?
+>
+>1. Mortgage arranging  
+>2. Private lending  
+>3. Collecting mortgage payments  
+>4. Buying and selling mortgages on the mortgage broker's own behalf
+>
+###### Click to reveal the correct answer
+**1. Mortgage arranging**: This is correct. When a broker helps arrange a mortgage for a borrower, they typically undertake to **act in the borrower's best interest**, which is the key trigger for a **fiduciary relationship**.
+
+### Question 19
+>[!question]
+>- Which of the following correctly describes a "loan back scheme" in money-laundering?
+>
+>1. A criminal obtains a mortgage loan from an innocent private lender, and while the down payment is made with legitimate funds to avoid scrutiny, the mortgage payments are made with dirty money.  
+>2. A criminal legally obtains a succession of mortgage loans and then repeatedly repays them with dirty money during a short period of time.  
+>3. A criminal operates as an unregulated private lender. The criminal loans innocent borrowers dirty money and collects clean money in the form of mortgage payments from the borrowers.  
+>4. A criminal lends themselves money from their own criminal activities to buy a property. They use their family member to lend themselves the money to create the appearance that the loan has come from someone else.
+>
+###### Click to reveal the correct answer
+**4. A criminal lends themselves money from their own criminal activities to buy a property. They use their family member to lend themselves the money to create the appearance that the loan has come from someone else**: This is TRUE. This is a classic **loan back scheme**, where dirty money is disguised as a legitimate loan, using a third party to **create the illusion of legitimacy**.
+
+### Question 20
+>[!question]
+>- Which of the following actions would most likely cause a fiduciary relationship to form between a mortgage broker and their clients?
+>
+>1. The mortgage broker never tells clients that they will put the interests of the client before all others.  
+>2. The mortgage broker tells clients "don't worry, I'll take care of everything for you".  
+>3. The mortgage broker ensures that all clients make decisions independently, with all the relevant information.  
+>4. The mortgage broker takes additional steps to ensure that vulnerable clients understand the true nature of the broker-client relationship, such as recommending the client to obtain legal advice.
+>
+###### Click to reveal the correct answer
+**2. The mortgage broker tells clients "don't worry, I'll take care of everything for you"**: This is TRUE. That statement **creates the impression** that the broker is taking on a **duty of loyalty and trust**, which can trigger a **fiduciary relationship**.
+

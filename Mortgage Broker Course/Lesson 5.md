@@ -30,3 +30,20 @@ In order for two persons to be in a fiduciary relationship:
 2. The second person must be vulnerable to the first person's actions, in the sense of the first person having some power or control over them
 3. The first person must have the ability to act in a way that could negatively affect the second person's legal interests or their substantial practical interests
 
+#### Money Laundering
+###### **Placement**
+* Introducing illegal money into the financial system
+###### **Layering
+* Separating the money from its criminal origin through complex transactions
+###### **Integration
+* Reintroducing the "cleaned" money back into the legitimate economy
+
+Loan back Scheme
+* A money laundering tactic where a criminal uses their own dirty money to create a fake loan, making it look like the funds came from a legitimate source
+
+Mortgage payment laundering through repayments
+* Dirty money is used to make regular mortgage payments, which are seen as low-risk and rarely scrutinized
+
+Third-party lending or front lender laundering
+* Criminal acts as an unregulated lender, giving out dirty money as loans
+* 

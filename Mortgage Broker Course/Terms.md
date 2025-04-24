@@ -89,3 +89,4 @@
 `Tort Law`: The area of law that deals with civil wrongs causing harm or loss
 `Contract Law`: The are of law that governs agreements between parties
 `Arm's Length buyer/seller`: A neutral, unrelated buyer/seller with no hidden motives or ties to the seller
+`Onus`: Legal responsibility to prove your side
