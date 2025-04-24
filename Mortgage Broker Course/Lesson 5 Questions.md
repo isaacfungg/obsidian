@@ -119,3 +119,30 @@
 >
 ###### Click to reveal the correct answer
 **2. Value fraud**: This is correct. The fraud involved **inflating the property's value** to extract excess loan proceeds from a lender. Unlike identity fraud, which involves impersonation, this scheme is about **misrepresenting the property's worth** — a classic form of value fraud.
+
+### Question 10
+>[!question]
+>- Jim recently lost his job and is finding it difficult to make the mortgage payments on his house. As a result, Jim decides to sell the home and hires the services of Carol, a licensed real estate agent. In an effort to make his Burnaby house more attractive, Jim immediately starts to repair the fence which surrounds his yard. Jim is not the most organized handyman and often leaves tools, boards and scrap material around the fence. One night Carol arrives with John and Sarah Middleton, a newly married couple looking for a reasonably priced home. After looking at the house, the Middleton's indicate to Jim that they are very interested in Jim's house and that they would like to return to discuss matters further in the morning when they can see what the house looks like in daylight. As John and Sarah leave the yard and walk down the sidewalk to their car, Sarah steps on a board full of nails and hurts her foot.
+>
+>**Which of the following is NOT necessary to establish Jim's liability to Sarah in negligence?**
+>
+>1. Jim did not take the care that a reasonable person would have taken in the circumstances.  
+>2. It is reasonably foreseeable that a person might step on the board full of nails and hurt their foot.  
+>3. Sarah's actions breached the standard of care.  
+>4. Jim owed Sarah a duty to take care.
+>
+###### Click to reveal the correct answer
+**3. Sarah's actions breached the standard of care**: This is correct. In a negligence claim, it’s the **defendant’s conduct** (Jim’s) that is evaluated for breach of the standard of care — **not the plaintiff’s**. Sarah's own standard of care is not a required element to prove Jim's liability.
+
+
+### Question 11
+>[!question]
+>- Genevieve, a mortgage broker, is being prosecuted under the Competition Act for making false or misleading statements about her practice in her advertisements. Which of the following is TRUE?
+>
+>1. Genevieve will be liable even if she honestly believed that her advertisements were not false or misleading and exercised due diligence in confirming that fact.  
+>2. If the charge is prosecuted as a summary offence, a conviction is punishable by fine in any amount at the discretion of the court or a maximum of fourteen years in prison.  
+>3. The prosecutor need not prove that an individual consumer or a group of consumers were actually misled by Genevieve's advertisements.  
+>4. Genevieve will be liable for misleading advertising or deceptive practices even if the misstatement is relatively minor and is of little significance.
+>
+###### Click to reveal the correct answer
+**3. The prosecutor need not prove that an individual consumer or a group of consumers were actually misled by Genevieve's advertisements**: This is TRUE. Under the **Competition Act**, it’s enough to show that the advertisement was **likely to mislead** — proving actual deception is **not required** for prosecution.
