@@ -90,3 +90,8 @@
 `Contract Law`: The are of law that governs agreements between parties
 `Arm's Length buyer/seller`: A neutral, unrelated buyer/seller with no hidden motives or ties to the seller
 `Onus`: Legal responsibility to prove your side
+
+#### Lesson 6
+`Contract`: An agreement between two or more persons which creates an obligation to do or not to do a particular thing
+`Void Contact`: A contract which never had any legal existence or effect and which is not capable of being enforced
+`Voidable Contract`: A valid contract that has a legal defect from the start, giving one party the **right to cancel** it if they choose.

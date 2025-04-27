@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e56a3c1612efdb70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mortgage Broker Course/Lesson 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 5"
-            }
-          },
-          {
             "id": "a62d2f0de2ac23c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mortgage Broker Course/Lesson 5 Questions.md",
+                "file": "Mortgage Broker Course/Lesson 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 5 Questions"
+              "title": "Lesson 6"
             }
           },
           {
@@ -205,10 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a62d2f0de2ac23c3",
+  "active": "fb91624167f4f040",
   "lastOpenFiles": [
-    "Mortgage Broker Course/Lesson 5.md",
+    "Mortgage Broker Course/Lesson 6.md",
     "Mortgage Broker Course/Lesson 5 Questions.md",
+    "Mortgage Broker Course/Lesson 5.md",
     "Mortgage Broker Course/Terms.md",
     "Mortgage Broker Course/Lesson 2.md",
     "Mortgage Broker Course/Lesson 1.md",
@@ -239,7 +226,6 @@
     "2024w notes/CPSC 317",
     "2024w notes",
     "Option Volatility & Pricing/Terminology.md",
-    "Research/BC Childrens/August 23 Update.md",
     "Research/Updated Scores",
     "2024s notes/CPSC 320",
     "Research/BC Childrens",
