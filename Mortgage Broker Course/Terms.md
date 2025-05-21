@@ -95,7 +95,7 @@
 `Contract`: An agreement between two or more persons which creates an obligation to do or not to do a particular thing
 `Void Contact`: A contract which never had any legal existence or effect and which is not capable of being enforced
 `Voidable Contract`: A valid contract that has a legal defect from the start, giving one party the **right to cancel** it if they choose.
-`Offer`: Promise made from one party to another
+`Offer`: A proposal to form a contract
 `Standing Offers`: Offers that are made to the public at large
 `Invitation to treat`: A statement or action that invites others to make offers, but is **not** itself an offer that can be accepted to form a contract.
 `Revocation`: Term used for the cancellation of an offer
