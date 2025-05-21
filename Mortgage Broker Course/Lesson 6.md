@@ -25,3 +25,4 @@ Incapacity can prevent a valid contract from arising. The most common types of i
 * Infancy
 	* At law, a person younger than age 19 is considered a minor or infant
 	* Most contracts to which a party is an infant are voidable by the infant
+	* It is however enforceable if another statute
