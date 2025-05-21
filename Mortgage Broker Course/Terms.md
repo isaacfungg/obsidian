@@ -97,6 +97,6 @@
 `Voidable Contract`: A valid contract that has a legal defect from the start, giving one party the **right to cancel** it if they choose.
 `Offer`: Promise made from one party to another
 `Standing Offers`: Offers that are made to the public at large
-`Invitation to treat`: Not an offer, but an invitation for others to make offers
+`Invitation to treat`: A statement or action that invites others to make offers, but is **not** itself an offer that can be accepted to form a contract.
 `Revocation`: Term used for the cancellation of an offer
 `Option Agreement`: Gives one party the right (but not obligation) to enter into a contract in the future
