@@ -92,7 +92,8 @@
 `Onus`: Legal responsibility to prove your side
 
 #### Lesson 6
-`Contract`: An agreement between two or more persons which creates an obligation to do or not to do a particular thing
+`Contract`: An agreement between two or more persons, supported by **consideration** which creates an obligation to do or not to do a particular thing
+`Consideration`: Something of value exchanged between the parties, such as money, a service or property
 `Void Contact`: A contract which never had any legal existence or effect and which is not capable of being enforced
 `Voidable Contract`: A valid contract that has a legal defect from the start, giving one party the **right to cancel** it if they choose.
 `Offer`: A proposal to form a contract
@@ -100,3 +101,5 @@
 `Invitation to treat`: A statement or action that invites others to make offers, but is **not** itself an offer that can be accepted to form a contract.
 `Revocation`: Term used for the cancellation of an offer
 `Option Agreement`: Gives one party the right (but not obligation) to enter into a contract in the future
+`Seal`: A contract made without consideration can still be binding if made under seal
+`Quantum Meruit`: Means "as much as deserved"
