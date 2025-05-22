@@ -31,4 +31,12 @@ Incapacity can prevent a valid contract from arising. The most common types of i
 		* They must understand the terms of the contract
 		* Understand the effect on their interest
 		* The other party must not know of the incapacity
-		* 
+
+#### Power of Attorney (POA)
+A Power of Attorney is a legal document where someone (the donor) gives another person (the attorney) authority to make decisions on their behalf
+
+**Regular POA**: Ends if the donor becomes mentally incapable or dies
+**Enduring POA**: Remains valid even if the donor becomes incapable
+
+If someone becomes incapable and they have no enduring power of attorney agreement in place the Supreme Court of Canada will appoint someone to make important decisions on their behalf.
+In most cases, it'll be family or friend but in other cases a government body will make decisions on their behalf.
