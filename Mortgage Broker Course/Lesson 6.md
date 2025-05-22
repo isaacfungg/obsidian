@@ -26,3 +26,9 @@ Incapacity can prevent a valid contract from arising. The most common types of i
 	* At law, a person younger than age 19 is considered a minor or infant
 	* Most contracts to which a party is an infant are voidable by the infant
 	* It is however enforceable if another statute
+* Mental Incapacity
+	* The common law test for mental capacity to contract determines if a person can legally enter into a binding agreement. It has three parts:
+		* They must understand the terms of the contract
+		* Understand the effect on their interest
+		* The other party must not know of the incapacity
+		* 
