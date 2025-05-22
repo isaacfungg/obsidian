@@ -31,6 +31,9 @@ Incapacity can prevent a valid contract from arising. The most common types of i
 		* They must understand the terms of the contract
 		* Understand the effect on their interest
 		* The other party must not know of the incapacity
+* Foreigners and Illiterates
+	* The rule is if they know the general nature of the contract then it is bound
+	* They will also be bound if the neglect to find out the contents of the contract
 
 #### Power of Attorney (POA)
 A Power of Attorney is a legal document where someone (the donor) gives another person (the attorney) authority to make decisions on their behalf
