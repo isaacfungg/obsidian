@@ -111,3 +111,4 @@
 `Undue Influence`: When one party uses a position of power or trust to unfairly pressure another into a contract
 `Condition Precedent`: A clause in a contract that says something must happen before the contract becomes binding or must be performed
 `Frustration`: A legal doctrine that ends a contract when something unexpected happens that makes it impossible to carry out
+`Specific Performance`: A legal remedy where the court orders a party to carry out the exact terms of a contract, instead of just paying damages

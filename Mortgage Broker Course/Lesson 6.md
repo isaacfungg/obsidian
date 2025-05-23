@@ -45,13 +45,27 @@ If someone becomes incapable and they have no enduring power of attorney agreeme
 In most cases, it'll be family or friend but in other cases a government body will make decisions on their behalf.
 
 #### Termination of a Contract
-###### Performance
-Both parties fulfill their obligations - contract ends naturally
-###### Agreement
+**Performance
+* Both parties fulfill their obligations - contract ends naturally
+**Agreement
 * Parties agree to cancel or replace the contract
-###### Non-Fulfilment of a Condition Precedent
+**Non-Fulfilment of a Condition Precedent
 * A condition isn't met
-###### Frustration
+**Frustration
 * Unexpected event makes the contract impossible to perform
-###### Termination by Breach
+**Termination by Breach
 * One party fails to perform a key obligation
+
+#### Assignment
+- Transfers contractual rights to another person
+###### **Statutory Assignment
+* Must be in writing
+* Must be absolute and unconditional
+* Notice of the assignment has been given in writing to the original promissor
+* More formal and efficient
+* Only assignee and promissor has to go to court
+###### **Equitable Assignment**
+* Missing one or more statutory requirements
+* All three parties must be named in a court action
+* Still valid, but less formal
+* If a dispute arises, all three parties must be involved in court
