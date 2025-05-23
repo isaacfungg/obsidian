@@ -43,3 +43,15 @@ A Power of Attorney is a legal document where someone (the donor) gives another 
 
 If someone becomes incapable and they have no enduring power of attorney agreement in place the Supreme Court of Canada will appoint someone to make important decisions on their behalf.
 In most cases, it'll be family or friend but in other cases a government body will make decisions on their behalf.
+
+#### Termination of a Contract
+###### Performance
+Both parties fulfill their obligations - contract ends naturally
+###### Agreement
+* Parties agree to cancel or replace the contract
+###### Non-Fulfilment of a Condition Precedent
+* A condition isn't met
+###### Frustration
+* Unexpected event makes the contract impossible to perform
+###### Termination by Breach
+* One party fails to perform a key obligation

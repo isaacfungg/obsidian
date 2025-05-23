@@ -103,3 +103,11 @@
 `Option Agreement`: Gives one party the right (but not obligation) to enter into a contract in the future
 `Seal`: A contract made without consideration can still be binding if made under seal
 `Quantum Meruit`: Means "as much as deserved"
+`Common Mistake`: Both parties to a contract have made the same mistake about a fundamental term of the contract
+`Mutual Mistake`: When both parties make a fundamental mistake about the contract but each makes a different mistake
+`Unilateral Mistake`: One party is mistaken about a fundamental term of the contract and the other party is aware of this mistake but does nothing to correct it
+`Contractual Relationship`: A legal relationship formed when two or more parties agree to certain terms and create binding obligations
+`Duress`: When someone is forced or threatened into entering a contract against their will
+`Undue Influence`: When one party uses a position of power or trust to unfairly pressure another into a contract
+`Condition Precedent`: A clause in a contract that says something must happen before the contract becomes binding or must be performed
+`Frustration`: A legal doctrine that ends a contract when something unexpected happens that makes it impossible to carry out
