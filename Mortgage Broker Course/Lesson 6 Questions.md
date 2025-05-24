@@ -51,3 +51,48 @@
 ###### Click to reveal the correct answer
 
 **2. consideration is not required**: This is the correct answer. A contract under seal is binding even without consideration. The seal shows serious intent to be bound. The other options are incorrect: the postal rule applies regardless of a seal, legal intention is still required, and a seal doesn’t make a contract void.
+
+### Question 4
+
+> [!question]  
+> Angela was talking to Moira in a cafe and offered to sell her two-year-old car to Moira for the very low price of $7,000. Moira said that she wasn't certain whether she wanted to buy the car and that she would think about it. Hector, who was eavesdropping on the women's conversation, spoke up to say "You've got a deal! I'll buy your car for that price". Angela replied that she did not want to sell the car to Hector. Hector insisted that they had a contract. Angela felt that she was obligated to sell the car to Moira, if she did decide she wanted to purchase it.
+> 
+> Which of the following statements is TRUE?
+> 
+> 1. Angela is not required to agree to sell her car to Hector for $7,000.
+>     
+> 2. At this point Moira and Angela have made a contract for the sale of the car.
+>     
+> 3. If Angela accepts Hector's offer she will be liable to Moira for damages for breach of contract.
+>     
+> 4. Angela is not free to sell the car to anyone else unless she actually receives Moira's rejection of her offer.
+>     
+
+###### Click to reveal the correct answer
+
+**1. Angela is not required to agree to sell her car to Hector for $7,000**: This is the correct answer. Angela made an offer to Moira, not Hector. Since Hector was not the intended offeree, he cannot accept the offer. No contract exists between Angela and Hector, or Angela and Moira.
+
+### Question 5
+
+> [!question]  
+> On Monday, Peter mailed an offer to Beth to buy her horse for a price of $400. The offer was stated to be open for acceptance until 9:00 a.m. on Friday. It also stated, "Reply by telephone". Beth considered the offer, and decided to accept. However, she wanted all dealings to be in writing, so she wrote a letter of acceptance and mailed it on Thursday morning at 10:00 a.m. On Thursday afternoon, Peter found a better horse and telephoned Beth and told her that he was revoking his offer. Beth's letter of acceptance arrived at 8:00 a.m. Friday morning. One or more of the following statements may be true.
+> 
+> A. Since Beth mailed her acceptance prior to Friday morning at 9:00 a.m., she has a valid contract with Peter.  
+> B. Since Beth's letter of acceptance was received by 9:00 a.m. on Friday, she has a valid contract with Peter.  
+> C. Since Peter revoked his offer prior to Beth communicating her acceptance there is no contract.  
+> D. Since Peter's offer was sent by mail, he was not legally entitled to require Beth to reply by telephone.
+> 
+> Which statement(s) is/are TRUE?
+> 
+> 1. A and D only
+>     
+> 2. B only
+>     
+> 3. C only
+>     
+> 4. None of the above
+>     
+
+###### Click to reveal the correct answer
+
+**3. C only**: This is the correct answer. Because Peter required acceptance by telephone, Beth's mailed response was not valid acceptance. Peter revoked the offer before acceptance was properly communicated, so no contract was formed. The postal acceptance rule doesn’t apply when the offer specifies another method.

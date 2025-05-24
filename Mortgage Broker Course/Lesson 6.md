@@ -5,6 +5,20 @@ An offer expires when:
 * The person who made the offer communicates revocation before acceptance
 * A counter offer is made
 
+#### Contracts, Promises and Seals
+**Contracts
+* Contracts are two sided: Both parties agree to obligations
+* Must have consideration from both sides
+* Legally binding
+**Promises**
+* Promises are one sided
+* Not legally binding
+* No consideration is needed
+**Sealed Contract**
+* Normally needs consideration, but seal replaces it
+* No consideration could just be a promise to do something down the line
+**Sealed Promise**
+* Legally binding
 #### When acceptance is communicated
 An acceptance has no effect until communicated with the offeror.
 Contracts are categorized in two types: those which can be accepted instantaneously and those where the parties expect the offer to be accepted by non-instantaneous means.
