@@ -96,3 +96,21 @@
 ###### Click to reveal the correct answer
 
 **3. C only**: This is the correct answer. Because Peter required acceptance by telephone, Beth's mailed response was not valid acceptance. Peter revoked the offer before acceptance was properly communicated, so no contract was formed. The postal acceptance rule doesn’t apply when the offer specifies another method.
+
+### Question 6
+
+> [!question]  
+> Ranjit and Ab enter into a contract with Ivan, under which Ranjit and Ab agree to paint the exterior of Ivan's house by October 31 for a price of $5,000. Which one of the following incidents would terminate the contract?
+> 
+> 1. After seeing the completed job, Ivan thinks the colour of the paint he agreed to looks too bright in such large quantities on his house.
+>     
+> 2. On October 13, Ranjit and Ab ask Ivan if they can have an extension of 2 days beyond the completion date, which would enable them to enter into another contract with one of Ivan's neighbours.
+>     
+> 3. Ranjit and Ab complete the job on October 20, and Ivan pays them the agreed price.
+>     
+> 4. On October 18, Ivan sells his house to Juan, agreeing to complete the sale on December 11.
+>     
+
+###### Click to reveal the correct answer
+
+**3. Ranjit and Ab complete the job on October 20, and Ivan pays them the agreed price**: This is the correct answer. A contract is terminated when both parties fully perform their obligations. The other scenarios involve dissatisfaction, a request for an extension, or a future house sale — none of which automatically end the contract.
