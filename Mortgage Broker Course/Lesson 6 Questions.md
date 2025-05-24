@@ -114,3 +114,51 @@
 ###### Click to reveal the correct answer
 
 **3. Ranjit and Ab complete the job on October 20, and Ivan pays them the agreed price**: This is the correct answer. A contract is terminated when both parties fully perform their obligations. The other scenarios involve dissatisfaction, a request for an extension, or a future house sale — none of which automatically end the contract.
+
+### Question 7
+
+> [!question]  
+> Harry orally offered to give Mary a one-hour piano lesson for $25. Which of the following statements is TRUE?
+> 
+> 1. If Susan overhears Harry's offer, and Mary is not interested in accepting, Susan can accept.
+>     
+> 2. If Mary accepts, and Harry does not honour the contract, Mary cannot successfully sue Harry because the contract was not in writing.
+>     
+> 3. If Harry did not specify a time limit for acceptance, Mary can accept at any future date.
+>     
+> 4. None of the above
+>     
+
+###### Click to reveal the correct answer
+
+**4. None of the above**: This is the correct answer.
+
+- Option 1 is false because only the intended offeree (Mary) can accept the offer.
+    
+- Option 2 is false because oral contracts are generally enforceable unless the law requires writing.
+    
+- Option 3 is false because offers without a stated time limit must still be accepted within a **reasonable time**.
+
+### Question 8
+
+> [!question]  
+> Which of the following statements regarding conditions in a contract of purchase and sale are TRUE?
+> 
+> A. A condition is a promise which is not fundamental to the contract.  
+> B. In most cases, the breach of a condition permits the innocent party to terminate the contract.  
+> C. A "time is of the essence" clause indicates that timely performance is a condition of the contract.  
+> D. If a term is not a condition, then a breach of that term will not result in any remedies for the innocent party.
+> 
+> 1. A and C only
+>     
+> 2. A and D only
+>     
+> 3. C and D only
+>     
+> 4. B and C only
+>     
+
+###### Click to reveal the correct answer
+
+**4. B and C only**: This is the correct answer. A condition is a **fundamental** term of a contract, and its breach typically allows the innocent party to terminate. A “time is of the essence” clause makes timely performance a **condition**. Statements A and D are false because conditions are fundamental, and even breach of non-conditions (like warranties) can still lead to remedies.
+
