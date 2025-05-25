@@ -370,3 +370,59 @@
 ###### Click to reveal the correct answer
 
 **2. The proper method of acceptance was by mail. The offer was properly cancelled because Hugh revoked the offer before Oswald mailed the acceptance. No contract was formed**: This is the correct answer. Under the **postal acceptance rule**, acceptance is effective **only when mailed**. Since Hugh revoked the offer **before** Oswald mailed his acceptance, the revocation is valid, and **no contract was formed**.
+
+### Question 18
+
+> [!question]  
+> Melissa contracts to supply 1,000 maple trees to Bill's landscaping company, and 800 to Mike's landscaping company. Melissa's inventory sheet shows that she has 2,000 trees, but in the tree yard there are only 1,500 trees. Melissa is unable to get any more trees in time to satisfy the contract. Assuming that Melissa completes the contract with Bill, but is unable to get any more trees for Mike, what legal remedies, if any, will be available to Mike?
+> 
+> 1. Specific performance
+>     
+> 2. Quantum meruit
+>     
+> 3. Damages
+>     
+> 4. All of the above
+>     
+
+###### Click to reveal the correct answer
+
+**3. Damages**: This is the correct answer. Melissa has breached her contract with Mike. Because maple trees are **interchangeable goods**, **money damages** are considered adequate compensation. **Specific performance** is reserved for unique items, and **quantum meruit** doesn't apply because Melissa (the breaching party) is the one who partially performed.
+
+### Question 19
+
+> [!question]  
+> Helen was a shipping agent for a specialized Canadian publishing company. Janet worked for W.H. Jones Ltd., an international retail bookstore. Janet attended Helen's office and they entered into a contract which provided that Helen's company would deliver 5,000 copies of an anthology of Canadian poetry to W.H. Jones Ltd.'s London offices. Although Helen assumed that this meant London, Ontario, Janet was in fact the purchasing agent for the London, England office of the company. When Helen and Janet discovered the mistake they also discovered that the difference in shipping costs between London, England and London, Ontario was three times the amount of the original contract.
+> 
+> Which of the following is TRUE?
+> 
+> 1. The contract cannot be enforced because neither Helen nor Janet had the necessary intention to create legal obligations in making the contract.
+>     
+> 2. There never was a contract in this situation because there was no consideration given for the promises of either party.
+>     
+> 3. This contract cannot be enforced because section 54 of the Statute of Frauds requires the contract to be in writing.
+>     
+> 4. This is a case of mutual mistake because Helen and Janet each had a different, reasonable intention when making the contract.
+>     
+
+###### Click to reveal the correct answer
+
+**4. This is a case of mutual mistake because Helen and Janet each had a different, reasonable intention when making the contract**: This is the correct answer. Both parties misunderstood the **same term** (“London”) in **different but reasonable ways**, which makes it a **mutual mistake**. Since the meaning of “London” was essential to performance and ambiguous, the contract may be void. The other options are incorrect because intention, consideration, and writing are not at issue here.
+
+### Question 20
+
+> [!question]  
+> Which of the following is TRUE about common law duress?
+> 
+> 1. Unlike undue influence, duress does not affect the genuine consent of a party to the contract.
+>     
+> 2. Duress requires actual physical injury.
+>     
+> 3. The only remedy courts will award if duress is found is damages.
+>     
+> 4. Where a person is forced to enter into a contract against their will by a threat of imprisonment against one of their close associates, the threat can be considered an act of duress.
+>     
+
+###### Click to reveal the correct answer
+
+**4. Where a person is forced to enter into a contract against their will by a threat of imprisonment against one of their close associates, the threat can be considered an act of duress**: This is the correct answer. Duress includes threats of physical harm, imprisonment, or similar pressure on a person or their close associates. The other statements are false because duress **does affect consent**, doesn’t require actual harm, and may make a contract **voidable**, not just eligible for damages.
