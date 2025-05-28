@@ -112,3 +112,6 @@
 `Condition Precedent`: A clause in a contract that says something must happen before the contract becomes binding or must be performed
 `Frustration`: A legal doctrine that ends a contract when something unexpected happens that makes it impossible to carry out
 `Specific Performance`: A legal remedy where the court orders a party to carry out the exact terms of a contract, instead of just paying damages
+
+#### Lesson 7
+`Equitable Mortgage`: A mortgage that is not registered on title but is still legally enforceable against the borrower

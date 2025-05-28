@@ -35,7 +35,8 @@
               "title": "Terms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24ca0974b4383f19",
+  "active": "9f58a81780f91c18",
   "lastOpenFiles": [
-    "Mortgage Broker Course/Lesson 6.md",
     "Mortgage Broker Course/Lesson 7.md",
+    "Mortgage Broker Course/Lesson 6.md",
     "Mortgage Broker Course/Lesson 6 Questions.md",
     "Mortgage Broker Course/Terms.md",
     "Mortgage Broker Course/Lesson 5.md",
