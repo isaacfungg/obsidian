@@ -83,7 +83,7 @@
 **Disclosure Requirements (BPCPA - Part 5)
 * Lenders and brokers must give clear written disclosure to individual borrowers using credit for personal, family, or household purposes
 * Required disclosures
-	* 2 days before the borrower signs the agreeement
+	* 2 days before the borrower signs the agreement
 	* Annually if the interest is variable
 	* Within 30 days for:
 		* Interest rate changes >= 1%
@@ -97,3 +97,27 @@
 **Competing Mortgages 
 * When two or more mortgages are granted against the same property, priority is based on registration
 * A mortgage can also lose priority if it is postponed in writing or the lender makes further advances.
+**Foreclosure by First Mortgage Lender
+* First lender can foreclose and potentially eliminate interests of lower-ranking mortgagees
+**Foreclosure by Fourth Mortgage Lender
+* A fourth mortgagee can foreclose, but must address all prior mortgages
+* Usually needs to pay them off to claim full title
+**Redemption of the Borrower
+* Borrower can redeem the mortgage during the redemption period
+* Doing so stops the foreclosure
+
+#### Further Advances
+Certain liens or claims created by law can take priority over mortgage lenders, even if the mortgage was registered first. As a lender you should use the omnibus clause to step in and pay those charges so that way they can protect their money.
+**Statutory Priorities
+* Builders Lien Act
+	* Gives contractors and workers lien rights for improvements to land
+* Employment Standard Act
+	* Wage claim certificates can be registered as secured debts
+* Strata Property Act
+	* Strata corporations can register liens for strata fees, special levies, or judgements
+* Local Government Act
+	* Unpaid property taxes, fees, and charges become statutory liens
+* Workers Compensation Act
+	* Workers can claim for unpaid wages due to workplace injury
+* Deemed Trust Claims
+	* Under Income Tax Act, CPP, EI, Excise Tax Act

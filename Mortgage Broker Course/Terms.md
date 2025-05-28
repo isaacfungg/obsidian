@@ -56,6 +56,7 @@
 `Freehold transfer`: The process of transferring the complete ownership of real property from one party to another without any time restrictions on the length of ownership. (aka a deed)
 `Caveat`: A legal notice registered against a property's title by someone who claims to have rights to that property. It prevents others from making transactions (like selling or mortgaging) that would conflict with this claim, ensuring everyone is aware of these claimed rights.
 `Certificate of Pending Litigation (CPL)`: A legal notice registered on title to a property to indicate that a lawsuit has been filed which claims an interest in that property. It prevents the owner from selling, transferring, or mortgaging the land until the dispute is resolved. It is often used after registering a caveat.
+`Lien`: A legal claim against a property used as security for a debt
 `Builders Lien`: A legal claim filed by contractors, subcontractors, workers, or suppliers against a property they have worked on or supplied materials for, to secure payment they are owed.
 `Judgement`: A formal decision made by a court following a lawsuit
 `Common Property`: Any part of a strata plan that is not a strata lot
@@ -120,3 +121,4 @@
 `Clogging`: Blocking or interfering with the borrower's right to fully regain ownership of their property after repaying the mortgage
 `Partial discharge`: When the lender removes the mortgage from part of the property
 `Assumable mortgage`: A mortgage that a buyer can take over from the current homeowner
+`Foreclosure`: A legal process where a lender takes ownership of a property after the borrower defaults on their mortgage
