@@ -67,4 +67,6 @@
 * The lender makes regular payments to the borrower
 * Borrower stays in their home and repays the loan later usually when they sell the home, move out or pass away
 **Bridge Financing
-* a short-term loan used when a borrower buys a new property before selling their current one or needs temporary funds
+* A short-term loan used when a borrower buys a new property before selling their current one or needs temporary funds
+
+#### Federal Legislation Over Mortgages
