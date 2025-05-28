@@ -115,3 +115,7 @@
 
 #### Lesson 7
 `Equitable Mortgage`: A mortgage that is not registered on title but is still legally enforceable against the borrower
+`Express Terms`: Terms that are stated outright in the contract
+`Implied Terms`: Terms that are not exactly stated in the contract but may be implied by statute or case law
+`Clogging`: Blocking or interfering with the borrower's right to fully regain ownership of their property after repaying the mortgage
+`Partial discharge`: When the lender removes the mortgage from part of the property
