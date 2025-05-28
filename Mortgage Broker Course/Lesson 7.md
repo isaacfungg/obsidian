@@ -70,3 +70,30 @@
 * A short-term loan used when a borrower buys a new property before selling their current one or needs temporary funds
 
 #### Federal Legislation Over Mortgages
+**Criminal Code - Criminal Interest Rates
+* Illegal to charge an effective annual interest rate over 60%
+* "Interest" includes fees, bonuses, penalties, commissions, etc
+**Mortgage Fraud 
+* Section 331: Misusing mortgage loans proceeds when acting under power of attorney
+* Section 385: Concealing title defects to deceive a buyer or lender
+* Section 387: Selling property while knowing there's an unregistered mortgage if done fraudulently
+* Sections 334 & 380: General Fraud and theft offences
+
+#### Provincial Legislation Over Mortgages
+**Disclosure Requirements (BPCPA - Part 5)
+* Lenders and brokers must give clear written disclosure to individual borrowers using credit for personal, family, or household purposes
+* Required disclosures
+	* 2 days before the borrower signs the agreeement
+	* Annually if the interest is variable
+	* Within 30 days for:
+		* Interest rate changes >= 1%
+		* Missed payments or default charges affecting the principal
+		* Renewal notices
+		* Monthly statements
+**Invalid Mortgages
+* A mortgage even if registered can be rules invalid if it violates legislation or is unconscionable under common law principles
+
+#### Priorities
+**Competing Mortgages 
+* When two or more mortgages are granted against the same property, priority is based on registration
+* A mortgage can also lose priority if it is postponed in writing or the lender makes further advances.
