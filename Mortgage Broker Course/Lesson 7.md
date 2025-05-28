@@ -121,3 +121,6 @@ Certain liens or claims created by law can take priority over mortgage lenders, 
 	* Workers can claim for unpaid wages due to workplace injury
 * Deemed Trust Claims
 	* Under Income Tax Act, CPP, EI, Excise Tax Act
+
+
+#### The Foreclosure Process in British Columbia
