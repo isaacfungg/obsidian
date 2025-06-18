@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mortgage Broker Course/Lesson 7.md",
+                "file": "Mortgage Broker Course/Lesson 7 Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 7"
+              "title": "Lesson 7 Questions"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Terms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24ca0974b4383f19",
+  "active": "9f58a81780f91c18",
   "lastOpenFiles": [
+    "Mortgage Broker Course/Lesson 7 Questions.md",
     "Mortgage Broker Course/Terms.md",
+    "Mortgage Broker Course/Lesson 6 Questions.md",
     "Mortgage Broker Course/Lesson 7.md",
     "Trading/FVG + BOS.md",
     "Mortgage Broker Course/Lesson 6.md",
-    "Mortgage Broker Course/Lesson 6 Questions.md",
     "Mortgage Broker Course/Lesson 5.md",
     "Mortgage Broker Course/Lesson 5 Questions.md",
     "Trading/Part One.md",
@@ -222,7 +224,6 @@
     "Research/BC Childrens/Scores - Epoch = 250.md",
     "Research/BC Childrens/Start.md",
     "Research/BC Childrens/2Net Notes.md",
-    "Research/BC Childrens/2Net Errors.md",
     "2024w notes/CPSC 317",
     "2024w notes",
     "Research/Updated Scores",

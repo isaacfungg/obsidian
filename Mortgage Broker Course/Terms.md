@@ -122,3 +122,4 @@
 `Partial discharge`: When the lender removes the mortgage from part of the property
 `Assumable mortgage`: A mortgage that a buyer can take over from the current homeowner
 `Foreclosure`: A legal process where a lender takes ownership of a property after the borrower defaults on their mortgage
+`Prepayment`: A borrower pays off part or all of a loan before it is due under the payment schedule
