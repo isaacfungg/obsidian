@@ -126,3 +126,9 @@
 `Assumable mortgage`: A mortgage that a buyer can take over from the current homeowner
 `Foreclosure`: A legal process where a lender takes ownership of a property after the borrower defaults on their mortgage
 `Prepayment`: A borrower pays off part or all of a loan before it is due under the payment schedule
+
+#### Lesson 8
+`Unlimited Liability`: The owner is personally responsible for all the business's debts and obligations
+`Divident`: Payment made by a company to its shareholders, either as cash or stock
+`Retained earnings`: The net income over time that is reinvested in the business instead of being paid out
+`Fiscal Year`: A recurring 12 month period a business uses to track and report its financial performance
