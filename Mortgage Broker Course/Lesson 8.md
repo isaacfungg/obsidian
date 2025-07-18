@@ -72,6 +72,7 @@ Definition: The systematic recording, reporting and analysis of financial transa
 
 #### Income Tax Return
 `Capital Cost Allowance`: A tax deduction that lets you write off the cost of certain assets for taxable income
+* CCA cannot be claimed for an asset in the year of disposition
 `Undepreciated Capital Cost`: The remaining balance of an asset's cost after claiming CCA
 
 #### Formulas
