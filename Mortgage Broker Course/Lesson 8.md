@@ -71,5 +71,13 @@ Definition: The systematic recording, reporting and analysis of financial transa
 **Consistency Principle** is once you choose an accounting method you should stick with it across periods
 
 #### Income Tax Return
-`Capital Cost Allowance`: A tax deduction that lets you write off the cost of certain assets
+`Capital Cost Allowance`: A tax deduction that lets you write off the cost of certain assets for taxable income
 `Undepreciated Capital Cost`: The remaining balance of an asset's cost after claiming CCA
+
+#### Formulas
+Cost of Building = (Annual Depreciation x Estimated Economic Life) + Salvage Value
+Annual Depreciation Expense = $(Cost - Salvage Value)/Estimated Life$
+
+
+
+
