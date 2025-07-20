@@ -128,3 +128,7 @@ Borrowers often want to reduce how long they're in debt. Reducing the amortizati
 	* Typically come with higher interest rates due to flexibility
 * Closed mortgages restrict prepayment, often only allowing small annual lump sum payments without penalty
 	* Offer lower interest rates than open mortgages
+
+#### Alternative Mortgage Repayment Plans
+**Variable Rate Mortgage
+* 
