@@ -50,4 +50,13 @@
 	* Often used to top up borrowing when the first mortgage doesn't cover the full amount
 
 #### Mortgage Life Insurance
-Definition:
+Definition: Insurance that pays off the remaining mortgage balance if the borrower dies while the policy is in effect
+Purpose: Protects the borrower's family, not the lender. It ensures the mortgage is fully paid so the family keeps the home without needing to take over the payments
+
+**Who can sell it**
+* Mortgage brokers can sell it without being licensed insurance agents if they follow certain rules under the Insurance Licensing Exemptions Regulation
+* Conditions are:
+	* Must inform the borrower that buying the insurance is optional
+	* Must state that they are not a licensed insurance agent
+	* Must disclose whether it's a group policy and who holds it
+	* Must explain basic terms and conditions, including how to make a claim
