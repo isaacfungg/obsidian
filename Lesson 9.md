@@ -60,3 +60,38 @@ Purpose: Protects the borrower's family, not the lender. It ensures the mortgage
 	* Must state that they are not a licensed insurance agent
 	* Must disclose whether it's a group policy and who holds it
 	* Must explain basic terms and conditions, including how to make a claim
+
+#### Mortgage Repayment Plans
+`Face Value`: The total loan amount stated in the mortgage
+`Book Value`: The outstanding balance of the mortgage at any point in time
+
+**Loan Amount vs Funds Received**
+* Borrowers may receive less than the face value because some costs are deducted
+* Borrowers often choose to borrow slightly more to cover these costs upfront and preserve cash for down payment or moving expenses.
+
+#### Types of Mortgage Repayment Plans
+**Interest-Only Plan**
+* Borrower pays only interest during the term
+* No principal is repaid until maturity
+* Risk: Borrower owes full loan amount at the end
+
+**Straight-Line Principal Reduction Plan
+* Borrower repays equal principal amounts each period plus interest on the remaining balance
+* Payments start high and decrease over time as interest drops
+
+**Constant Payment Mortgage
+* Most common in residential lending
+* Borrower pays the same amount each period
+* Each payment includes interest and principal
+* Over time, the interest portion decreases, and the principal portion increases
+	* This is because interest is charged on the remaining loan balance
+
+**Partially Amortized Mortgage
+* Payments are based on long amortization but the term is shorter
+* At term-end there's a balloon payment - the remaining balance must be paid or refinanced
+* Protects lenders from long-term interest rate risk
+
+**Variable rate Mortgage 
+* Interest rate can change during the term (based on market rates), usually tied to the lender's prime rate
+* Monthly payments may stay the same, but the amount going toward principal vs interest varies
+* Borrowers accept the risk of an increase in interest in exchange for usually lower starting rates
