@@ -86,6 +86,10 @@ Purpose: Protects the borrower's family, not the lender. It ensures the mortgage
 * Over time, the interest portion decreases, and the principal portion increases
 	* This is because interest is charged on the remaining loan balance
 
+**Increased Amortization Period
+* An increased amortization period means stretching out the time over which the mortgage is paid off
+* This lowers monthly payments but you end up paying more total interest
+
 **Partially Amortized Mortgage
 * Payments are based on long amortization but the term is shorter
 * At term-end there's a balloon payment - the remaining balance must be paid or refinanced
@@ -95,3 +99,32 @@ Purpose: Protects the borrower's family, not the lender. It ensures the mortgage
 * Interest rate can change during the term (based on market rates), usually tied to the lender's prime rate
 * Monthly payments may stay the same, but the amount going toward principal vs interest varies
 * Borrowers accept the risk of an increase in interest in exchange for usually lower starting rates
+
+**Balloon and Outstanding Balance
+* When a mortgage is not fully paid off by the end of its term, the outstanding balance remaining is called a balloon payment
+* This occurs when the loan is not fully amortized over the term
+* The borrower must repay or refinance the remaining principal when the term ends
+
+#### Innovative Options for Constant Payment Mortgages
+Borrowers often want to reduce how long they're in debt. Reducing the amortization period saves a significant amount in interest but increases each payment, which may be unaffordable.
+
+**Increased Mortgage Payments/Principal Prepayments
+* Borrowers can pay extra through larger regular payments or lump sums
+* This reduces the outstanding balance, lowers total interest costs, and shortens amortization
+* Lenders usually set a prepayment limit
+
+**Increased Payment Frequency
+* Instead of monthly payments, borrowers can choose bi-weekly or weekly schedules.
+* More frequent payments reduce the time interest accrues between payments helping to pay off the mortgage faster
+* Total annual payments remain about the same, but the amortization period shortens, and interest costs decrease
+
+**Accelerated Payments
+* Accelerated payment plans involve paying slightly more per period than standard plans
+* Instead of dividing the monthly plan exactly, lenders base the bi-weekly amount on half of what would be 14 monthly payments
+* This is automated by the lender whereas *increased mortgage payments* are manual
+
+**Open vs Closed Mortgages
+* Open mortgages allow the borrower to repay all or part of the loan at any time without penalty
+	* Typically come with higher interest rates due to flexibility
+* Closed mortgages restrict prepayment, often only allowing small annual lump sum payments without penalty
+	* Offer lower interest rates than open mortgages
