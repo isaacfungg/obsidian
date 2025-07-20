@@ -1,1 +1,32 @@
 ***
+#### Characteristics of Mortgage Loans as Investments
+**Uniqueness
+* Each mortgage is unique due to differences in borrower, property, and loan terms
+**Illiquidity**
+* Mortgages are harder to trade than other securities like bonds due to lack of standardization and a weak secondary market
+**Reinvestment Problem
+* Lenders receive small monthly payments that are hard to reinvest efficiently
+**High Administration
+* Mortgages require significant ongoing management
+**Large Capital Requirement
+* Investing in mortgages usually requires a significant of money upfront
+
+#### Solutions to Improve Mortgage Investment Appeal
+**Mortgage-Backed Securities
+* CMHC-insured residential mortgages are pooled and converted into tradable units. Investors receive monthly principal and interest payments.
+* Diversifies across many mortgages
+**Canada Mortgage Bonds
+* Issued by Canada Housing Trust and backed by CMHC, these bonds provide semi-annual fixed interest payments
+* The government bundles MBS into bonds
+**Mortgage Investment Corporations
+* Pooled investment vehicles that allow individuals to invest in mortgages by buying shares
+* Lets you invest in smaller amounts
+
+#### Classification of Mortgage Loans
+**Type of Property
+* Residential: Owner-occupied homes or rental properties
+* Non-residential: Commercial, industrial, recreational, or development properties
+**By Insurance Use
+* Conventional Mortgage: NO insurance; max 80% loan-to-value
+* Insured Mortgage: Loan > 80% LTV; insured by CMHC or private insurers
+	* Borrower pays for the insurance
