@@ -30,3 +30,24 @@
 * Conventional Mortgage: NO insurance; max 80% loan-to-value
 * Insured Mortgage: Loan > 80% LTV; insured by CMHC or private insurers
 	* Borrower pays for the insurance
+**By Source of Mortgage Funds
+* Institutional Lenders
+	* Include banks, credit unions, trust and loan companies
+	* Tend to offer lower rates and strict approval requirements
+* Private Lenders
+	* Individuals, vendors, syndicates, MICS
+	* Often used when the borrower doesn't qualify with a bank
+	* Charge higher interest and additional fees
+* Government Loans
+	* Offered during periods of credit shortages
+	* Focused on residential housing, usually under specific programs or agencies
+**By Priority or Rank
+* First Mortgage
+	* The first registered charge on a property
+	* Has priority over all other in foreclosure
+* Second/Third (junior) Mortgages
+	* Higher risk, so they usually have higher interest rates and shorter terms
+	* Often used to top up borrowing when the first mortgage doesn't cover the full amount
+
+#### Mortgage Life Insurance
+Definition:
