@@ -70,6 +70,10 @@ Purpose: Protects the borrower's family, not the lender. It ensures the mortgage
 * Borrowers often choose to borrow slightly more to cover these costs upfront and preserve cash for down payment or moving expenses.
 
 #### Types of Mortgage Repayment Plans
+**Interest-Accruing Loan
+* No payments during the term
+* Interest accumulates and is paid with principal at maturity
+
 **Interest-Only Plan**
 * Borrower pays only interest during the term
 * No principal is repaid until maturity
