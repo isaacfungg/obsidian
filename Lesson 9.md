@@ -127,12 +127,14 @@ Borrowers often want to reduce how long they're in debt. Reducing the amortizati
 * Instead of dividing the monthly plan exactly, lenders base the bi-weekly amount on half of what would be 14 monthly payments
 * This is automated by the lender whereas *increased mortgage payments* are manual
 
+#### Alternative Mortgage Repayment Plans
+**Graduated Payment Mortgage
+* Payments start low and increase gradually over time
+* Designed for borrowers expecting future income growth
+* Designed for borrowers expecting future income growth
+
 **Open vs Closed Mortgages
 * Open mortgages allow the borrower to repay all or part of the loan at any time without penalty
 	* Typically come with higher interest rates due to flexibility
 * Closed mortgages restrict prepayment, often only allowing small annual lump sum payments without penalty
 	* Offer lower interest rates than open mortgages
-
-#### Alternative Mortgage Repayment Plans
-**Variable Rate Mortgage
-* 
