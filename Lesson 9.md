@@ -1,4 +1,6 @@
 ***
+### Others
+* Under Section 10 of the Interest Act, for most closed mortgages on residential property the borrower can fully repay the mortgage after 5 years with only 3 months interest as penalty
 #### Characteristics of Mortgage Loans as Investments
 **Uniqueness
 * Each mortgage is unique due to differences in borrower, property, and loan terms
@@ -133,8 +135,12 @@ Borrowers often want to reduce how long they're in debt. Reducing the amortizati
 * Designed for borrowers expecting future income growth
 * Designed for borrowers expecting future income growth
 
+**Combination Mortgage (Hybrid)
+* Combines features of two or more types of loans
+
 **Open vs Closed Mortgages
 * Open mortgages allow the borrower to repay all or part of the loan at any time without penalty
 	* Typically come with higher interest rates due to flexibility
 * Closed mortgages restrict prepayment, often only allowing small annual lump sum payments without penalty
 	* Offer lower interest rates than open mortgages
+
