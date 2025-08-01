@@ -23,3 +23,25 @@ A type of mortgage that allows a borrower to transfer their existing mortgage in
 `Brokerage fee`: A fee charged by mortgage brokers if their services are rendered in arranging a mortgage loan
 `Discount`: When a fee is deducted from the loan advance
 `Bonus`: When a fee is added to the face value of a loan
+
+#### Disclosure Requirement & APR
+When borrowers take out a mortgage, fees can make the true cost of borrowing higher than the contract rate
+
+###### How APR is Calculated
+1. Total Value Received
+	* Face value of loan minus broker fees, commissions, etc.
+2. Total Value Paid:
+	* Monthly payments x # of payments + balance owed at term end
+3. Total Cost of Credit
+	* Total Paid - Total Received
+4. APR Formula
+	* APR = $(c)/(t * p)$
+	* T = terms (in years), C = Credit, P = average principal outstanding
+
+###### APR vs. Cost of Funds Advanced
+**COFA**: The true interest rate the borrower pays based on the actual cash received and the cash flow over the term
+**APR**: A standardized, government-regulated formula that includes all non-interest costs to show the approximate total borrowing cost
+
+**Calculation Method
+* COFA: Uses TVM calculations
+* APR: Uses a set formula
