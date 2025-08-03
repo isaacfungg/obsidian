@@ -1,4 +1,5 @@
 ***
+`Insured Mortgage`: Where the lender is protected by mortgage insurance. It's required when the down payment is less than 20%.
 #### Residential Mortgage Underwriting
 ###### Five Cs of Credit
 **Character**: Asses the borrower's reliability to repay, based on employment, stability, and background
@@ -42,3 +43,14 @@ A pre-approved mortgage calculates the maximum loan for which the borrower quali
 **Purchase Cost**: Total cost to buy the property - includes purchase price plus fees and any mortgage bonus
 **Market Value**: Estimated price in a fair, arm's length sale under normal conditions based on comparable sales and market trends
 **Lending Value**: Conservative, long-term estimate used by lenders- ignores short-term or speculative factors and is often less than or equal to market value
+
+#### Loan to Value Ratio
+Lenders limit the loan amount to a maximum of 100% of lending value which is equal to the property value.
+
+For uninsured mortgage loans the maximum loan-to-value ratio is set by statute as 80% for federally chartered financial institutions.
+
+Where mortgage insurance is available, either from private or government insurers, a loan-to-value ratio of up to 95% may be used.
+
+`High-Ratio/Insured Mortgage`: When the loan-to-value ratio is more than 80%
+
+Page 15
