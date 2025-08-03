@@ -78,3 +78,8 @@ Without changing the gross debt service ratio, the amount borrowed can be increa
 Lenders are usually willing to offer borrowers a lower interest rate on borrowed funds if the loan contract is written for a short term (six months to three years) rather than a long term (three years or more) because reducing the time over which funds are committed improves lender's liquidity.
 
 However, at the end of the term they may need to refinance and face the risk that interest rates have risen dramatically.
+###### Adding a Second Mortgage
+If lenders are unwilling to extend the amortization or reduce the contractual terms, borrowers may obtain additional funds by adding a second mortgage.
+
+#### Stress Test
+The OSFI stress test ensures borrowers can afford mortgage payments if interest rate rise. Lenders must assess affordability using the higher of 5.25% or the contract rate + 2%.
