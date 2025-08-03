@@ -37,4 +37,8 @@ A pre-approved mortgage calculates the maximum loan for which the borrower quali
 **Permission Clause**: Applicants must agree that the lender may contact references as well as other parties to check credit ratings
 **Privacy Disclosure**: Applicants authorize lender to disclose personal and credit information to other lenders, credit bureaus, or other credit reporting agencies
 
-#### Credit Analysis
+#### Types of Real Estate Value
+**Purchase Price**: The negotiated sale price between buyer and seller reflects market conditions and negotiation
+**Purchase Cost**: Total cost to buy the property - includes purchase price plus fees and any mortgage bonus
+**Market Value**: Estimated price in a fair, arm's length sale under normal conditions based on comparable sales and market trends
+**Lending Value**: Conservative, long-term estimate used by lenders- ignores short-term or speculative factors and is often less than or equal to market value
