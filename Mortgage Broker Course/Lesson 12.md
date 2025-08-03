@@ -53,4 +53,28 @@ Where mortgage insurance is available, either from private or government insurer
 
 `High-Ratio/Insured Mortgage`: When the loan-to-value ratio is more than 80%
 
-Page 15
+#### Debt Service Ratios
+###### Gross Debt Service Ratio
+Defined as the ratio of the sum of the annual mortgage payments and real property taxes to annual gross income.
+$$GDSR = \frac{P + I + T}{GI}$$
+**P + I** represents the annual mortgage payment made by the borrower
+**T** represents the property taxes made by the borrower
+**GI** represents the annual gross income
+
+A lender can also define GDSR to include heating cost and half of any condominium maintenance fees
+$$GDSR = \frac{(P + I + T) + Heat + 1/2 Maintenance Fee}{GI}$$
+###### Total Debt Service Ratio
+The ratio of annual payment of all debts to annual gross income
+
+$$TDSR = \frac{(P + I + T) + OtherPayments}{GI}$$
+The maximum loan the lender would advance is the lesser of the amounts calculated with loan-to-value ratio and gross debt service ratio.
+
+
+#### Adjustments to Financial Terms
+Four basic financial elements are used to structure a loan: amount of the loan, amortization period, interest rate and payments.
+###### Extending the Amortization Period
+Without changing the gross debt service ratio, the amount borrowed can be increased by extending the amortization period.
+###### Reducing the Contractual Term
+Lenders are usually willing to offer borrowers a lower interest rate on borrowed funds if the loan contract is written for a short term (six months to three years) rather than a long term (three years or more) because reducing the time over which funds are committed improves lender's liquidity.
+
+However, at the end of the term they may need to refinance and face the risk that interest rates have risen dramatically.
