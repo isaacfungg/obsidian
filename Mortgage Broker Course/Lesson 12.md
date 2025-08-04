@@ -83,3 +83,11 @@ If lenders are unwilling to extend the amortization or reduce the contractual te
 
 #### Stress Test
 The OSFI stress test ensures borrowers can afford mortgage payments if interest rate rise. Lenders must assess affordability using the higher of 5.25% or the contract rate + 2%.
+
+#### Maximum Debt Service Ratios
+Maximum Gross debt service ratio (GDSR): 39% - for owner-occupied single-family units
+Maximum Total debt service ratio (TDSR): 44%
+
+#### Interest Rate Limitations
+
+
