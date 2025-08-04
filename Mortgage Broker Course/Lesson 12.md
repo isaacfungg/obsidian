@@ -88,6 +88,7 @@ The OSFI stress test ensures borrowers can afford mortgage payments if interest 
 Maximum Gross debt service ratio (GDSR): 39% - for owner-occupied single-family units
 Maximum Total debt service ratio (TDSR): 44%
 
-#### Interest Rate Limitations
+#### Application for Commercial Loans
+`Net Operating Income`: The income a property generates after subtracting operating expenses, but before taxes, mortgage payments, or capital cost.
 
-
+Occurs with residential property that is not owner-occupied. and all non-residential property.
