@@ -92,3 +92,9 @@ Maximum Total debt service ratio (TDSR): 44%
 `Net Operating Income`: The income a property generates after subtracting operating expenses, but before taxes, mortgage payments, or capital cost.
 
 Occurs with residential property that is not owner-occupied. and all non-residential property.
+The focus shifts to the property's income rather than the borrower's personal income.
+
+#### Lease Terminology
+`Gross Lease`: Landlord pays all expenses
+`Net Lease`: Tenant pays base rent + property charges
+`Percentage Lease`: Tenant pays a % of gross/net sales
