@@ -87,5 +87,10 @@ Allows eligible owners to defer current-year property taxes via low-interest pro
 **Default Situations
 * Action needed when repayment is disrupted
 * Requires judgement and skill to manage defaults and determine remedies
-
+#### Loan Advance Before Contract Start
 `Interest Adjustment Period`: The period of time between the date the funds are advanced and the beginning of the first payment period
+`Financial (compounding) days`: Count either the start or end day, not both -> total days = calendar days - 1
+**Daily Compounding**: Interest accrues each day; each day is a compounding period
+**Two Standard Approaches**:
+* Advance full amount early -> borrower pays interest for the adjustment period at contract start
+* Advance reduced (discounted) amount -> it accrues interest to equal loan amount on start. date
