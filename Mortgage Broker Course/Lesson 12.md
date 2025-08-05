@@ -98,3 +98,9 @@ The focus shifts to the property's income rather than the borrower's personal in
 `Gross Lease`: Landlord pays all expenses
 `Net Lease`: Tenant pays base rent + property charges
 `Percentage Lease`: Tenant pays a % of gross/net sales
+
+#### Debt Coverage Ratio
+The ratio of the property's annual NOI to the annual debt service
+
+The DCR states that annual NOI must cover the annual debt service payments more than once.
+* DCR requirement of 1.2 means that NOI must be 1.2 times the size of the required payments
