@@ -87,3 +87,5 @@ Allows eligible owners to defer current-year property taxes via low-interest pro
 **Default Situations
 * Action needed when repayment is disrupted
 * Requires judgement and skill to manage defaults and determine remedies
+
+`Interest Adjustment Period`: The period of time between the date the funds are advanced and the beginning of the first payment period
