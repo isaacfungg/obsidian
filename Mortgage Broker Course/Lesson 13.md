@@ -109,3 +109,6 @@ $\text{IRD} = (\text{Contract Rate} - \text{Current Rate}) \times \text{Remainin
 `Arrears`: Late Payments
 `Default`: No payments being made
 
+#### VRM
+`Trigger Point`: The loan balance reaches a level where the outstanding principal + unpaid interest exceeds the original mortgage amount
+`Trigger Rate`: The interest rate at which your fixed vrm payment is no longer enough to cover the portion of the loan
