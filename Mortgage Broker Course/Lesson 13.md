@@ -94,3 +94,13 @@ Allows eligible owners to defer current-year property taxes via low-interest pro
 **Two Standard Approaches**:
 * Advance full amount early -> borrower pays interest for the adjustment period at contract start
 * Advance reduced (discounted) amount -> it accrues interest to equal loan amount on start. date
+
+#### Full Prepayment
+**Monthly Interest Penalty Formula**
+$$Monthly Interest Penalty = OSB * i_{mo} * Number of Months$$
+
+**Interest Rate Differential Formula
+$\text{IRD} = (\text{Contract Rate} - \text{Current Rate}) \times \text{Remaining Principal} \times \frac{\text{Months Left}}{12}$
+
+#### Valuation of Mortgage Investments
+`Book Value of a Mortgage`: Amount of principal outstanding at a particular point in time
