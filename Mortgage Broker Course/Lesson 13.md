@@ -104,3 +104,8 @@ $\text{IRD} = (\text{Contract Rate} - \text{Current Rate}) \times \text{Remainin
 
 #### Valuation of Mortgage Investments
 `Book Value of a Mortgage`: Amount of principal outstanding at a particular point in time
+
+#### Arrears and Default in Mortgage Lending
+`Arrears`: Late Payments
+`Default`: No payments being made
+
