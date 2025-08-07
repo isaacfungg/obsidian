@@ -112,3 +112,14 @@ $\text{IRD} = (\text{Contract Rate} - \text{Current Rate}) \times \text{Remainin
 #### VRM
 `Trigger Point`: The loan balance reaches a level where the outstanding principal + unpaid interest exceeds the original mortgage amount
 `Trigger Rate`: The interest rate at which your fixed vrm payment is no longer enough to cover the portion of the loan
+
+#### Graduated Payment Mortgages
+* GPMs start with low monthly payments that increase over time
+* Designed to match borrower's expected income growth, improving affordability
+* Common in government-subsidized housing programs to help low/moderate-income buyers
+
+#### Sinking Fund Assisted Mortgages
+* SFAMs lower initial payments using a pre-funded sinking account, not by deferring interest
+* Borrower receives less than the full loan; the withheld amount subsidizes early payments
+* Unlike GPMs, loan balance doesn't grow due to unpaid interest risk is more transparent
+* Managed subsidy reduces default risk, allowing somewhat higher loan-to-value or GDS ratio
