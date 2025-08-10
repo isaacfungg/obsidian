@@ -25,3 +25,27 @@ Factors Influencing Market Value
 Date of valuation is important since value can fluctuate over reasonably short periods of time
 
 ###### Step 2: Scope of Work Determination
+`Scope of work`: The amount and type of information researched and the analysis applied in the valuation assignment
+
+Set the boundaries for how much research, inspection, and analysis will be done so the valuation is credible for its intended use, and to clearly state any limitations so no one is misled.
+* Ensures the appraiser/s work meets legal duties and standard of care
+* Matches the level of due diligence to the client's needs and budget
+* Protects the appraiser by documenting what was and wasn't done.
+
+###### Step 3: Data Collection
+Gather all info needed to appraise the property's value after defining the problem & scope.
+
+**Types of Data**
+* General Data
+	* Social, economic, political, and physical factors at country, province, municipality, and neighbourhood levels
+* Specific Data
+	* Details about the property itself and the rights attached to it
+
+**General Economic Factors**
+Broad economic conditions shaping the environment in which real estate markets operate
+
+Examples: Inflation, unemployment, interest rates, exchange rates, government policies, political stability
+Usually less important for short-term appraisals because they change slowly
+
+**Regional Analysis**
+Examines regional factors that can influence local real estate values
