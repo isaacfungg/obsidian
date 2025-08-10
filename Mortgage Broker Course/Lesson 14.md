@@ -56,3 +56,37 @@ Key Factors to analyze
 * Economic: Location of markets, transportation systems, major industries, tax levels
 * Government/Political: Provincial laws, responsiveness to needs, zoning, building codes, local services, tax policy, alternative revenue sources
 * Social: Racial/ethnic/religious composition, social homogeneity or diversity
+###### Step 4: Data Analysis
+`Latent Value`: The value possessed by a property that has potential for redevelopment because it is currently not employed at its highest and best use
+
+**Degree of Development & Highest and Best Use Analysis**
+Determines if current property use gives max net return; helps select appraisal approach
+
+###### Step 5: Selection of the Appropriate Appraisal Approach
+**Three approaches
+* Direct Comparison: Based on principle of substitution; value from recent sales of similar properties; uses sales data, listings, offers.
+* Income (Investment): Value = present value of anticipated future net benefits; used mainly for income- producing properties; compares rents & expenses to sale price
+* Cost: Estimates value based on land + cost to replace/ improve - depreciation
+
+**Residual Method**
+* For properties with redevelopment and potential / latent value
+* Combines elements of direct comparison, income, and cost approaches
+* Steps:
+	* Estimate market value on completion of proposed development
+	* Deduct all development costs
+	* Resulting residual value = land's market value at highest & best use
+
+###### Step 6: Reconciliation & Final Opinion of Value
+Arrive at the final value conclusion after applying chosen approaches
+
+Process:
+* Evaluate strengths/weaknesses of each approach's result.
+* Justify why one value is most reliable
+
+###### Step 7: Communicate Findings
+Present analysis & value conclusion to client
+
+#### Comparative Market Analysis
+* Estimate market value & suggesting listing or offer price
+* Short-form direct comparison using 3-5 recent, similar sales + listings
+* 
