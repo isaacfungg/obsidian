@@ -49,3 +49,10 @@ Usually less important for short-term appraisals because they change slowly
 
 **Regional Analysis**
 Examines regional factors that can influence local real estate values
+
+Key Factors to analyze
+* Natural: Resources, climate, topography
+* Demographic: Population migration, age structure, income levels/trends, employment types
+* Economic: Location of markets, transportation systems, major industries, tax levels
+* Government/Political: Provincial laws, responsiveness to needs, zoning, building codes, local services, tax policy, alternative revenue sources
+* Social: Racial/ethnic/religious composition, social homogeneity or diversity
