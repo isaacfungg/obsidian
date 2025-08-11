@@ -10,6 +10,7 @@
 * Durability - property lasts long, slower to respond to market changes
 * Local markets - location fixed; affected by nearby properties
 #### The Appraisal Process
+`Subject of an appraisal`: The specific real estate and the legal rights of ownership or interest in that real estate that are being valued
 `Cost Principle`: A financial reporting principle requiring that asset value be recorded at its historic cost of acquisition
 `Investment value`: The worth of a property to a particular investor
 `Legal Interests in Real Estate`: The legal rights of ownership vested in a particular piece of real estate
