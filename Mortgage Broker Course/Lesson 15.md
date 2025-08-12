@@ -95,3 +95,6 @@ Breaks losses into three categories:
 * Physical - Wear & tear, deterioration
 * Functional - Outdated design/features
 * External - Outside factors
+
+`Reproduction Cost`: Cost to build an exact replica of the existing building
+`Replacement Cost`: Cost to build a modern equivalent with the same utility, using current materials, design, and standard
