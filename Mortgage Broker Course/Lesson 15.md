@@ -52,3 +52,46 @@ Ownership includes fee simple interest in the unit + tenancy in common interest 
 * Hidden Differences: Extra unused property or liens/mortgages on common areas
 * Charge Allocation: Basis may differ
 * Included Costs: Some projects include utilities, others don't
+
+#### Scope and Limitations of the Comparative Approach
+**Advantages**
+* Simple, direct, based on principle of substitution
+* Reflects real buyer/seller behavior
+* Works best when appraiser has strong market knowledge
+**Limitations
+* Not usable with insufficient market data
+* Unique/infrequently sold properties
+* Few sale due to economic conditions
+
+#### Scope & Limitations of the Cost Approach
+**Advantages
+* When separate land/improvement values are needed
+* For special-use properties with little market/comparison data
+**Limitations**
+* Hard to estimate incurable physical & functional depreciation
+* Results harder to objectively verify compared to other approaches
+
+#### Sources of Cost Data
+* Residential -> cost per square foot
+* Industrial -> cost per cubic foot
+
+#### Age Life Method
+`Physical Depreciation`: Loss in market value from physical wear & tear since construction
+`Functional Depreciation`: Loss in value from outdated design/features that don't meet current market expectations even if still usable
+`External Depreciation`: Value loss from factors outside the property, beyond owner's control
+* % Depreciation = Effective Age / Economic life
+
+Market Extraction
+* Estimate land value, subtract from sale price -> improvement value
+* Compare improvement value to replacement cost new -> depreciation amount
+* Divide by age to get annual depreciation rate
+* Average rates from several sales for market supported estimate
+
+#### Breakdown Method
+`Curable depreciation`: Physical or functional that can be corrected economically
+`Incurable depreciation`: Physical or functional that cannot be corrected economically
+Most detailed depreciation method
+Breaks losses into three categories:
+* Physical - Wear & tear, deterioration
+* Functional - Outdated design/features
+* External - Outside factors
