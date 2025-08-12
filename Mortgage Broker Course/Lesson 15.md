@@ -43,3 +43,12 @@
 
 #### Adjustments for Value
 **Goal**: Adjust sale prices of comparables to make them more similar to the subject property
+
+#### Condominium Appraisal
+Ownership includes fee simple interest in the unit + tenancy in common interest in common areas
+
+**Value Difference Examples**
+* Amenities: Variation in facilities affect value
+* Hidden Differences: Extra unused property or liens/mortgages on common areas
+* Charge Allocation: Basis may differ
+* Included Costs: Some projects include utilities, others don't
