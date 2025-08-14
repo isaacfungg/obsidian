@@ -105,4 +105,8 @@ After NOI is calculated, it is converted to market value, expressed as a capital
 The essential ingredients for the derivation of market value using the income approach are:
 * A realistic calculation of net operating income
 * An accurate estimate of the appropriate yield purchasers are prepared to accept from a similar investment
+
+#### Comparative Security of Real Estate Investments
+Returns or yields from real estate investments must be competitive with other investment yields in the long run.
+* People may prefer a higher return on real estate investments as it is less liquid and has a NOI which depends on many factors.
 * 
