@@ -54,6 +54,7 @@ IC&I Tip: Identify below-market rents or reconfigurable spaces for higher income
 * Decorating
 
 #### Lease Consideration
+`Escalator Clause`: Allows the landlord to recover expenses from the tenant should expenses increase. This is generally found in industrial and commercial leases
 **Applies to**: All income-producing properties
 **Lease Types**:
 * *Gross Lease*: Landlord pays all operating costs; rent fixed. Common in apartments, small offices, government leases
