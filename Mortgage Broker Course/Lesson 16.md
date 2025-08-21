@@ -1,5 +1,6 @@
 ***
 #### Income/Investment Approach
+`Discount Rate`: The target yield an investor needs
 Purpose: Values income-producing properties based on rental income
 
 **Two Techniques**
