@@ -34,4 +34,20 @@ Insurance that protects an owner or lender against losses from title defects or 
 **Process
 * Seller's conveyancer reviews + executes Form A & seller's adjustments
 * Buyer. signs all docs & provides balance of funds -> held in conveyancer's trust account
-* 
+
+#### Application for Registration
+**Final Title Search**
+* Conducting on closing date by conveyancer
+* Ensures title is unchanged since the first search
+* Any charges must be discharged before closing
+**Electronic Filing**
+* Conveyance files Form A + Property Transfer Tax form
+* Signed electronically by lawyer/notary -> verified by certifying authority
+**Final Registration
+* Can take 1-2 weeks depending on Land Title Office workload
+* Staff check documents for accuracy -> corrections required if errors found
+* Applications rarely rejected outright, but conveyancer must resolve if so
+
+#### Payment Process
+**Mortgage Proceeds
+* Lender's conveyancer
