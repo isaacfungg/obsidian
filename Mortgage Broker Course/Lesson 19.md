@@ -26,7 +26,12 @@ Insurance that protects an owner or lender against losses from title defects or 
 * Can substitute for a survey
 * May include survey coverage
 
-#### Closing Procedures
-* Only lawyers or notaries can convey.
-* Buyer usually pays -> buyer chooses conveyancer
+#### Preparation of Documents
+**Buyer's conveyancer prepares:
+* Form A -> filed at Land Title Office
+* Property Transfer Tax form
+* Statements of adjustments
+**Process
+* Seller's conveyancer reviews + executes Form A & seller's adjustments
+* Buyer. signs all docs & provides balance of funds -> held in conveyancer's trust account
 * 
