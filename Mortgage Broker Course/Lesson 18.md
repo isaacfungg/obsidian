@@ -105,3 +105,22 @@ Ranking issues by importance for you/your client and for the other party
 * First number heavily influences negotiation
 * Counter by ignoring anchor and using independent standards
 * Use anchoring strategically when possible
+
+#### When Negotiations Fail
+Sometimes no settlement is reached -> may walk away or use ADR
+
+###### ADR
+* Faster, cheaper, more satisfying than litigation
+* Flexible procedures, little written documentation
+* Parties choose process; tailored to conflict
+* Builds understanding of each side's needs
+
+**Mediation
+* Voluntary, infomral neutral third party facilitates
+* mediator cannot impose decisions; only suggest
+* Builds trust, confidentiality
+
+**Arbitration
+* Neutral third party decides outcome
+* Similar to trial, but less formal
+* Non-binding - decision is voluntary
