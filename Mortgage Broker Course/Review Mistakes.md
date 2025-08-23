@@ -94,3 +94,5 @@ When a building scheme is created, it only works if there's a common vender who 
 All shares must be equal for a joint tenancy.
 Tenants in common presumed unless joint tenancy is specified
 `Profit a prendre`: a legal right to enter someone else's land and take natural resources or "profits" from it
+
+#### Lesson 4
