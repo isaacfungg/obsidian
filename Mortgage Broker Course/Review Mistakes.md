@@ -70,3 +70,22 @@ For a designated individual they need to have 2 years of experience in bc or els
 
 **Section 21 of the Mortgage Broker Act**
 * A sub mortgage broker must be paid directly as an individual
+
+#### Lesson 3
+If you don't transfer your fee simple before you die then it goes to the crown
+
+- **Voluntary waste** – active damage
+- **Permissive waste** – neglect allowing damage
+- **Ameliorating waste** – alterations changing character
+- **Equitable waste** – unconscionable acts stopped by equity
+
+Interest runs with the land
+
+`Lease`: A right to possess land for a fixed term
+`Covenant`: A promise to do or not to do something
+`Easement` is a legal right to use another person’s land for a specific purpose, without owning it (e.g., right of way).
+`Dominant`: Benefit
+`Servient`: Burden
+
+Crown owns all water, individuals need a water license to divert or use it (except small groundwater use)
+
