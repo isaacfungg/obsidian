@@ -72,3 +72,9 @@ Insurance that protects an owner or lender against losses from title defects or 
 * Buyer's statement -> calculates Balance Due to Complete
 * Seller's statement -> calculates Cash Proceeds of Sale
 
+
+Credit
+600k
+50k
+
+Debit
