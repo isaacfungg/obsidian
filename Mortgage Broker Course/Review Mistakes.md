@@ -58,3 +58,8 @@ Sub mortgage broker employed by a mortgage broker
 Mortgage brokers Act is to protect the public
 
 Exemptions: Banks, trust companies, lawyers... etc
+
+`Form 9`: Disclosure to investors/lenders
+`Form 10`: Conflict of Interest disclosure
+
+**Professional association**
