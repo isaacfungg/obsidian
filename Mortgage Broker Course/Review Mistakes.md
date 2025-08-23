@@ -42,3 +42,19 @@
 	* Civil wrongs between individual
 * Contract Law
 	* Governs agreements between individuals/entities
+
+#### Lesson 2
+Mortgage broker (company that employs the broker)
+
+**What defines a mortgage broker**
+Lending money of your own or others
+Holds themself out as a mortgage broker
+Buying/selling mortgages
+Over $1000 in fees for arranging mortgages
+Lends money on the mortgage of 10 or more mortgages
+
+Sub mortgage broker employed by a mortgage broker
+
+Mortgage brokers Act is to protect the public
+
+Exemptions: Banks, trust companies, lawyers... etc
