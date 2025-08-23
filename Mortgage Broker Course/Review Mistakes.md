@@ -62,4 +62,11 @@ Exemptions: Banks, trust companies, lawyers... etc
 `Form 9`: Disclosure to investors/lenders
 `Form 10`: Conflict of Interest disclosure
 
-**Professional association**
+`Direct Interest`: Money or benefit flows straight from the transaction to the broker
+`Indirect Interest`: Not tied directly to that one deal, but still creates a bias or competing interest
+
+
+For a designated individual they need to have 2 years of experience in bc or elsewhere not just BC.
+
+**Section 21 of the Mortgage Broker Act**
+* A sub mortgage broker must be paid directly as an individual
