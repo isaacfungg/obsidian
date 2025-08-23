@@ -50,4 +50,25 @@ Insurance that protects an owner or lender against losses from title defects or 
 
 #### Payment Process
 **Mortgage Proceeds
-* Lender's conveyancer
+* Lender's conveyancer sends net mortgage proceeds to buyer's conveyancer
+**Buyer's Funds
+* Buyer's conveyancer also holds buyer's balance due in trust
+**Payments made**
+* Based on statements of adjustments
+* Payments include: Existing lenders, seller, brokerage, municipality
+**Authorization**
+* Statements of adjustments authorize buyer's conveyancer to make these payments
+**Trust Reconciliation**
+* Prepared by buyer's conveyancer before closing
+* Ensures total inflows = total outflows
+* Inflows: mortgage proceeds + buyer's funds
+* Outflows: seller's payment, mortgage payout, conveyance fees
+
+#### Statements of Adjustments
+`Balance due to complete`: The amount of cash the buyer must be able to provide to the conveyancer in order to complete the transaction
+`Cash proceeds of sale`: The amount of cash the seller will receive from the conveyancer upon completion of the transaction
+
+* Shows detailed financial info for both parties at closing
+* Buyer's statement -> calculates Balance Due to Complete
+* Seller's statement -> calculates Cash Proceeds of Sale
+
