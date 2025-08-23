@@ -9,7 +9,7 @@
 * Reviews decisions from regulatory authorities in BC's financial sector
 * For mortgage, real estate, credit, insurance
 
-###### **BC Provincial Court - Common and Statute
+###### **Small Claims Court - Common and Statute
 * Handles most criminal, civil, family, and traffic cases
 * Civil disputes from $5 000 - $35 000
 * Reviews all evidence
@@ -72,3 +72,4 @@
 `Judgement`: After the trial, the judge makes a final decision
 `Execution`: Enforcing judgement. The winning party can take steps to enforce the judgement
 `Mediation`: A voluntary dispute resolution process where a neutral third party helps the parties negotiate a settlement. Mandatory if someone initiates it
+
