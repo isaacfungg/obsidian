@@ -49,8 +49,7 @@
               "title": "Review Mistakes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "815ffed9ddc9835d",
+  "active": "c3259b4e5b67f609",
   "lastOpenFiles": [
     "Mortgage Broker Course/Lesson 4.md",
     "Mortgage Broker Course/Review Mistakes.md",

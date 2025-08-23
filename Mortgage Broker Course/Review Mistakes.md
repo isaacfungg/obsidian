@@ -100,6 +100,12 @@ Tenants in common presumed unless joint tenancy is specified
 * Strata corporations have several assets that may be used to secure loans, including real property, cash reserves, and accounts receivable
 * The contingency reserve fund is for expenses that occur less often than once per year
 * Only fee simple is indefeasible, not charges
-* 
+* Assurance fund is when you can't get the land back
+* Centre of the wall floor or ceiling dividing strata lots is the usual boundary
+* Lenders can only vote if the mortgage allows, and only affecting their security - strata bylaws
+* Lenders must give written notice at least 3 days before the meeting
+* A depreciation report must be obtained by a strata corporation every five years
+
 
 `caveat`: A notice of claim before you're officially registered under the land title act
+`Schedule of Unit Entitlement`: The table used to determine each owner's proportionate share of common property and strata expenses
