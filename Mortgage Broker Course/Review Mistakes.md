@@ -2,7 +2,7 @@
 * BC Court of Appeal and the Supreme Court of Canada generally don't rehear evidence. They just review the trial record for legal errors
 * Common law is more rigid because it must follow precedent. Equity is created to soften rigidity of common law
 * Court costs are usually awarded against the losing party, but it's up to the judge's discretion
-* 
+* CRT cannot handle libel, slander, constitutional questions, or claims against government
 
 **Federal Government
 * Criminal Law
@@ -28,3 +28,17 @@
 
 `Examination for Discovery`: Oral questioning under oath by the opposing lawyer
 `Discovery of Documents`: Each party must list and share all relevant documents in their possession
+`Limitation Period`: Time limit to start legal proceedings
+`Basic Limitation Period`: Starts when the claim is discovered (usually 2 years long)
+`Ultimate Limitation Period`: On the date of the act or omission itself (usually 15 years)
+**Public Law**
+* Criminal Law
+	* Deals with offences against the state/society
+* Constitutional Law
+	* Governs the structure and powers of government under the constitution
+
+**Private Law
+* Tort Law
+	* Civil wrongs between individual
+* Contract Law
+	* Governs agreements between individuals/entities
