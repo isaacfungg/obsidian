@@ -96,3 +96,10 @@ Tenants in common presumed unless joint tenancy is specified
 `Profit a prendre`: a legal right to enter someone else's land and take natural resources or "profits" from it
 
 #### Lesson 4
+* Strata corporation must have both an operating fund and a contingency reserve fund.
+* Strata corporations have several assets that may be used to secure loans, including real property, cash reserves, and accounts receivable
+* The contingency reserve fund is for expenses that occur less often than once per year
+* Only fee simple is indefeasible, not charges
+* 
+
+`caveat`: A notice of claim before you're officially registered under the land title act
