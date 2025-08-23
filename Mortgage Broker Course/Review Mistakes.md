@@ -81,11 +81,16 @@ If you don't transfer your fee simple before you die then it goes to the crown
 
 Interest runs with the land
 
+`License`: is a contractual right
 `Lease`: A right to possess land for a fixed term
 `Covenant`: A promise to do or not to do something
 `Easement` is a legal right to use another person’s land for a specific purpose, without owning it (e.g., right of way).
-`Dominant`: Benefit
-`Servient`: Burden
 
 Crown owns all water, individuals need a water license to divert or use it (except small groundwater use)
 
+
+If you sell your share in a joint tenancy your share becomes a tenant in common.
+When a building scheme is created, it only works if there's a common vender who sells all the lots in the subdivision.
+All shares must be equal for a joint tenancy.
+Tenants in common presumed unless joint tenancy is specified
+`Profit a prendre`: a legal right to enter someone else's land and take natural resources or "profits" from it
