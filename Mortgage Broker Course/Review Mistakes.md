@@ -105,7 +105,7 @@ Tenants in common presumed unless joint tenancy is specified
 * Lenders can only vote if the mortgage allows, and only affecting their security - strata bylaws
 * Lenders must give written notice at least 3 days before the meeting
 * A depreciation report must be obtained by a strata corporation every five years
-
+* In a pure Torrens system, no indication of a trsut is permitted on the register
 
 `caveat`: A notice of claim before you're officially registered under the land title act
 `Schedule of Unit Entitlement`: The table used to determine each owner's proportionate share of common property and strata expenses
