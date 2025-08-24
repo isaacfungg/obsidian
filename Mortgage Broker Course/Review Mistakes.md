@@ -135,7 +135,10 @@ It is binding if something is exchanged after the offer. Even a compliment after
 `Equitable Mortgage`: Not fully registered but still recognized in equity as a mortgage
 `Tender`: A proper offer to pay what's owed under the contract
 `Order Absolute`: The final court order before the lender gets full legal right over the property
-
+`Indemnity Clause (Extra penalty interest)`: Unenforceable under s.8 Interest Act
+`Option to Purchase`: Always a clog on redemption
+`Collateral Advantage`: Enforceable only if it's an independent bargain
+`Sales Clause`: Enforceable, lets lender call mortgage due if property sold
 **Foreclosure (Order absolute)**
 * You get to keep and sell the property
 * If the property is worth more then you don't need to return the extra to the borrower
