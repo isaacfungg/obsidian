@@ -119,3 +119,4 @@ Tenants in common presumed unless joint tenancy is specified
 `Contract Law`: Duties come from an agreement between parties
 `Tort Law`: Duties are imposed by law
 `Onus`: Burden of proof
+`Loan Back Scheme`: When a criminal tries to make dirty money look clean by pretending it came from a legitimate loan
