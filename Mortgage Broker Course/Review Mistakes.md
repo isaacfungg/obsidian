@@ -134,6 +134,16 @@ It is binding if something is exchanged after the offer. Even a compliment after
 `Under-secured`: The lender's mortgage security isn't enough to cover what's owed
 `Equitable Mortgage`: Not fully registered but still recognized in equity as a mortgage
 `Tender`: A proper offer to pay what's owed under the contract
+`Order Absolute`: The final court order before the lender gets full legal right over the property
+
+**Foreclosure (Order absolute)**
+* You get to keep and sell the property
+* If the property is worth more then you don't need to return the extra to the borrower
+* But if it is less you cannot sue
+
+**Judicial Sale**
+* The property is sold and if the property is worth more than the debt then they can 
+
 **Interest Act**
 * Section 3 - If Interest is mentioned but no rate given then it is 5% per year
 * Section 7 - Blended payments must disclose principal + annual/semi-annual rate
