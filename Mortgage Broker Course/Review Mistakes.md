@@ -105,7 +105,7 @@ Tenants in common presumed unless joint tenancy is specified
 * Lenders can only vote if the mortgage allows, and only affecting their security - strata bylaws
 * Lenders must give written notice at least 3 days before the meeting
 * A depreciation report must be obtained by a strata corporation every five years
-* In a pure Torrens system, no indication of a trsut is permitted on the register
+* In a pure Torrens system, no indication of a trust is permitted on the register
 
 `caveat`: A notice of claim before you're officially registered under the land title act
 `Schedule of Unit Entitlement`: The table used to determine each owner's proportionate share of common property and strata expenses
@@ -113,3 +113,8 @@ Tenants in common presumed unless joint tenancy is specified
 #### Lesson 5
 `Privat Nuisance`: Indirect interference 
 `Fiduciary relationship` is where one party must act with utmost loyalty, honesty, and good faith in the best interests of another
+`Unregistered mortgage`: A mortgage loan that exists but it has not been recorded at the land title office
+`Fradulent misrepresentation`: A deliberate or reckless lie meant to deceive someone into relying on it
+`Negligent misrepresentation`: A careless but unintentional false statement made by someone who should have taken reasonable care
+`Contract Law`: Duties come from an agreement between parties
+`Tort Law`: Duties are imposed by law
