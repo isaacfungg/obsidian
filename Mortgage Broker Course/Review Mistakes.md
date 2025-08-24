@@ -132,13 +132,16 @@ It is binding if something is exchanged after the offer. Even a compliment after
 
 #### Lesson 7
 `Under-secured`: The lender's mortgage security isn't enough to cover what's owed
-`Equitable Mortgage`: Not fully registered but still recognized in equity as a mortgage
+`Equitable Mortgage`: Not fully registered but still recognized in equity as a mortgage. Transfer of equity in property as security for a debt
 `Tender`: A proper offer to pay what's owed under the contract
 `Order Absolute`: The final court order before the lender gets full legal right over the property
 `Indemnity Clause (Extra penalty interest)`: Unenforceable under s.8 Interest Act
 `Option to Purchase`: Always a clog on redemption
 `Collateral Advantage`: Enforceable only if it's an independent bargain
 `Sales Clause`: Enforceable, lets lender call mortgage due if property sold
+`Agreement for sale`: A contract by which the owner of land agrees to sell land to another purchaser
+`Guarantor`: Someone who becomes contingently or secondarily liable for another's debt
+
 **Foreclosure (Order absolute)**
 * You get to keep and sell the property
 * If the property is worth more then you don't need to return the extra to the borrower
