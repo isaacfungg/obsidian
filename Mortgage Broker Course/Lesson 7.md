@@ -1,4 +1,4 @@
-							*qwq                                **
+***
 #### Standard vs. Collateral Charge Mortgages
 ###### **Standard Charge**
 * Registered for the exact loan amount

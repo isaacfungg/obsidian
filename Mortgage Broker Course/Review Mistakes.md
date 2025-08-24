@@ -129,3 +129,16 @@ Tenants in common presumed unless joint tenancy is specified
 `Duress`: When someone is forced or threatened into entering a contract against their will
 
 It is binding if something is exchanged after the offer. Even a compliment after someone offers to give something. If the compliment is before then it is not because it is past consideration.
+
+#### Lesson 7
+`Under-secured`: The lender's mortgage security isn't enough to cover what's owed
+
+**Interest Act**
+* Section 3 - If Interest is mentioned but no rate given then it is 5% per year
+* Section 7 - Blended payments must disclose principal + annual/semi-annual rate
+* Section 8 - Interest on arrears cannot exceed normal rate
+* Section 10 - Individual mortgagor can prepay after 5 years with 3 month's interest
+
+**Criminal Code
+* Makes it a crime to charge over 35% annual interest
+
