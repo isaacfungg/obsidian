@@ -112,3 +112,4 @@ Tenants in common presumed unless joint tenancy is specified
 
 #### Lesson 5
 `Privat Nuisance`: Indirect interference 
+`Fiduciary relationship` is where one party must act with utmost loyalty, honesty, and good faith in the best interests of another
