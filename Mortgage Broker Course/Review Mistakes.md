@@ -126,5 +126,6 @@ Tenants in common presumed unless joint tenancy is specified
 `Undue Influence`: When one party uses a position of power or **trust** to unfairly pressure another into a contract
 `Frustration`: A legal doctrine that ends a contract when something unexpected happens that makes it impossible to carry out
 `Invitation to treat`: A statement or action that invites others to make offers, but is **not** itself an offer that can be accepted to form a contract.
+`Duress`: When someone is forced or threatened into entering a contract against their will
 
 It is binding if something is exchanged after the offer. Even a compliment after someone offers to give something. If the compliment is before then it is not because it is past consideration.
