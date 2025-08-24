@@ -174,3 +174,15 @@ Annual Depreciation Expense = $(Cost - Salvage Value)/Estimated Life$
 * Match expenses to the revenue they generate
 * Small items can be expensed immediately
 * Use same accounting methods over time
+
+#### Lesson 9
+`Capital Market`: Where long-term funds are raised and invested
+`Money Market`: Short term investments (less than a year)
+`Interest Accruing Loan`: Loan where no payments are made until maturity (usually less than a year)
+
+Both federal and provincial governments provide mortgage loans
+
+**Interest-only Loan**: Pay only interest each period and principal due at maturity
+**Interest accruing loan**: No payments until maturity
+**Constant payment loan**: Same total payment each period, interest portion shrinks over time
+**Straight-line principal reduction loan**: Fixed principal each period + declining interest; total payment decreases over time
