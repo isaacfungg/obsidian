@@ -132,7 +132,8 @@ It is binding if something is exchanged after the offer. Even a compliment after
 
 #### Lesson 7
 `Under-secured`: The lender's mortgage security isn't enough to cover what's owed
-
+`Equitable Mortgage`: Not fully registered but still recognized in equity as a mortgage
+`Tender`: A proper offer to pay what's owed under the contract
 **Interest Act**
 * Section 3 - If Interest is mentioned but no rate given then it is 5% per year
 * Section 7 - Blended payments must disclose principal + annual/semi-annual rate
