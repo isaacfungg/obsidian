@@ -109,3 +109,6 @@ Tenants in common presumed unless joint tenancy is specified
 
 `caveat`: A notice of claim before you're officially registered under the land title act
 `Schedule of Unit Entitlement`: The table used to determine each owner's proportionate share of common property and strata expenses
+
+#### Lesson 5
+`Privat Nuisance`: Indirect interference 
