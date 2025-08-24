@@ -118,3 +118,4 @@ Tenants in common presumed unless joint tenancy is specified
 `Negligent misrepresentation`: A careless but unintentional false statement made by someone who should have taken reasonable care
 `Contract Law`: Duties come from an agreement between parties
 `Tort Law`: Duties are imposed by law
+`Onus`: Burden of proof
