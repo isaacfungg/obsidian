@@ -159,3 +159,17 @@ It is binding if something is exchanged after the offer. Even a compliment after
 **Criminal Code
 * Makes it a crime to charge over 35% annual interest
 
+#### Lesson 8
+Cost of Building = (Annual Depreciation x Estimated Economic Life) + Salvage Value
+Annual Depreciation Expense = $(Cost - Salvage Value)/Estimated Life$
+
+**Capital Cost Allowance**
+* First year only half applies
+* Then you apply to the percentage of what is left from the previous years
+* Taxable income uses CCA not accounting depreciation
+
+**GAAP = Generally Accepted Accounting Principles**
+* Record revenue when earned, not just when cash is received
+* Match expenses to the revenue they generate
+* Small items can be expensed immediately
+* Use same accounting methods over time
