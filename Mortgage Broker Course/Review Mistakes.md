@@ -167,6 +167,7 @@ Annual Depreciation Expense = $(Cost - Salvage Value)/Estimated Life$
 * First year only half applies
 * Then you apply to the percentage of what is left from the previous years
 * Taxable income uses CCA not accounting depreciation
+* In the year of disposition, the final-year rule disallows CCA
 
 **GAAP = Generally Accepted Accounting Principles**
 * Record revenue when earned, not just when cash is received
