@@ -98,7 +98,7 @@
 #### Lesson 6
 `Contract`: An agreement between two or more persons, supported by **consideration** which creates an obligation to do or not to do a particular thing
 `Consideration`: Something of value exchanged between the parties, such as money, a service or property
-`Void Contact`: A contract which never had any legal existence or effect and which is not capable of being enforced
+`Void Contract`: A contract which never had any legal existence or effect and which is not capable of being enforced
 `Voidable Contract`: A valid contract that has a legal defect from the start, giving one party the **right to cancel** it if they choose.
 `Offer`: A proposal to form a contract
 `Standing Offers`: Offers that are made to the public at large

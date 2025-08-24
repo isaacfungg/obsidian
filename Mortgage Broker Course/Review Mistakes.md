@@ -120,3 +120,8 @@ Tenants in common presumed unless joint tenancy is specified
 `Tort Law`: Duties are imposed by law
 `Onus`: Burden of proof
 `Loan Back Scheme`: When a criminal tries to make dirty money look clean by pretending it came from a legitimate loan
+
+#### Lesson 6
+`Past Consideration`: Something that was already done before the promise was made
+
+It is binding if something is exchanged after the offer. Even a compliment after someone offers to give something. If the compliment is before then it is not because it is past consideration.
