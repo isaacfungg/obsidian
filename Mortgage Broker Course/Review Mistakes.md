@@ -203,3 +203,7 @@ Both federal and provincial governments provide mortgage loans
 
 #### Lesson 11
 `Total Cost of Credit`: Total Value Paid by the borrower
+
+
+#### Lesson 12
+`Subprime Mortgage`: Loan given to borrowers with weak credit, low income, or higher risk of default
