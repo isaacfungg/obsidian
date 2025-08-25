@@ -212,3 +212,6 @@ Both federal and provincial governments provide mortgage loans
 
 $$DCR = NOI / Payments$$
 $$GDSR = \frac{P + I + T}{GI}$$
+#### Lesson 13
+`Arrears`: Overdue payments
+`Default`: Failure to make payments
