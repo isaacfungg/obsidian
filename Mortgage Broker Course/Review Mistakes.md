@@ -200,3 +200,6 @@ Both federal and provincial governments provide mortgage loans
 * Mortgages pooled together, and sold to investors
 **Mortgage Hedging Options**
 * Financial tools lender use to protect themselves against interest rate risk
+
+#### Lesson 11
+`Total Cost of Credit`: Total Value Paid by the borrower
