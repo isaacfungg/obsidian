@@ -207,3 +207,8 @@ Both federal and provincial governments provide mortgage loans
 
 #### Lesson 12
 `Subprime Mortgage`: Loan given to borrowers with weak credit, low income, or higher risk of default
+`Purchase Price`: What is negotiated
+`Purchase Cost`: Includes price + fees
+
+$$DCR = NOI / Payments$$
+$$GDSR = \frac{P + I + T}{GI}$$
