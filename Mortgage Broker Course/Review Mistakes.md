@@ -218,5 +218,4 @@ $$GDSR = \frac{P + I + T}{GI}$$
 
 Increase in variable rate means an increase in amortization time vice versa. The payment remains constant and only the amortization period changes.
 
--593.49
--558.56
+`Wrap Around Mortgage`: A new lender gives the borrower a loan and uses part of that payment to keep paying the old mortgage, and keeps the rest as their return
