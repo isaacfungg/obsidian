@@ -17,6 +17,10 @@ Words i don't know: tenet
 `Non est factum`: it is not my deed
 `Judgement`: A court order saying one party owes money to another
 
-
+**Four basic principles
+* Indefeasibility Principle
+* The effect of registration
+* Abolition of notice
+* The assurance principle
 
 Question 8
