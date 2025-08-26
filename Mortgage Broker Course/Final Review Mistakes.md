@@ -7,3 +7,6 @@
 Where you're allowed to start your case in small claims court
 * Where the events happened
 * Where the defendant lives or does business
+
+
+Words i don't know: tenet
