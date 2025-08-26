@@ -234,4 +234,7 @@ Increase in variable rate means an increase in amortization time vice versa. The
 #### Lesson 17
 **Electronic Transaction Act**
 * When a BC statute makes reference to "written" documents or signatures, it will not exclude electronic documents
-* 
+
+**Mortgage Broker Origination Software**
+* Gives mortgage brokers the ability to prepare online applications, match borrowers and lenders, attach electronic documents, perform calculations, and track pending or completed transactions
+
