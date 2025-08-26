@@ -230,3 +230,8 @@ Increase in variable rate means an increase in amortization time vice versa. The
 `Net Lease`: Tenant pays base rent + share/all operating expenses
 `Capitalization Process`: The conversion of net operating income to a capital amount, such as market
 `Leasing Inducement`: An incentive a landlord gives to attract tenants
+
+#### Lesson 17
+**Electronic Transaction Act**
+* When a BC statute makes reference to "written" documents or signatures, it will not exclude electronic documents
+* 
