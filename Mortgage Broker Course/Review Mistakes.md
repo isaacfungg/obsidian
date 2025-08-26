@@ -215,3 +215,5 @@ $$GDSR = \frac{P + I + T}{GI}$$
 #### Lesson 13
 `Arrears`: Overdue payments
 `Default`: Failure to make payments
+
+Increase in variable rate means an increase in amortization time vice versa. The payment remains constant and only the amortization period changes.
