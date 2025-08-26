@@ -224,3 +224,9 @@ Increase in variable rate means an increase in amortization time vice versa. The
 `Subject of an Appraisal`: The specific legal interest in the property being valued
 `Reproduction cost`: Cost to build an exact replica
 `Replacement cost`: Cost to build a modern equivalent today
+
+#### Lesson 16
+`Gross Lease`: Landlord pays all operating costs; rent fixed. Common in apartments, small offices, government leases
+`Net Lease`: Tenant pays base rent + share/all operating expenses
+`Capitalization Process`: The conversion of net operating income to a capital amount, such as market
+`Leasing Inducement`: An incentive a landlord gives to attract tenants
