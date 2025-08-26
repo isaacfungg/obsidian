@@ -221,3 +221,6 @@ Increase in variable rate means an increase in amortization time vice versa. The
 `Wrap Around Mortgage`: A new lender gives the borrower a loan and uses part of that payment to keep paying the old mortgage, and keeps the rest as their return
 
 #### Lesson 14
+`Subject of an Appraisal`: The specific legal interest in the property being valued
+`Reproduction cost`: Cost to build an exact replica
+`Replacement cost`: Cost to build a modern equivalent today
