@@ -10,8 +10,9 @@ Where you're allowed to start your case in small claims court
 
 
 Words i don't know: tenet
+#### Lesson 3
 
-#### Lesson 2
+#### Lesson 4
 `Common law doctrin of notice`: A person's legal rights can be affected by their knowledge of certain facts
 * The Land Title Act has abolished the doctrine of notice in British Columbia
 `Non est factum`: it is not my deed
