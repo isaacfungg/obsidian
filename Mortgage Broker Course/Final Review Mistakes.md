@@ -56,3 +56,4 @@ Question 8
 `Order nisi`: A court's initial order for foreclosure
 `A right of foreclosure`: The lender's remedy
 `Equity of Redemption`: The right to reclaim full title by paying off the debt
+* Not for the first mortgage
