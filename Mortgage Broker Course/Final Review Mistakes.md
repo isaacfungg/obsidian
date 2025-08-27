@@ -52,4 +52,5 @@ Question 8
 * It must cover the entire debt or obligation
 * The debtor must be given written notice of the assignment
 
-
+#### Lesson 7
+`Order nisi`: A court's initial order for foreclosure
