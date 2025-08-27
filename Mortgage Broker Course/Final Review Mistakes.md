@@ -38,5 +38,18 @@ Question 8
 `Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
 `Fradulent misrepresentation`: A deliberate or reckless lie meant to deceive someone into relying on it
 `Negligent misrepresentation`: A careless but unintentional false statement made by someone who should have taken reasonable care
-`Agency of Estoppel`: Arises when a principal's words or conduct lead a third party to reasonably belive someone is their agent
+`Agency of Estoppel`: Arises when a principal's words or conduct lead a third party to reasonably believe someone is their agent
 `Option Agreement`: When consideration is paid to keep an offer open for a set time making the offeror bound not to revoke during that period
+`Rectification`: When a court corrects a written contract or document
+* Only for when theres a mistake
+`Rescission`: Canceling a contract and restoring the parties to their original positions
+* The available remedy for innocent misrepresentation 
+`Revocation`: Withdrawing an offer before it's accepted
+
+
+**Statutory Assignments**
+* The assignment must be written and signed by the assignor
+* It must cover the entire debt or obligation
+* The debtor must be given written notice of the assignment
+
+
