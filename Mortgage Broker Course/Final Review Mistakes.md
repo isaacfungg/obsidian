@@ -62,3 +62,8 @@ Question 8
 `Revenue Recognition Principle`: Revenue is recorded when earned, not when cash is received
 `Cost principle`: Assets are recorded at their purchase cost, not at market value
 `Common Shareholder`: Someone who owns common stock in a corporation. They have voting rights, can receive dividends, benefit from capital gains, have limited liability
+`Balance Sheet`: Shows financial position at a point in time, lists assets, liabilities and equity
+`Retained Earnings`: Net income less any dividends
+`Corporate statement of holding`: A report that lists only the investments or assets a corporation owns
+
+Taxable income = Net income + Depreciation - CCA
