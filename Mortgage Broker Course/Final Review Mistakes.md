@@ -57,3 +57,7 @@ Question 8
 `A right of foreclosure`: The lender's remedy
 `Equity of Redemption`: The right to reclaim full title by paying off the debt
 * Not for the first mortgage
+#### Lesson 8
+`Objectivity Principle`: Records must be based on verifiable, unbiased evidence
+`Revenue Recognition Principle`: Revenue is recorded when earned, not when cash is received
+`Cost principle`: Assets are recorded at their purchase cost, not at market value
