@@ -11,7 +11,10 @@ Where you're allowed to start your case in small claims court
 
 Words i don't know: tenet
 #### Lesson 3
-
+**Building Scheme**
+* All original buyers get fee simple from the same seller
+* The seller must intend the restriction to bind each lot
+* The restrictions apply equally to all lots and fit a general development scheme
 #### Lesson 4
 `Common law doctrin of notice`: A person's legal rights can be affected by their knowledge of certain facts
 * The Land Title Act has abolished the doctrine of notice in British Columbia
