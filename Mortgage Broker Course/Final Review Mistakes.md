@@ -61,3 +61,4 @@ Question 8
 `Objectivity Principle`: Records must be based on verifiable, unbiased evidence
 `Revenue Recognition Principle`: Revenue is recorded when earned, not when cash is received
 `Cost principle`: Assets are recorded at their purchase cost, not at market value
+`Common Shareholder`: Someone who owns common stock in a corporation. They have voting rights, can receive dividends, benefit from capital gains, have limited liability
