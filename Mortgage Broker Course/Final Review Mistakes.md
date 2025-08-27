@@ -29,3 +29,10 @@ The dominant and servient tenements must be owned by different parties for an ea
 * The assurance principle
 
 Question 8
+#### Lesson 5
+**Competition Act**
+* Promote fair competition, prevent anti-competitive practices, protect consumers
+* Enforced by Competition Bureau
+
+`Principal-agent relationship`: When one person is authorized to act on behalf of another
+`Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
