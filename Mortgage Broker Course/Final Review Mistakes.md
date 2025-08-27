@@ -36,3 +36,6 @@ Question 8
 
 `Principal-agent relationship`: When one person is authorized to act on behalf of another
 `Vicarious Liability`: When an employer is held legally responsible for the wrongful acts (like negligence or fraud) committed by their employee **during the course of their job**.
+`Fradulent misrepresentation`: A deliberate or reckless lie meant to deceive someone into relying on it
+`Negligent misrepresentation`: A careless but unintentional false statement made by someone who should have taken reasonable care
+`Agency of Estoppel`: Arises when a principal's words or conduct lead a third party to reasonably belive someone is their agent
