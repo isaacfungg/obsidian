@@ -39,3 +39,4 @@ Question 8
 `Fradulent misrepresentation`: A deliberate or reckless lie meant to deceive someone into relying on it
 `Negligent misrepresentation`: A careless but unintentional false statement made by someone who should have taken reasonable care
 `Agency of Estoppel`: Arises when a principal's words or conduct lead a third party to reasonably belive someone is their agent
+`Option Agreement`: When consideration is paid to keep an offer open for a set time making the offeror bound not to revoke during that period
