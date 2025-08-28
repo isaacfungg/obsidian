@@ -132,6 +132,14 @@ spiky ball 18
 * Focused on risk assessment, compliance, and ongoing loan management
 
 `Reminder-oriented Message`: Marketing communication aimed at keeping a product, service or brand in the consumer's awareness
+
+#### Lesson 18
+**Exchange Principles**
+* Focus on Interests
+	* If you focus on positions too much, it is hard to negotiate
+* Packaging and Trading Off
+	* More optimal solutions are reached when parties package and trade information
+* Focus on Objective Standards
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
