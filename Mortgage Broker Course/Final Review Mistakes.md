@@ -158,6 +158,15 @@ spiky ball 18
 	* Understanding their perspective helps you come up with a potential solution
 * Know the Person and Context
 	* Be sensitive to values, perceptions, concerns, norms of behaviour and moods
+
+#### Lesson 19
+**BC Property Transfer Tax**
+* 1% on the first $200, 000 of fair market value
+* 2% on the portion $200,001 - $2,000,000
+* 3% on the portion above $2,000,000
+* 5% on the portion above $3,000,000 (residential only)
+* 20% of the property's fair market value (for foreign entity)
+
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
