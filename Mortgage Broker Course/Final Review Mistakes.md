@@ -80,6 +80,18 @@ Wrap-around mortgages are mathematically similar to blended rate financing.
 `Unencumbered`: Free of liens, mortgages, or other legal claims against it
 `Accrual Approach`: Same as cost approach
 `Executor of an Estate`: The person named in a will to carry out the deceased person's wishes
+`Subject of an appraisal`: The value of the legal rights of ownership vested in a particular piece of real estate
+`Value in exchange`: The sale price
+
+Real estate appraisers do not need to be licensed
+Legal interests or charges will affect the appraiser's estimate of market value
+
+#### Lesson 17
+**Direct Capitalization Method**
+* Effective Gross Income = GPR * (1 - vacancy)
+* NOI = Effective Gross income - Expenses
+* Cap Rate = NOI / Sale Price
+* 
 
 #### Lesson 20
 **Initial Client Interview
