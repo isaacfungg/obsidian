@@ -75,6 +75,10 @@ Taxable income = Net income + Depreciation - CCA
 `Sinking Fund Assisted Mortgage`: The borrower makes interest-only payments on the mortgage loan.
 Wrap-around mortgages are mathematically similar to blended rate financing.
 
+#### Lesson 15
+`Improved land`: Land that has been developed
+`Unencumbered`: Free of liens, mortgages, or other legal claims against it
+
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
