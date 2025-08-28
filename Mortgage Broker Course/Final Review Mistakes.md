@@ -71,6 +71,9 @@ Question 8
 
 Taxable income = Net income + Depreciation - CCA
 
+#### Lesson 14
+`Sinking Fund Assisted Mortgage`: The borrower makes interest-only payments on the mortgage loan.
+
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
