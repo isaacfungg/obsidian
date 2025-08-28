@@ -70,3 +70,24 @@ Question 8
 `Corporate statement of holding`: A report that lists only the investments or assets a corporation owns
 
 Taxable income = Net income + Depreciation - CCA
+
+#### Lesson 20
+**Initial Client Interview
+* Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
+**Mortgage Option Recommendation
+* Present suitable products
+**Taking the Mortgage Application
+* Collect personal, financial, and property details
+**Obtaining the Credit Report 
+* Pull credit to assess risk and qualification
+**Reviewing Paperwork 
+* Verify income, assets, debts, property documents
+**Submitting the Application
+* Send full package to chosen lender
+**Fulfilment
+* Lender reviews, underwrites, issues conditions for approval, appraisals, disclosures
+**Instructions and Closing
+* Lender sends instructions to lawyer/notary
+**Administration
+* Ongoing servicing: payments, renewals, discharges, client follow-up
+

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,10 +218,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24057d87963318c7",
+  "active": "02afb408f4cecdf8",
   "lastOpenFiles": [
-    "Mortgage Broker Course/Lesson 10.md",
     "Mortgage Broker Course/Lesson 20.md",
+    "Mortgage Broker Course/Lesson 10.md",
     "Mortgage Broker Course/Lesson 8.md",
     "Mortgage Broker Course/Review Mistakes.md",
     "Mortgage Broker Course/Final Review Mistakes.md",
