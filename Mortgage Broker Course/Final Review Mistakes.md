@@ -78,6 +78,8 @@ Wrap-around mortgages are mathematically similar to blended rate financing.
 #### Lesson 15
 `Improved land`: Land that has been developed
 `Unencumbered`: Free of liens, mortgages, or other legal claims against it
+`Accrual Approach`: Same as cost approach
+`Executor of an Estate`: The person named in a will to carry out the deceased person's wishes
 
 #### Lesson 20
 **Initial Client Interview
