@@ -98,3 +98,8 @@ If the client's income i snot all salary, the mortgage broker should assess whet
 `Notice of Assessment`: A statement from the CRA after you file taxes. It confirms income, taxes paid and if you owe or get a refund.
 `T1`: The full personal income tax return you file each year
 `T4`: A slip from your employer that shows employment income and deductions
+
+`Property Identification Code`: Used by BC Assessment, it's a number tied to the property for assessment/tax purposes
+`Parcel Identifier`: The official 9-digit number on the land title that uniquely identifies a parcel of land in BC
+`Land Title Number`: Refers to the registration/document number assigned to a specific title or transaction in the land title office
+`Land Assessment Code`: Used internally for property classification in assessment
