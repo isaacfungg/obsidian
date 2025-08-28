@@ -167,6 +167,8 @@ spiky ball 18
 * 5% on the portion above $3,000,000 (residential only)
 * 20% of the property's fair market value (for foreign entity)
 
+Conveyance is just for the buyer. Seller's conveyance fees treated as a personal out of pocket cost
+You always make a tax adjustment on the adjustment date
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
