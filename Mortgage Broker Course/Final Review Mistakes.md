@@ -91,7 +91,10 @@ Legal interests or charges will affect the appraiser's estimate of market value
 * Effective Gross Income = GPR * (1 - vacancy)
 * NOI = Effective Gross income - Expenses
 * Cap Rate = NOI / Sale Price
-* 
+
+rocket spear ->18
+Healing tomb should be max
+spiky ball 18
 
 #### Lesson 20
 **Initial Client Interview
