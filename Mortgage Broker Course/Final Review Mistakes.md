@@ -80,6 +80,7 @@ Taxable income = Net income + Depreciation - CCA
 * Collect personal, financial, and property details
 **Obtaining the Credit Report 
 * Pull credit to assess risk and qualification
+* Consent must be in writing and the mortgage broker should re-obtain consent each time they request a new credit report
 **Reviewing Paperwork 
 * Verify income, assets, debts, property documents
 **Submitting the Application
@@ -91,3 +92,9 @@ Taxable income = Net income + Depreciation - CCA
 **Administration
 * Ongoing servicing: payments, renewals, discharges, client follow-up
 
+With insured mortgages they don't often use in person appraisals. 
+If the client's income i snot all salary, the mortgage broker should assess whether there is bonus contract, commission, part-time, or self-employed income. If any of these are present, the mortgage broker must identify the two-year average income, according to the client's Notice of Assessment.
+
+`Notice of Assessment`: A statement from the CRA after you file taxes. It confirms income, taxes paid and if you owe or get a refund.
+`T1`: The full personal income tax return you file each year
+`T4`: A slip from your employer that shows employment income and deductions
