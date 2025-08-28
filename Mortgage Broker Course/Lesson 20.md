@@ -33,4 +33,6 @@ What type of transaction the client is undertaking?
 * Purchasing a new property
 * Refinancing an existing mortgage
 * Switching lenders with no change in the loan amount, loan to value, amortization, or title
-* 
+
+**Credit report**
+* Two goals being checking whether the client has or had any delinquencies or judgments, and to confirm the exact amount of the client's liabilities
