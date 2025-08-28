@@ -128,3 +128,4 @@ If the client's income i snot all salary, the mortgage broker should assess whet
 `Parcel Identifier`: The official 9-digit number on the land title that uniquely identifies a parcel of land in BC
 `Land Title Number`: Refers to the registration/document number assigned to a specific title or transaction in the land title office
 `Land Assessment Code`: Used internally for property classification in assessment
+`Rental offset`: When a lender uses portion of the rental income to offset the borrower's mortgage payment obligation
