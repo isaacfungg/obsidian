@@ -140,6 +140,24 @@ spiky ball 18
 * Packaging and Trading Off
 	* More optimal solutions are reached when parties package and trade information
 * Focus on Objective Standards
+	* Agree first on principles or objective standards, before arriving at a solution
+* Strategic Concessions
+	* Make strategic concessions in a reciprocal fashion
+**Communication Principles**
+* Revealing vs Concealing Information
+	* Balance how much you reveal not too much not too less
+* Role of Silence
+	* Gives you more time
+* Listen Actively
+	* Focus on what the other side is telling you rather than on what you want to say next
+
+**Relationship Principles**
+* Be Firm but Conciliatory
+	* Be firm with your interests but flexible in your positions
+* Perspective Taking
+	* Understanding their perspective helps you come up with a potential solution
+* Know the Person and Context
+	* Be sensitive to values, perceptions, concerns, norms of behaviour and moods
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
