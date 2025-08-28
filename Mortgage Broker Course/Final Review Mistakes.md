@@ -86,7 +86,7 @@ Wrap-around mortgages are mathematically similar to blended rate financing.
 Real estate appraisers do not need to be licensed
 Legal interests or charges will affect the appraiser's estimate of market value
 
-#### Lesson 17
+#### Lesson 16
 **Direct Capitalization Method**
 * Effective Gross Income = GPR * (1 - vacancy)
 * NOI = Effective Gross income - Expenses
@@ -96,6 +96,42 @@ rocket spear ->18
 Healing tomb should be max
 spiky ball 18
 
+#### Lesson 17
+**Personal Information Protection Act**
+* Consent - Collect, use, disclose with knowledge/permission
+* Purpose Limitation - Use for stated
+* Collection Limitation - Collect minimal necessary data
+* Accuracy - Keep data accurate and up to date
+* Safeguards - Protect with security measures
+* Openness - Policies must be transparent
+* Individual Access - People can access and correct their data
+* Accountability - Organizations responsible for compliance
+* Provide Recourse - A complaint process must exist for privacy concerns
+* Identifying purposes - Purposes must be stated at or before collection
+
+**Canadian Anti-Spam Legislation**
+* Consent - Must have express or implied consent before sending commercial electronic messages
+* Identification - Messages must clearly identify the sender and provide contact info
+* Unsubscribe mechanism - easy, functional opt-out must be included
+* Prohibitions - No false/misleading info, malware,  or unauthorized data harvesting
+* Penalties - Heavy Fines (up to 10mil for businesses, 1mil for individuals)
+
+`Unsought goods`: Products consumers don't usually think about (require least effort cause people rarely seek them out)
+`Convenience goods`: Low-cost, frequently purchased items with minimal effort
+`Shopping goods`: Products compared on price, quality, or style before buying
+`Specialty goods`: Unique, brand-specific items that consumers will make a special effort to obtain
+
+**Mortgage Broker Origination Software**
+* Used by brokers
+* Connects brokers to lenders, credit bureaus, appraisers
+* Streamlines applications, speeds approvals, and collects borrower data
+
+**Mortgage Lender Origination Software
+* Used by lenders
+* Assists in underwriting and managing mortgages after closing
+* Focused on risk assessment, compliance, and ongoing loan management
+
+`Reminder-oriented Message`: Marketing communication aimed at keeping a product, service or brand in the consumer's awareness
 #### Lesson 20
 **Initial Client Interview
 * Learn client's needs, goals, financial situation, risk tolerance, credit history, debt ratio analysis
