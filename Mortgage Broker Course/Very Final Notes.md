@@ -1,0 +1,1 @@
+`Garnishing Order`: Court order that allows a creditor to collect money owed by taking it directly from a debtor's wages or bank account
