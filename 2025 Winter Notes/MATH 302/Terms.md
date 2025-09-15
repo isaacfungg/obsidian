@@ -16,3 +16,7 @@
 
 #### Section 1.4
 `Complement`: $A^c$ = {Everything not in A}
+
+#### Section 1.5
+`Random Variable`: A function that assigns a numerical value to each outcome in the sample space
+`Probability Distribution`: How probabilities are assigned to the values of a random variable
