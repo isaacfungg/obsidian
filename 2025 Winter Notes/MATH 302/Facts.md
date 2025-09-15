@@ -5,3 +5,14 @@
 * If $\# \Omega \lt \infty$ and each outcome is equally likely, then $P(A) = \frac{\# A}{\# \Omega}$
 * The number of ways to pick k items from n, where order matters, is $(n)_k = \frac{a!}{(n-k)!}$ called "n pick k"
 * The number of ways of choosing k elements out of n, disregarding order, is $\binom{n}{k} = \frac{n!}{(n-k)!k!}$
+
+#### Section 2.1
+$P(A_1 A_2 A_3 ... A_n) = P(A_1) * P(A_2 | A_1) * P(A_3|A_1 A_2) ... P(A_n|A_1 A_2 ... A_{n-1})$
+
+
+
+
+
+
+
+
