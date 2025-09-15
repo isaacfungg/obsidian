@@ -7,12 +7,10 @@
 * The number of ways of choosing k elements out of n, disregarding order, is $\binom{n}{k} = \frac{n!}{(n-k)!k!}$
 
 #### Section 2.1
-$P(A_1 A_2 A_3 ... A_n) = P(A_1) * P(A_2 | A_1) * P(A_3|A_1 A_2) ... P(A_n|A_1 A_2 ... A_{n-1})$
+* $P(A_1 A_2 A_3 ... A_n) = P(A_1) * P(A_2 | A_1) * P(A_3|A_1 A_2) ... P(A_n|A_1 A_2 ... A_{n-1})$
+* $P(A) = P(AB) + P(AB^C) = P(A|B) * P(B) + P(A|B^C) * P(B^C)$
+* $B_1, B_2, ... B_n$ are a partition of $\Omega$ if they are pairwise disjoint
 
-
-
-
-
-
-
-
+#### Section 2.1
+**Bayes Formula**
+* $P(B|A) = \frac{P(A|B) * P(B)}{P(A)} = \frac{P(A|B) * P(B)}{P(A|B) * P(B) + P(A|B^C) * P(B^C)}$
