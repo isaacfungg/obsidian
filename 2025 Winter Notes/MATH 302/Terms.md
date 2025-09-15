@@ -7,3 +7,4 @@
 `Power Set (F)`: All subsets of $\Omega$
 * #$F = 2^{\# \Omega}$
 `Pairwise Disjoint`: No two sets in the collection overlap
+`Probability Space`: ($\Omega, F, P$)
