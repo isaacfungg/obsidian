@@ -29,9 +29,9 @@
 * Does not review evidence and only reviews legal errors
 
 #### Order of Events in a BC Supreme Court Civil Case
-1. [[Terms#Plaintiff|Plaintiff]] files a Notice of Civil Claim
-2. [[Terms|Defendant]] files a Response to Civil Claim
-3. [[Terms|Discovery]] Process Begins
+1. [[Mortgage Broker Course/Terms#Plaintiff|Plaintiff]] files a Notice of Civil Claim
+2. [[Mortgage Broker Course/Terms|Defendant]] files a Response to Civil Claim
+3. [[Mortgage Broker Course/Terms|Discovery]] Process Begins
 4. Pre-Trial Conferences & Motions
 5. Trial
 

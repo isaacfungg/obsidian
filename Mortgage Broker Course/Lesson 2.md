@@ -72,7 +72,7 @@
 * Trustees in bankruptcy or liquidators
 * Lawyers handling mortgages as part of their legal practice
 * Employers lending money to employees for housing
-* Real estate agents handling one-time [[Terms|vendor take-back mortgages]] in a sale
+* Real estate agents handling one-time [[Mortgage Broker Course/Terms|vendor take-back mortgages]] in a sale
 
 `Sub-Mortgage Broker`
 * Only individuals
