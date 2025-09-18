@@ -28,3 +28,18 @@ P(C|G) = $\frac{P(G|C)\cdot P(C)}{P(G)} = \frac{1 \cdot \frac{1}{3}}{\frac{1}{3}
 Random Strategy: Host reveals random door
 P(C|G) = $\frac{P(G|C)\cdot P(C)}{P(G)} = \frac{\frac{2}{3} \cdot \frac{1}{3}}{\frac{2}{3}\frac{2}{3}} = 1/2$
 P(G) = P{Host reveals different door than you chose and door revealed is goat} = 2/3 * 2/3
+
+
+Book
+* **ISBN**
+* Title
+* Author
+* Publishing Date
+
+Customer - can place order to buy books, not all customers have made an order
+* **Customer ID**
+* Name
+* Loyalty Points
+
+Order - always has at least one book, always associated with a single customer
+* book
