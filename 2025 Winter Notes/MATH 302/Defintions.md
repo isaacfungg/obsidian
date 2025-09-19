@@ -16,5 +16,21 @@ $P(A | B) = \frac{P(A \bigcap B)}{P(B)}$
 * Events A and B are independent iff $P(AB) = P(A) \cdot P(B)$
 	* Given P(A), P(B) $\gt$ 0 then P(A|B) = P(A), P(B|A) = P(B)
 * Events $A_1, A_2, \dots A_n$ are independent iff for any set of indices 1 ≤ $i_1$ < $i_2$ < ... < $i_k$ ≤ n we have $P(A_i A_{i_2} \dots A_{i_k})$ = ${P(A_{i_1}) \cdot P(A_{i_2}) \dots P(A_{i_k})}$
-* 
+
+**Independent Random Variables**
+* Let $X_1, X_2, \dots, X_n$ be random variables defined on the same probability space. Then $X_1, X_2, \dots, X_n$ are independent iff $$P(X_1 \in B_1, X_2 \in B_2,\dots, X_n \in B_n)$$
+* for all * choices of subsets $B_1, B_2, \dots, B_n$ of the real line.
+
+###### Section 2.4
+**Bernoulli Random Variable**
+* A Bernoulli r.v. with parameter $p$ satisfies:
+$x = \{1$ with prob $p, 0$ with prob $1-p\}$
+$x~Bern(p)
+
+**Binomial Random Variables**
+* A binomial r.v. with parameters $n$ and $p$ satisfies
+* $P(X = k) = \binom{n}{k} \cdot p^k (1-p)^{n-k}$
+
+ Let $X_1, X_2, \dots, X_n$ ~ Bern(p) be independent
+ Then $X_1 + X_2 + \dots +X_n$ 
 
