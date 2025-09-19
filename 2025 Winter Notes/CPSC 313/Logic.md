@@ -9,4 +9,5 @@ valC: irmovq, rmmovq, mrmvoq
 #### srcB
 Parameters: rB, icode
 rsp: pushq, popq, call, ret
-rax: 
+rb: OPq, rmmovq, mrmovq
+R_NONE: jmp, halt, nop
