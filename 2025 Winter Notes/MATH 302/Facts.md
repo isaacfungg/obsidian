@@ -17,7 +17,9 @@ Intersection
 * $P(E \cap F) \le min\{P(E), P(F)\}$
 Set Difference
 * $P(E \backslash F) = P(E) - P(E \cap F)$
-
+De Morgan's law
+* $A^C \cap B^C = P((A \cup B)^C)$
+* 
 #### Section 2.1
 * $P(A_1 A_2 A_3 ... A_n) = P(A_1) * P(A_2 | A_1) * P(A_3|A_1 A_2) ... P(A_n|A_1 A_2 ... A_{n-1})$
 * $P(A) = P(AB) + P(AB^C) = P(A|B) * P(B) + P(A|B^C) * P(B^C)$
