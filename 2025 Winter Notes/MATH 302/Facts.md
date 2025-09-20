@@ -6,6 +6,16 @@
 * The number of ways to pick k items from n, where order matters, is $(n)_k = \frac{a!}{(n-k)!}$ called "n pick k"
 * The number of ways of choosing k elements out of n, disregarding order, is $\binom{n}{k} = \frac{n!}{(n-k)!k!}$
 
+#### Section 1.4
+Complement
+* $P(A) = 1 - P(A^C)$
+Subset
+* $B \subset A, then P(B) \le P(A)$
+Union
+* $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+Intersection
+* $P(E \cap F) \le min\{P(E), P(F)\}$
+* 
 #### Section 2.1
 * $P(A_1 A_2 A_3 ... A_n) = P(A_1) * P(A_2 | A_1) * P(A_3|A_1 A_2) ... P(A_n|A_1 A_2 ... A_{n-1})$
 * $P(A) = P(AB) + P(AB^C) = P(A|B) * P(B) + P(A|B^C) * P(B^C)$
