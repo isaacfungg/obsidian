@@ -1,4 +1,14 @@
 ***
+Notes:
+**`pushq` / `call` (decrement):*
+1. **ALU:** computes `RSP - 8`.
+2. **Memory:** write to `M[RSP - 8]`.
+3. **Write-back:** update `RSP = RSP - 8`.
+
+**`popq` / `ret` (increment):**
+1. **ALU:** computes `RSP + 8`.
+2. **Memory:** read from `M[RSP]` (old RSP).
+3. **Write-back:** update `RSP = RSP + 8`.
 #### aluA
 Parameters: icode, valA, valC
 valA: OPq, rrmovq
@@ -25,3 +35,7 @@ valB: popq, ret
 #### Data
 valA: rmmovq, pushq
 valP: call
+
+#### AluB
+0: rrmovq, irmovq
+valB: pushq, popq, call, ret, rmmovq, mrmovq, opq
