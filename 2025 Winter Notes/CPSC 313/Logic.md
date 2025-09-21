@@ -39,3 +39,14 @@ valP: call
 #### AluB
 0: rrmovq, irmovq
 valB: pushq, popq, call, ret, rmmovq, mrmovq, opq
+
+#### dstE
+rsp: ret, call, push, pop
+rB: rrmovq, irmovq, opq
+
+#### dstM
+rA: mrmovq, popq
+
+#### memCntrl
+4 (write): call, pushq, rmmovq
+2 (read): ret, popq, mrmovq
