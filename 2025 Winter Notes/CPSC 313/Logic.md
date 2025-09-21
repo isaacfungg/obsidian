@@ -22,3 +22,6 @@ Parameters: valB, valE, icode
 valE: pushq, rmmovq, mrmovq, call
 valB: popq, ret
 
+#### Data
+valA: rmmovq, pushq
+valP: call
