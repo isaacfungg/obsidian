@@ -35,7 +35,8 @@
               "title": "References"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,15 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "223da003e8feb6d4",
+  "active": "89cea9dbc0a7992e",
   "lastOpenFiles": [
+    "Screenshot 2025-09-21 at 12.28.09 AM.png",
+    "2025 Winter Notes/CPSC 313/Logic.md",
     "2025 Winter Notes/MATH 302/Problems.md",
     "2025 Winter Notes/CPSC 313/References.md",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
     "2025 Winter Notes/CPSC 313/Week 2 - In Class.md",
     "2025 Winter Notes/CPSC 313/Week 1 - Pre Class.md",
-    "2025 Winter Notes/CPSC 313/Logic.md",
     "2025 Winter Notes/MATH 302/Facts.md",
     "2025 Winter Notes/MATH 302/Defintions.md",
     "2025 Winter Notes/CPSC 313/Tutorial/Tutorial 3.md",
