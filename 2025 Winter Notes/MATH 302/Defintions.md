@@ -39,3 +39,5 @@ $x~Bern(p)
 * $P(X = k) = (1-p)^{k-1}p, k \in \{1, 2,, \dots\}$
 
 
+###### Section2.5
+Events A and B are said to be conditionally independent given event D if P(AB | D) = P(A|D) * P(B|D)

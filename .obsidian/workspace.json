@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/MATH 302/Problems.md",
+                "file": "2025 Winter Notes/MATH 302/Defintions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems"
+              "title": "Defintions"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "bce5b014d12ffea8",
   "lastOpenFiles": [
-    "2025 Winter Notes/MATH 302/Defintions.md",
     "2025 Winter Notes/MATH 302/Problems.md",
+    "2025 Winter Notes/MATH 302/Defintions.md",
     "2025 Winter Notes/MATH 302/Examples.md",
     "2025 Winter Notes/MATH 302/Facts.md",
     "2025 Winter Notes/CPSC 313/Logic.md",
