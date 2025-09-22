@@ -34,3 +34,8 @@ $x~Bern(p)
  Let $X_1, X_2, \dots, X_n$ ~ Bern(p) be independent
  Then $X_1 + X_2 + \dots +X_n$ 
 
+**Geometric Random Variable**
+* A geometric random variable with parameter p satisfies:
+* $P(X = k) = (1-p)^{k-1}p, k \in \{1, 2,, \dots\}$
+
+
