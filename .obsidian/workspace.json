@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 313/References.md",
+                "file": "2025 Winter Notes/CPSC 313/Calling Conventions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "References"
+              "title": "Calling Conventions"
             }
           }
         ],
@@ -192,8 +192,9 @@
   },
   "active": "89cea9dbc0a7992e",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 313/Logic.md",
     "2025 Winter Notes/CPSC 313/References.md",
+    "2025 Winter Notes/CPSC 313/Calling Conventions.md",
+    "2025 Winter Notes/CPSC 313/Logic.md",
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "2025 Winter Notes/MATH 302/Problems.md",
     "y86ImplementationDiagram (1).png",
