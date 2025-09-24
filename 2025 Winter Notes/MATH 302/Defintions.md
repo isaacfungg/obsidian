@@ -58,3 +58,8 @@ Then we say X has uniform distribution on [a, b], i.e. X ~ Unif[a, b]
 
 
 
+
+
+
+
+
