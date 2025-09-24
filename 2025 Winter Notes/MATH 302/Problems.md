@@ -34,4 +34,8 @@ P = P(sum is even) = $P(E_1, E_2) + P(O_1, O_2) = P(E_1) \cdot P(E_2) + P(O_1) \
 $= \sum_{k = even} (1 - p)^{k - 1} \cdot p = \sum_{k = even} (1/2)^k = \frac{1}{2^2} + \frac{1}{2^4} \dots$
 = 1/3
 
-###### Section 2.5
+###### Section 3.1
+Let X ~Unif[3.7]. What is $P(X \in [3, 4])$
+$f(x) = 1/4 x \in [3,7], 0x !\in [3,7]$
+
+

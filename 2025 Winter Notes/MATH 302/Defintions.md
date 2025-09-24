@@ -41,3 +41,20 @@ $x~Bern(p)
 
 ###### Section2.5
 Events A and B are said to be conditionally independent given event D if P(AB | D) = P(A|D) * P(B|D)
+
+ ###### Section 3.1
+ We say that a r.v. X has probability density function $f$ if $P(X \le a) = \int_{-\infty}^{a}f(x)dx$
+ * Not every random variable has a pdf
+
+We call X a continuous r.v.
+$P(X \in [a, b]) = \int_{a}^{b} = P(X \in(a,b))$
+$P(X \in B) = \int_{B} f(x)dx$
+$P(X = k) = \int_{k}^{k} f(x)dx = 0$
+Pdf must satisfy $\int_{-\infty}^{\infty} f(x)dx = 1, f(x) \ge 0$ for all x
+
+Uniform r.v.
+Def: Let X have pdf $f(x) = { \frac{1}{b - a} x \in [a, b], 0 x !\in [a, b]}$
+Then we say X has uniform distribution on [a, b], i.e. X ~ Unif[a, b]
+
+
+
