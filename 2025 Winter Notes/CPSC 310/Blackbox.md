@@ -31,4 +31,6 @@ Example: A login system:
 * Quick check that the app starts and main features work
 * Fast test to catch major issues
 **Regression
-* 
+* Run to ensure no existing behaviour has changes (after a refactor)
+**Acceptance
+* Run to ensure end product solves the problem it was intended to solve
