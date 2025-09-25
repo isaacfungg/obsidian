@@ -18,3 +18,17 @@ Example: A login system:
 - Invalid input may keep you in “logged out” or lock the account.
 
 **User Acceptance Testing (UAT)** is the final testing phase where real users (or clients) verify that the software meets their needs and requirements.
+
+`Static Analyses`: Any programmatic analysis of a program that only inputs the program text itself and does not need to execute the program
+* Formatting: Enforcing consistent code syntax
+* Linting: Enforcing consistent code syntax & enforcing good semantics of code
+`Dynamic Analyses`: Needs to run the program, so also require inputs
+`Syntax`: Defines the set of valid tokens that are allowed
+`Semantics`: Define what the tokens actually mean
+
+###### Kinds of Tests
+**Smoke
+* Quick check that the app starts and main features work
+* Fast test to catch major issues
+**Regression
+* 
