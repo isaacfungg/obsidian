@@ -33,4 +33,14 @@ Example: A login system:
 **Regression
 * Run to ensure no existing behaviour has changes (after a refactor)
 **Acceptance
-* Run to ensure end product solves the problem it was intended to solve
+* Run to ensure end product solves the problem it was intended to solve\
+
+###### Advantages/Disadvantages of black box testing
+Advantages
+* Act like a user
+* More clear what to test
+* Emphasis on specification
+Disadvantages
+* Need well defined specifications
+* Poor explainability
+* 
