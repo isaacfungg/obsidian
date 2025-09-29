@@ -56,9 +56,9 @@ Uniform r.v.
 Def: Let X have pdf $f(x) = { \frac{1}{b - a} x \in [a, b], 0 x !\in [a, b]}$
 Then we say X has uniform distribution on [a, b], i.e. X ~ Unif[a, b]
 
-
-
-
+###### Section 3.3
+Expected Value: 
+* Discrete Case EX
 
 
 
