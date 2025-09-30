@@ -20,3 +20,8 @@
 
 `Weak Entities`:
 * Can be defined uniquely only by additionally considering the key of another owner
+
+#### SQL Constraints
+***
+**Integrity Constraint**: Conditions/rules that must be true for any instance of the database
+* 

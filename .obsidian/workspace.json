@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 304/Relationships.md",
+                "file": "2025 Winter Notes/CPSC 304/Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relationships"
+              "title": "Keys"
             }
           },
           {
@@ -207,8 +207,10 @@
   "active": "f7d34c440b36b964",
   "lastOpenFiles": [
     "2025 Winter Notes/CPSC 304/Constraints.md",
-    "2025 Winter Notes/CPSC 304/ER Diagram.md",
+    "2025 Winter Notes/CPSC 304/SQL.md",
+    "2025 Winter Notes/CPSC 304/Relational Model.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
+    "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 304/Terms.md",
     "2025 Winter Notes/CPSC 310/Terms.md",
     "2025 Winter Notes/CPSC 304/Keys.md",
@@ -239,10 +241,8 @@
     "2025 Winter Notes/CPSC 310/MATH 302",
     "2025 Winter Notes/CPSC 310",
     "2025 Winter Notes/CPSC 313/Week 1 - In Class.md",
-    "Mortgage Broker Course/Very Final Notes.md",
     "2025 Winter Notes/CPSC 313",
     "2025 Winter Notes",
-    "HTML & CSS.md",
     "Trading",
     "Mortgage Broker Course",
     "Pasted image 20240605115647.png",
