@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bce5b014d12ffea8",
+            "id": "3e236dad369bccd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/MATH 302/Facts.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Facts"
-            }
-          },
-          {
-            "id": "f7d34c440b36b964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025 Winter Notes/CPSC 304/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "6d18ca2982282f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025 Winter Notes/CPSC 304/Keys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keys"
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0024719238281
+    "width": 295.0024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -204,13 +176,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7d34c440b36b964",
+  "active": "3e236dad369bccd6",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 304/Keys.md",
-    "2025 Winter Notes/CPSC 304/SQL.md",
-    "2025 Winter Notes/CPSC 304/Constraints.md",
-    "2025 Winter Notes/CPSC 304/Relational Model.md",
+    "Untitled 1.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
+    "2025 Winter Notes/CPSC 304/Constraints.md",
+    "2025 Winter Notes/CPSC 304/SQL.md",
+    "2025 Winter Notes/CPSC 304/Relational Model.md",
+    "2025 Winter Notes/CPSC 304/Keys.md",
     "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 304/Terms.md",
     "2025 Winter Notes/CPSC 310/Terms.md",
@@ -240,7 +213,6 @@
     "2025 Winter Notes/MATH 302",
     "2025 Winter Notes/CPSC 310/MATH 302",
     "2025 Winter Notes/CPSC 310",
-    "2025 Winter Notes/CPSC 313/Week 1 - In Class.md",
     "2025 Winter Notes/CPSC 313",
     "2025 Winter Notes",
     "Trading",
