@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "2025 Winter Notes/CPSC 313/Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Pipeline"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0024719238281,
-    "collapsed": true
+    "width": 295.0024719238281
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -178,13 +177,15 @@
   },
   "active": "3e236dad369bccd6",
   "lastOpenFiles": [
+    "2025 Winter Notes/CPSC 304/ER Diagram.md",
+    "2025 Winter Notes/CPSC 313/Pipeline.md",
+    "2025 Winter Notes/CPSC 313/Tutorial/Tutorial 3.md",
     "Untitled 1.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
     "2025 Winter Notes/CPSC 304/Constraints.md",
     "2025 Winter Notes/CPSC 304/SQL.md",
     "2025 Winter Notes/CPSC 304/Relational Model.md",
     "2025 Winter Notes/CPSC 304/Keys.md",
-    "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 304/Terms.md",
     "2025 Winter Notes/CPSC 310/Terms.md",
     "Untitled.md",
@@ -196,7 +197,6 @@
     "2025 Winter Notes/CPSC 310/Blackbox.md",
     "2025 Winter Notes/CPSC 313/Logic.md",
     "2025 Winter Notes/CPSC 313/Calling Conventions.md",
-    "2025 Winter Notes/CPSC 313/Tutorial/Tutorial 3.md",
     "2025 Winter Notes/CPSC 310/Quiz 1.md",
     "2025 Winter Notes/MATH 302/Problems.md",
     "2025 Winter Notes/CPSC 313/References.md",
@@ -207,7 +207,6 @@
     "2025 Winter Notes/CPSC 313/Week 2 - In Class.md",
     "2025 Winter Notes/CPSC 313/Week 1 - Pre Class.md",
     "2025 Winter Notes/CPSC 313/Tutorial",
-    "2025 Winter Notes/MATH 302/Terms.md",
     "Screenshot 2025-09-18 at 12.28.28 PM.png",
     "2025 Winter Notes/CPSC 304",
     "2025 Winter Notes/MATH 302",
