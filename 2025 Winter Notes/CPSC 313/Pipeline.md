@@ -16,4 +16,6 @@ Picosecond (ps): $10^{-12}$
 
 GIPS: $10^9$ instructions per second
 
+###### Sequential vs Pipeline Performance
+
 
