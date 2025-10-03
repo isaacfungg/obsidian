@@ -17,5 +17,6 @@ Picosecond (ps): $10^{-12}$
 GIPS: $10^9$ instructions per second
 
 ###### Sequential vs Pipeline Performance
-
+* An implementation with more stages will have a shorter cycle time
+* 
 
