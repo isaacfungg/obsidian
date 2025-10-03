@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 313/Pipeline.md",
+                "file": "2025 Winter Notes/CPSC 313/Tutorial 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline"
+              "title": "Tutorial 3"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0024719238281
+    "width": 295.0024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -177,8 +178,11 @@
   },
   "active": "3e236dad369bccd6",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 313/Pipeline.md",
+    "2025 Winter Notes/CPSC 313/Tutorial 3.md",
+    "2025 Winter Notes/CPSC 313/Calling Conventions.md",
+    "2025 Winter Notes/CPSC 313/Logic.md",
+    "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 313/Tutorial/Tutorial 3.md",
     "Untitled 1.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
@@ -195,8 +199,6 @@
     "2025 Winter Notes/CPSC 310/Input Output Testing.md",
     "2025 Winter Notes/CPSC 310/Coverage Testing.md",
     "2025 Winter Notes/CPSC 310/Blackbox.md",
-    "2025 Winter Notes/CPSC 313/Logic.md",
-    "2025 Winter Notes/CPSC 313/Calling Conventions.md",
     "2025 Winter Notes/CPSC 310/Quiz 1.md",
     "2025 Winter Notes/MATH 302/Problems.md",
     "2025 Winter Notes/CPSC 313/References.md",
@@ -205,7 +207,6 @@
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
     "2025 Winter Notes/CPSC 313/Week 2 - In Class.md",
-    "2025 Winter Notes/CPSC 313/Week 1 - Pre Class.md",
     "2025 Winter Notes/CPSC 313/Tutorial",
     "Screenshot 2025-09-18 at 12.28.28 PM.png",
     "2025 Winter Notes/CPSC 304",
