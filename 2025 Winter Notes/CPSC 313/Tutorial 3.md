@@ -64,9 +64,80 @@ _Assume that the PC is updated during Stage 4_
 **Ranking
 
 
-1:
-* F: 1 D: E: M: W:
-2:
-* F: 2 D: 1 E: M: W:
-3: F: 3 D: 2 E: 1 M: W:
-4: F: 1 D: E: M: W:
+```
+main:
+	1:	irmovq  stack, %rsp
+	2:	irmovq  b, %rdi
+	3:	irmovq  f, %rsi
+	4:	call swap
+		nop
+	5:	halt
+
+	swap:
+	6:	mrmovq  0(%rdi), %r10
+	7:	mrmovq  0(%rsi), %r11
+		nop
+		nop
+	8:	rmmovq  %r10, 0(%rsi)
+	9:	rmmovq  %r11, 0(%rdi)
+	10:	ret
+		nop
+		nop
+		nop
+
+	.pos 0x1000
+	data:
+	a:      .quad 0xCAFE
+	b:      .quad 0xFACE
+	c:      .quad 0xFEED
+	d:      .quad 0xDECAF
+	e:      .quad 0xBAD
+	f:      .quad 0xBEAD
+	g:      .quad 0xACE
+	h:      .quad 0xFADE
+
+	.pos 0x2000
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+	stack:
+```
+
+```
+main:
+	1:	irmovq  stack, %rsp
+	2:	irmovq  b, %rdi
+	3:	irmovq  f, %rsi
+		nop
+		nop
+	4:	mrmovq  0(%rdi), %r10
+	5:	mrmovq  0(%rsi), %r11
+		nop
+		nop
+	6:	rmmovq  %r10, 0(%rsi)
+	7:	rmmovq  %r11, 0(%rdi)
+	8:	halt
+
+	.pos 0x1000
+	data:
+	a:      .quad 0xCAFE
+	b:      .quad 0xFACE
+	c:      .quad 0xFEED
+	d:      .quad 0xDECAF
+	e:      .quad 0xBAD
+	f:      .quad 0xBEAD
+	g:      .quad 0xACE
+	h:      .quad 0xFADE
+
+	.pos 0x2000
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+		.quad 0
+	stack:
+```
