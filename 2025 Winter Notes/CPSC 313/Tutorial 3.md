@@ -64,6 +64,9 @@ _Assume that the PC is updated during Stage 4_
 **Ranking
 
 
-
-0000 1110
-0001 0010
+1:
+* F: 1 D: E: M: W:
+2:
+* F: 2 D: 1 E: M: W:
+3: F: 3 D: 2 E: 1 M: W:
+4: F: 1 D: E: M: W:
