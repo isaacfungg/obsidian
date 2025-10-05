@@ -62,3 +62,8 @@ _Assume that the PC is updated during Stage 4_
 4. inst4
 
 **Ranking
+
+
+
+0000 1110
+0001 0010
