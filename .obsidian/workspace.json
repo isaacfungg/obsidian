@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 313/Tutorial 3.md",
+                "file": "2025 Winter Notes/CPSC 310/Process and Scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial 3"
+              "title": "Process and Scrum"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0024719238281,
-    "collapsed": true
+    "width": 295.0024719238281
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -178,8 +177,9 @@
   },
   "active": "3e236dad369bccd6",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 313/Pipeline.md",
     "2025 Winter Notes/CPSC 313/Tutorial 3.md",
+    "2025 Winter Notes/CPSC 310/Process and Scrum.md",
+    "2025 Winter Notes/CPSC 313/Pipeline.md",
     "2025 Winter Notes/CPSC 313/Calling Conventions.md",
     "2025 Winter Notes/CPSC 313/Logic.md",
     "2025 Winter Notes/CPSC 304/ER Diagram.md",
@@ -206,7 +206,6 @@
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
-    "2025 Winter Notes/CPSC 313/Week 2 - In Class.md",
     "2025 Winter Notes/CPSC 313/Tutorial",
     "Screenshot 2025-09-18 at 12.28.28 PM.png",
     "2025 Winter Notes/CPSC 304",
