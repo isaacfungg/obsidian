@@ -19,3 +19,7 @@ Expected Result:
 002030  08 00 00 00 00 00 00 00  
 002038  09 00 00 00 00 00 00 00
 
+Size: 32
+Clock Count:
+Retired Instructions:
+Expected Result:
