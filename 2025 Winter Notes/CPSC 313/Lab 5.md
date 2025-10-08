@@ -7,7 +7,7 @@ r8, r9, r11, rax, rcx, rbx
 
 
 Size: 8
-Clock Count: 364 -> 340 -> 317 ->275->228
+Clock Count: 364 -> 340 -> 317 ->275->216
 Retired Instructions: 319
 Expected Result:
 002000  08 00 00 00 00 00 00 00  

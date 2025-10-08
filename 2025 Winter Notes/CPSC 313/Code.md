@@ -1,4 +1,4 @@
-275 version
+216 version
 ```
 main:
 	irmovq	$stack, %rsp
@@ -9,6 +9,7 @@ main:
 	halt
 
 smooth:
+    irmovq	$2, %r9
     irmovq  $1, %r10        # incrementer
     irmovq	$8, %r11
     irmovq  $1, %rax        # rax holds i
@@ -17,49 +18,38 @@ test:
 	subq	%r10, %rdx
 	subq	%rax, %rdx
 	jle	done
-
-    pushq   %rax            # save caller-save regs we are using
-	pushq	%rdi
-	pushq	%rsi
-	rrmovq	%rax, %rsi      # array in %rdi, i in %rsi
     
     # ------------- avg function start -------------
-    rrmovq  %rsi, %r8       # array[i - 1] into %rbx
+    rrmovq  %rax, %r8       # array[i - 1] into %rbx
 	subq	%r10, %r8       # array[i - 1] into %rbx
 	mulq	%r11, %r8       # array[i - 1] into %rbx
 	addq	%rdi, %r8       # array[i - 1] into %rbx
 	mrmovq	0(%r8), %rbx    # array[i - 1] into %rbx
 
-    rrmovq  %rsi, %r13       # array[i] into %rcx
+    rrmovq  %rax, %r13       # array[i] into %rcx
 	mulq	%r11, %r13       # array[i] into %rcx
 	addq	%rdi, %r13       # array[i] into %rcx
 	mrmovq	0(%r13), %rcx    # array[i] into %rcx
 
-	rrmovq	%rsi, %r14       # array[i + 1] into %rdx
+	rrmovq	%rax, %r14       # array[i + 1] into %rdx
     addq    %r10, %r14       # array[i + 1] into %rdx
 	mulq	%r11, %r14       # array[i + 1] into %rdx
 	addq	%rdi, %r14       # array[i + 1] into %rdx
 	mrmovq	0(%r14), %rdx    # array[i + 1] into %rdx
 
-    rrmovq  %rbx, %rax      # compute %rbx + 2 * %rcx + %rdx in %rax
-	irmovq	$2, %r9         # compute %rbx + 2 * %rcx + %rdx in %rax
+    rrmovq  %rbx, %r8      # compute %rbx + 2 * %rcx + %rdx in %r8
 	irmovq  $4, %r12        # divide by 4
-	mulq	%r9, %rcx       # compute %rbx + 2 * %rcx + %rdx in %rax
-	addq	%rcx, %rax      # compute %rbx + 2 * %rcx + %rdx in %rax
-	addq	%rdx, %rax      # compute %rbx + 2 * %rcx + %rdx in %rax
+	mulq	%r9, %rcx       # compute %rbx + 2 * %rcx + %rdx in %r8
+	addq	%rcx, %r8      # compute %rbx + 2 * %rcx + %rdx in %r8
+	addq	%rdx, %r8      # compute %rbx + 2 * %rcx + %rdx in %r8
 	
-	divq    %r12, %rax
+	divq    %r12, %r8
     # -------------- avg function end --------------
-    
-    rrmovq  %rax, %r8       # save result of avg
-    popq    %rsi            # restore caller-save regs we are using
-	popq	%rdi
-	popq	%rax
 
-	rrmovq	%rax, %r9       # array[i] = avg(...)
-	mulq	%r11, %r9
-	addq	%rdi, %r9
-    rmmovq  %r8, 0(%r9)
+	rrmovq	%rax, %r13       # array[i] = avg(...)
+	mulq	%r11, %r13
+	addq	%rdi, %r13
+    rmmovq  %r8, 0(%r13)
 
     addq    %r10, %rax      # increment i
 	jmp	test
