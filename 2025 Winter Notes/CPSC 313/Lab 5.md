@@ -61,3 +61,12 @@ subq	%r12, %r11
 
 addq ra, rb
 addq, rb, rc
+
+
+
+
+
+
+
+F D E M W
+1
