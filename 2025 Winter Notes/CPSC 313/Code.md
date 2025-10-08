@@ -98,3 +98,125 @@ data:
 .pos 0x5000
 stack:
 ```
+
+
+```
+main:
+	irmovq	$stack, %rsp
+	irmovq	$data, %rdi
+	irmovq	$size, %rsi
+	mrmovq	0(%rsi), %rsi
+	call	smooth
+	halt
+
+smooth:
+    irmovq  $1, %rax        # rax holds i
+test:
+    rrmovq  %rsi, %rdx      # compute i < n - 1
+	irmovq	$1, %r11
+	subq	%r11, %rdx
+	subq	%rax, %rdx
+	jle	done
+
+    pushq   %rax            # save caller-save regs we are using
+	pushq	%rdi
+	pushq	%rsi
+	rrmovq	%rax, %rsi      # array in %rdi, i in %rsi
+    call    avg
+    rrmovq  %rax, %r8       # save result of avg
+    popq    %rsi            # restore caller-save regs we are using
+	popq	%rdi
+	popq	%rax
+
+	rrmovq	%rax, %r9       # array[i] = avg(...)
+	irmovq	$8, %r11
+	mulq	%r11, %r9
+	addq	%rdi, %r9
+    rmmovq  %r8, 0(%r9)
+
+	irmovq	$1, %r11
+    addq    %r11, %rax      # increment i
+	jmp	test
+done:
+	ret
+
+
+avg:
+    pushq   %rbx            # save callee-saved regs we use
+
+    rrmovq  %rsi, %r8       # array[i - 1] into %rbx
+	irmovq	$1, %r11
+	subq	%r11, %r8
+	irmovq	$8, %r11
+	mulq	%r11, %r8
+	addq	%rdi, %r8
+	mrmovq	0(%r8), %rbx
+
+    rrmovq  %rsi, %r8       # array[i] into %rcx
+	irmovq	$8, %r11
+	mulq	%r11, %r8
+	addq	%rdi, %r8
+	mrmovq	0(%r8), %rcx
+
+	rrmovq	%rsi, %r8       # array[i + 1] into %rdx
+	irmovq	$1, %r11
+    addq    %r11, %r8
+	irmovq	$8, %r11
+	mulq	%r11, %r8
+	addq	%rdi, %r8
+	mrmovq	0(%r8), %rdx
+
+    rrmovq  %rbx, %rax      # compute %rbx + 2 * %rcx + %rdx in %rax
+	irmovq	$2, %r9
+	mulq	%r9, %rcx
+	addq	%rcx, %rax
+	addq	%rdx, %rax
+
+    irmovq  $4, %r11        # divide by 4
+	divq	%r11, %rax
+
+    popq    %rbx            # restore callee-regs we use
+	ret
+
+# Array with 32 elements
+.pos	0x2000
+size:
+.quad	32
+data:
+.quad	11
+.quad	12
+.quad	10
+.quad	5
+.quad	1
+.quad	8
+.quad	15
+.quad	0
+.quad	1
+.quad	8
+.quad	13
+.quad	5
+.quad	6
+.quad	5
+.quad	9
+.quad	12
+.quad	4
+.quad	15
+.quad	5
+.quad	14
+.quad	15
+.quad	2
+.quad	7
+.quad	16
+.quad	13
+.quad	8
+.quad	15
+.quad	1
+.quad	14
+.quad	11
+.quad	0
+.quad	8
+
+.pos 0x5000
+stack:
+
+```
