@@ -56,3 +56,8 @@ subq	%r12, %r11
 * 1 stall (4 iterations)
 
 1
+
+
+
+addq ra, rb
+addq, rb, rc
