@@ -23,3 +23,36 @@ Size: 32
 Clock Count: 1732 -> 1043
 Retired Instructions: 1543
 Expected Result:
+
+
+
+
+
+
+
+
+irmovq	2, %r10
+	irmovq	3, %r11
+	irmovq	0, %rax
+loop:
+	irmovq	1, %r12
+	subq	%r12, %r11
+	jl	end
+	addq	%r10, %rax
+	jmp	loop
+end:
+	irmovq	$result, %rcx
+	rmmovq	%rax, 0(%rcx)
+	halt
+
+	.pos	1000
+result:
+	.quad	0x000000000
+
+
+
+
+subq	%r12, %r11
+* 1 stall (4 iterations)
+
+1
