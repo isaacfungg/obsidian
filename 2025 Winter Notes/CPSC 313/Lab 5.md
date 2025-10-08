@@ -20,6 +20,6 @@ Expected Result:
 002038  09 00 00 00 00 00 00 00
 
 Size: 32
-Clock Count: 1732
+Clock Count: 1732 -> 1043
 Retired Instructions: 1543
 Expected Result:
