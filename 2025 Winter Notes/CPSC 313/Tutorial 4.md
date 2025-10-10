@@ -28,3 +28,26 @@ c, f, h
 
     - In a pipelined implementation with forwarding, **how many bubbles will your program produce?**
 
+```
+sum:                      # long sum(long *a, long n)
+  andq %rsi, %rsi
+  je base                 # goto base if n == 0
+  # 2 stalls
+
+  mrmovq (%rdi), %r8
+  pushq %r8               # save *a on stack
+
+  irmovq $8, %r8
+  addq %r8, %rdi
+  irmovq $1, %r8
+  subq %r8, %rsi
+  call sum                # rax = sum(a+1, n-1)
+
+  popq %r8
+  addq %r8, %rax          # rax = *a + sum(a+1, n-1)
+  ret
+
+base:
+  irmovq $0, %rax         # rax = 0
+  ret
+```
