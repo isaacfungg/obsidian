@@ -29,3 +29,5 @@ function dayOfYear(month: number, dayOfMonth: number, year: number): number {
 ```
 * For December the added value is incorrect as November is 30 days instead of 31.
 * Year is passed through and never used (should be used for leap years)
+* Inconsistent adding
+* Hard to read with this many else if statements
