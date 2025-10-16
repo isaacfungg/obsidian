@@ -3,6 +3,7 @@
 - **Logical schema**: Describes the _structure of the data_ (tables, relationships, constraints) independent of physical storage.
 * **Physical Data Independence**: Ability to modify physical schema without changing logical schema
 * **Logical Data Independence**: Ability to change the conceptual schema without changing applications
+* **Integrity Constraints**: Condition that must be true for any instance of the database
 #### Relational Model
 **Relational Database**: A set of relations
 **Relation**: Made up of 2 parts
@@ -12,3 +13,4 @@
 	* **Columns** = arity/degree
 **Relational Database Schema**: Collection of schemas in the database
 **Database Instance**: A collection of instances of its relations
+
