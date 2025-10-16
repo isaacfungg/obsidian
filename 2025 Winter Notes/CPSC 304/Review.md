@@ -4,3 +4,11 @@
 * **Physical Data Independence**: Ability to modify physical schema without changing logical schema
 * **Logical Data Independence**: Ability to change the conceptual schema without changing applications
 #### Relational Model
+**Relational Database**: A set of relations
+**Relation**: Made up of 2 parts
+* **Schema**: Specifies name of relation, plus name and domain of each attribute
+* **Instance**: A table with rows and columns
+	* **Rows** = cardinality
+	* **Columns** = arity/degree
+**Relational Database Schema**: Collection of schemas in the database
+**Database Instance**: A collection of instances of its relations
