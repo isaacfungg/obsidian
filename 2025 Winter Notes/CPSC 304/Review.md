@@ -4,6 +4,7 @@
 * **Physical Data Independence**: Ability to modify physical schema without changing logical schema
 * **Logical Data Independence**: Ability to change the conceptual schema without changing applications
 * **Integrity Constraints**: Condition that must be true for any instance of the database
+* **Referential Integrity**: All foreign keys reference existing entities
 #### Relational Model
 **Relational Database**: A set of relations
 **Relation**: Made up of 2 parts
