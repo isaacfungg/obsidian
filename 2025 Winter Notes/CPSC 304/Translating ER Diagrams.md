@@ -13,3 +13,9 @@ With one to one we can use the NOT NULL paired with the UNIQUE.
 * A weak entity set has total participation.
 * Weak entity set and its identifying relationship set are translated into a single table (like many to one)
 * When the owner entity is deleted, all owned weak entities must also be deleted
+* The foreign key is implicitly NOT NULL so we do not need to specify that it is not null
+
+#### Translating ISA Hierarchies
+* Superclass table contains all superclass attributes
+* Subclass table contains primary key of superclass and the subclass attributes
+* 
