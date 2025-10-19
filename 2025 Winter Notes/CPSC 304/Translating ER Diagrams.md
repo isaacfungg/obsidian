@@ -18,4 +18,4 @@ With one to one we can use the NOT NULL paired with the UNIQUE.
 #### Translating ISA Hierarchies
 * Superclass table contains all superclass attributes
 * Subclass table contains primary key of superclass and the subclass attributes
-* 
+

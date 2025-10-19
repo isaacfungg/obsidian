@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 304/Translating ER Diagrams.md",
+                "file": "2025 Winter Notes/CPSC 304/Normal Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Translating ER Diagrams"
+              "title": "Normal Forms"
             }
           }
         ]
@@ -177,15 +177,17 @@
   },
   "active": "f6a0bc654b568181",
   "lastOpenFiles": [
+    "2025 Winter Notes/CPSC 304/SQL.md",
+    "2025 Winter Notes/CPSC 304/Terms.md",
     "2025 Winter Notes/CPSC 304/Review.md",
-    "2025 Winter Notes/CPSC 304/Translating ER Diagrams.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
-    "2025 Winter Notes/CPSC 304/Relational Model.md",
+    "2025 Winter Notes/CPSC 304/Normal Forms.md",
     "2025 Winter Notes/CPSC 304/Keys.md",
+    "2025 Winter Notes/CPSC 304/Relational Model.md",
+    "2025 Winter Notes/CPSC 304/Translating ER Diagrams.md",
     "2025 Winter Notes/CPSC 304/ER Diagram.md",
     "2025 Winter Notes/CPSC 304/Constraints.md",
     "2025 Winter Notes/CPSC 313/Caching.md",
-    "2025 Winter Notes/CPSC 304/SQL.md",
     "2025 Winter Notes/CPSC 310/Quiz 1.md",
     "2025 Winter Notes/CPSC 310/Portfolio 4.md",
     "2025 Winter Notes/CPSC 313/Lab 5.md",
@@ -201,8 +203,6 @@
     "2025 Winter Notes/CPSC 310/Requirement.md",
     "2025 Winter Notes/CPSC 310/Process and Scrum.md",
     "2025 Winter Notes/CPSC 310/Blackbox.md",
-    "2025 Winter Notes/CPSC 310/Coverage Testing.md",
-    "2025 Winter Notes/CPSC 310/User Stories.md",
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
