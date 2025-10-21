@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 304/Normal Forms.md",
+                "file": "2025 Winter Notes/CPSC 304/Normalalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normal Forms"
+              "title": "Normalalization"
             }
           }
         ]
@@ -181,7 +181,7 @@
     "2025 Winter Notes/CPSC 304/Terms.md",
     "2025 Winter Notes/CPSC 304/Review.md",
     "2025 Winter Notes/CPSC 304/Relationships.md",
-    "2025 Winter Notes/CPSC 304/Normal Forms.md",
+    "2025 Winter Notes/CPSC 304/Normalalization.md",
     "2025 Winter Notes/CPSC 304/Keys.md",
     "2025 Winter Notes/CPSC 304/Relational Model.md",
     "2025 Winter Notes/CPSC 304/Translating ER Diagrams.md",
