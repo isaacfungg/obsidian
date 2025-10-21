@@ -38,3 +38,6 @@ If an FD has multiple attributes on the right, you can split it.
 * Each attribute in a tuple has only one value
 **2NF**
 * No partial key dependency
+* Every **non-primary-key attribute** must depend on the **entire primary key**
+**Boyce-Codd Normal Form**
+* LHS has to be a superkey
