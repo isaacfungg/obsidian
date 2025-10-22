@@ -41,3 +41,12 @@ If an FD has multiple attributes on the right, you can split it.
 * Every **non-primary-key attribute** must depend on the **entire primary key**
 **Boyce-Codd Normal Form**
 * LHS has to be a superkey
+
+#### Weird Cases
+A(a, b, c)
+a->b
+b->c
+A1(a, b)
+A2(b, c)
+
+b would now be a foreign key to A1 and belong to A2
