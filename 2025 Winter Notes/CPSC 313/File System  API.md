@@ -18,3 +18,13 @@
 	* Reads data from the file referenced by fd into a user-specified buffer
 * Write
 	* Takes data from a buffer and writes it to the file referenced by fd
+
+#### Disk Structure
+* Platters: Circular disks coated with magnetic material
+* Surfaces: Each platter has two surfaces for data storage
+* Tracks: Concentric circles on each surface
+* Sectors: Smallest addressable unit of storage on a track
+
+### Disk Heads & Arm Assembly
+* Each surface has a read/write head
+* Heads move together on an arm to access different tracks
