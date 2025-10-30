@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 310/12. Coupling & Cohesion - Quiz 2.md",
+                "file": "2025 Winter Notes/CPSC 310/13. SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Coupling & Cohesion - Quiz 2"
+              "title": "13. SOLID"
             }
           }
         ]
@@ -177,9 +177,10 @@
   },
   "active": "f6a0bc654b568181",
   "lastOpenFiles": [
+    "2025 Winter Notes/CPSC 310/12. Coupling & Cohesion - Quiz 2.md",
+    "2025 Winter Notes/CPSC 310/13. SOLID.md",
     "2025 Winter Notes/CPSC 310/11. Code Smell - Quiz 2.md",
     "2025 Winter Notes/CPSC 313/File System  API.md",
-    "2025 Winter Notes/CPSC 310/12. Coupling & Cohesion - Quiz 2.md",
     "2025 Winter Notes/CPSC 310/10. Technical Debt and Refactoring.md",
     "2025 Winter Notes/CPSC 310/7. Process & Scrum.md",
     "2025 Winter Notes/CPSC 310/Design Patterns.md",
@@ -202,7 +203,6 @@
     "2025 Winter Notes/CPSC 304/Keys.md",
     "2025 Winter Notes/CPSC 304/Relational Model.md",
     "2025 Winter Notes/CPSC 313/Caching.md",
-    "2025 Winter Notes/CPSC 310/Portfolio 4.md",
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
