@@ -24,3 +24,4 @@
 **Write-allocate:** on a write miss, the block is loaded into cache first, then written — common with write-back.
 **No-write-allocate:** on a write miss, data is written directly to memory, not cached — common with write-through.
 
+#### Anatomy of Addresses and Cache Lines
