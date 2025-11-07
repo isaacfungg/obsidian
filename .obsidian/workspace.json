@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 313/File Systems.md",
+                "file": "2025 Winter Notes/CPSC 313/Caching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Systems"
+              "title": "Caching"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0024719238281,
-    "collapsed": true
+    "width": 295.0024719238281
   },
   "right": {
     "id": "d2cb58c7dec961f4",
@@ -178,8 +177,8 @@
   },
   "active": "f6a0bc654b568181",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 310/11. Code Smell - Quiz 2.md",
     "2025 Winter Notes/CPSC 313/File Systems.md",
+    "2025 Winter Notes/CPSC 310/11. Code Smell - Quiz 2.md",
     "2025 Winter Notes/CPSC 310/13. SOLID.md",
     "2025 Winter Notes/CPSC 310/12. Coupling & Cohesion - Quiz 2.md",
     "2025 Winter Notes/CPSC 313/File System  API.md",

@@ -18,4 +18,9 @@
 * What is in my cache
 * Where do i put things in my cache
 
+#### Writing
+**Write-through:** writes go to cache _and_ main memory simultaneously → slower writes, but data is always consistent.  
+**Write-back (write-behind):** writes only update cache initially, then write to memory later → faster, but risk of data loss on failure.
+**Write-allocate:** on a write miss, the block is loaded into cache first, then written — common with write-back.
+**No-write-allocate:** on a write miss, data is written directly to memory, not cached — common with write-through.
 
