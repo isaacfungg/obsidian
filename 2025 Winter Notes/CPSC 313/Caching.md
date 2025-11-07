@@ -42,6 +42,12 @@
 	* Cache is checked but unchanged
 
 #### Strided Access
+1111 1010
+11111 01 0
+
+0.84 * 19
+.16 * .84 * (38 + 19)
+.16 * .16 * (38 + 38 + 19)
 
 
 #### Anatomy of Addresses and Cache Lines
