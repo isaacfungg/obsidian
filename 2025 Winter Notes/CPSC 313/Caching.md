@@ -41,13 +41,11 @@
 	* Data is written to the source
 	* Cache is checked but unchanged
 
-#### Strided Access
-1111 1010
-11111 01 0
-
-0.84 * 19
-.16 * .84 * (38 + 19)
-.16 * .16 * (38 + 38 + 19)
+#### Cache Size
+How to increase overall cache size:
+* Increase the associativity
+* Increase the number of index bits
+* Increase the number of offset bits
 
 
 #### Anatomy of Addresses and Cache Lines
