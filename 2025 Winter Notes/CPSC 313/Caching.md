@@ -47,6 +47,9 @@ How to increase overall cache size:
 * Increase the number of index bits
 * Increase the number of offset bits
 
+(1 - x)(7) + (x)(117)  = 16.7
+7 - 7x + 117x = 16.7
+110x = 9.7
 
 #### Anatomy of Addresses and Cache Lines
 **Address**
