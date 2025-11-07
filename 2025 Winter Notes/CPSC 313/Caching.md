@@ -1,4 +1,5 @@
 ***
+#### Misses
 **Compulsory**
 * On first access to an object, you take a miss; there is little you can do about it
 
@@ -40,6 +41,7 @@
 	* Data is written to the source
 	* Cache is checked but unchanged
 
+#### Strided Access
 
 
 #### Anatomy of Addresses and Cache Lines
