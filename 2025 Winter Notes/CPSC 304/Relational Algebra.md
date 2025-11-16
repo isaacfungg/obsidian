@@ -8,3 +8,6 @@
 **Union** $\cup$: Tuple in relation 1 and relation 2
 **Rename** $\rho$: Assigns another name to a relation
 
+**Division**:
+* Useful for expressing queries that include a notion of "for all" or "for every"
+* 
