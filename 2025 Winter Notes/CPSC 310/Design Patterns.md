@@ -7,3 +7,13 @@ Why the exist:
 
 Facade
 * To make a unified, higher level, interface to a whole module making it easier to use
+
+Strategy
+* OCP violation
+* SRP violation
+* Code smells: Divergent changes and switch on type
+
+Factory
+* Type switch
+
+State Pattern
