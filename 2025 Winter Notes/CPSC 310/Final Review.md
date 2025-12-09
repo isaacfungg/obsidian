@@ -22,4 +22,8 @@
 **Boundary Value Analysis**
 * Includes inputs inside and outside the boundary
 **Equivalence Class Partitioning**
-* 
+* Technique that splits inputs or outputs into valid and invalid classes.
+**Input Partitioning**
+* Group input ranges that should produce the same output.
+**Output Partitioning**
+* Group outputs that represent the same behavior or result.
