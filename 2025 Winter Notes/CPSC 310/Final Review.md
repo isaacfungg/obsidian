@@ -33,3 +33,27 @@
 **Dynamic analyses**? Needs to run the program
 **Syntax**: Defines the set of valid tokens
 **Semantics**: Define what the tokens actually mean
+
+#### Process
+**Scrum**: An Agile framework that organizes work into fixed-length sprints with defined roles and ceremonies to deliver small, regular product increments.
+**Kanban:** An Agile method that manages work through a continuous flow using a visual board, focusing on limiting work in progress and improving delivery speed.
+* More rapid releases than scrum
+* Keeps daily standup but no sprint planning or sprint reviews
+
+**Risks**
+* User
+* Requirements
+* Project Complexity
+* Planning & Control
+* Team
+* Organizational Environment
+
+#### Agile Principles
+Code must be able to do these three things:
+* Its job
+* Afford Change
+* Be understandable
+
+#### Specifications
+**Functional Requirements**: Describe what the system must do
+**Non-functional Requirements**: Describe properties the system must have
