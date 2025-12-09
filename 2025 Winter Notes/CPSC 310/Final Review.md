@@ -27,3 +27,9 @@
 * Group input ranges that should produce the same output.
 **Output Partitioning**
 * Group outputs that represent the same behavior or result.
+#### Static Analysis
+**Static analyses**: Only inputs the program text itself and does not need to execute
+* Formatting + Linting
+**Dynamic analyses**? Needs to run the program
+**Syntax**: Defines the set of valid tokens
+**Semantics**: Define what the tokens actually mean
