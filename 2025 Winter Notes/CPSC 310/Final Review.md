@@ -17,3 +17,9 @@
 	* Can be completed in one sprint
 * Testable
 	* Has clear acceptance criteria
+
+#### Black Box Testing
+**Boundary Value Analysis**
+* Includes inputs inside and outside the boundary
+**Equivalence Class Partitioning**
+* 
