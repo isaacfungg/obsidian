@@ -68,3 +68,6 @@ Code must be able to do these three things:
 **Coupling**: How strongly connected different programs are to each other
 * Strong coupling is problematic because it affects evolvability and maintainability
 **Cohesion**: How well elements belong to each other in a class
+**Decomposition**: Breaking down complex description into more manageable pieces
+**Abstraction**: Hiding unimportant details
+**Encapsulation**: Bundling data and behaviour together
