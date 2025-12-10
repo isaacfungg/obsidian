@@ -71,3 +71,7 @@ Code must be able to do these three things:
 **Decomposition**: Breaking down complex description into more manageable pieces
 **Abstraction**: Hiding unimportant details
 **Encapsulation**: Bundling data and behaviour together
+
+#### API
+**Semantic Versioning**: Versions public APIs using MAJOR.MINOR.PATCH format
+**Idempotency**: Performing a VERB multiple times has the same result for the server resources as performing it once
