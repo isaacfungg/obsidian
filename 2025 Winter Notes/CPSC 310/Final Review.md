@@ -57,8 +57,14 @@ Code must be able to do these three things:
 #### Specifications
 **Functional Requirements**: Describe what the system must do
 **Non-functional Requirements**: Describe properties the system must have
+#### Code Smells
+**Law of Demeter**: Too many dereferences mean the method is probably in the wrong spot
+**Feature Envy**: A class uses too many details from another class
+**Experiential Symptom**: Problem that is recognizes through repeated maintenance
+**Divergent Changes**: One class keeps changing for unrelated reasons
+**Shotgun Surgery**: One change forces edits to many classes
 
 #### Design Principles
 **Coupling**: How strongly connected different programs are to each other
 * Strong coupling is problematic because it affects evolvability and maintainability
-* 
+**Cohesion**: How well elements belong to each other in a class
