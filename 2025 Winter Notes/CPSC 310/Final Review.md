@@ -75,3 +75,12 @@ Code must be able to do these three things:
 #### API
 **Semantic Versioning**: Versions public APIs using MAJOR.MINOR.PATCH format
 **Idempotency**: Performing a VERB multiple times has the same result for the server resources as performing it once
+
+#### Security
+**Stride**
+* Spoofing: Pretend to be someone else
+* Tampering: Modifying data
+* Repudiation: Denying performing a tasks
+* Information Disclosure: Access private information
+* Denial of Service: Halt service
+* Elevation of Privilege
