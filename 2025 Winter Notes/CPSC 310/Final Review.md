@@ -57,3 +57,8 @@ Code must be able to do these three things:
 #### Specifications
 **Functional Requirements**: Describe what the system must do
 **Non-functional Requirements**: Describe properties the system must have
+
+#### Design Principles
+**Coupling**: How strongly connected different programs are to each other
+* Strong coupling is problematic because it affects evolvability and maintainability
+* 
