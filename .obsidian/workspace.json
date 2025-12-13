@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Winter Notes/CPSC 310/Final Review.md",
+                "file": "2025 Winter Notes/CPSC 313/Quiz 3 Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Review"
+              "title": "Quiz 3 Review"
             }
           }
         ]
@@ -177,19 +177,22 @@
   },
   "active": "f6a0bc654b568181",
   "lastOpenFiles": [
-    "2025 Winter Notes/CPSC 310/Design Patterns.md",
+    "2025 Winter Notes/CPSC 313/File Systems.md",
+    "2025 Winter Notes/CPSC 313/Quiz 3 Review.md",
+    "2025 Winter Notes/CPSC 313/Lab 5.md",
+    "2025 Winter Notes/CPSC 313/File System  API.md",
+    "2025 Winter Notes/CPSC 313/Caching.md",
+    "2025 Winter Notes/CPSC 313/Code.md",
     "2025 Winter Notes/CPSC 310/Final Review.md",
+    "2025 Winter Notes/CPSC 310/Design Patterns.md",
     "2025 Winter Notes/CPSC 310/Untitled.md",
     "2025 Winter Notes/CPSC 304/Normalalization.md",
     "2025 Winter Notes/CPSC 304/milestone 3.md",
     "2025 Winter Notes/CPSC 304/SQL.md",
     "2025 Winter Notes/CPSC 304/Relational Algebra.md",
-    "2025 Winter Notes/CPSC 313/File Systems.md",
-    "2025 Winter Notes/CPSC 313/Caching.md",
     "2025 Winter Notes/CPSC 310/11. Code Smell - Quiz 2.md",
     "2025 Winter Notes/CPSC 310/13. SOLID.md",
     "2025 Winter Notes/CPSC 310/12. Coupling & Cohesion - Quiz 2.md",
-    "2025 Winter Notes/CPSC 313/File System  API.md",
     "2025 Winter Notes/CPSC 310/10. Technical Debt and Refactoring.md",
     "2025 Winter Notes/CPSC 310/7. Process & Scrum.md",
     "2025 Winter Notes/CPSC 310/Testability.md",
@@ -200,9 +203,6 @@
     "2025 Winter Notes/CPSC 310/Input Output Testing.md",
     "2025 Winter Notes/CPSC 310/Coverage Testing.md",
     "2025 Winter Notes/CPSC 310/Blackbox.md",
-    "2025 Winter Notes/CPSC 304/Translating ER Diagrams.md",
-    "2025 Winter Notes/CPSC 304/ER Diagram.md",
-    "2025 Winter Notes/CPSC 304/Constraints.md",
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
