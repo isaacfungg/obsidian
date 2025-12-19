@@ -72,3 +72,5 @@ If two FDs have the same left side, you can combine their right sides.
 If an FD has multiple attributes on the right, you can split it.  
 → If `X → YZ`, then `X → Y` and `X → Z`.  
 **Example:** `A → BC` ⇒ `A → B` and `A → C`.
+
+#### Data Warehousing
