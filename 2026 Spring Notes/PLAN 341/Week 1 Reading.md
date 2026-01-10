@@ -1,0 +1,3 @@
+#### Make Cities Inclusive, Safe, Resilient, and Sustainable
+`SDG Indicator`: The proportion of urban population living in slums, informal settlements or inadequate housing
+`Slum Household`: A group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, durability of housing and security of tenure
