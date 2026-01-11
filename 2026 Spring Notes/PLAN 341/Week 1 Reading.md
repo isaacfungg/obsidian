@@ -12,3 +12,5 @@
 **Facts**:
 * 9/10 people living in urban areas worldwide were breather air that did not meet the WHO air quality guidelines
 * Cities occupy just 3% of Earth's land but account for 60-80 percent of energy consumption and 75% of carbon emissions
+
+#### Smart Cities of the future
