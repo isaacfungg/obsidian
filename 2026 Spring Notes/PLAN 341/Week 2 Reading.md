@@ -1,45 +1,9 @@
 #### Adapting the Concept for the Global South
 
-Algeria
-Angola
-Benin
-Cape Verde
-CAR
-Chad
-Congo
-Comoros
-Djibouti
-Egypt
+#### Storylines and Critical Junctures Across 27 Cities
+Smart city is not a clear technical concept but a powerful global narrative that shapes how cities think about their futures
 
-Eritrea
-Equatorial Guinea
-Eswatini
-Ethiopia
-Gabon
-Ghana
-Guinea Bissau
-Ivory Coast
+They analyzed topics associated with different smart city dimensions and the majority of topics is more about how cities are governed rather than just technology.
 
-Kenya
-Lesotho
-Liberia
-Libya
-Madagascar
-Mali
-Morocco
-Namibia
-Rwanda
-Sao Tome
+Smart cities are presented as efficient, inclusive, sustainable and beneficial for citizens but when you analyze the discourse, power often shifts to private firms, citizens become users or consumers, sustainability is selective and narrow.
 
-Seychelles
-Sierra Leone
-South Africa
-South Sudan
-Somalia
-Sudan
-Togo
-Tunisia
-Uganda
-Zambia
-
-Zimbabwe
