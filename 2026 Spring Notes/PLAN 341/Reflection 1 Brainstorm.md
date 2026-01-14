@@ -1,0 +1,5 @@
+#### Introduction
+My first time that i can recall thinking about smart cities was in grade six where we had to hypothetically implement some sort of eco friendly technology into a part of the city. While researching the topic I had read that Heathrow airport had used floor panels to generate electricity. Not too long ago this is basically how I had still pictured what a smart city was from news online or comparing to other related terms like smart home or even movies.
+
+#### Body
+As I was doing the readings for example in "Adapting the Concept for the Global South" it reminded me that smart cities shouldn't only represent flashy technology that may claim to be the "new solution to everything". In that reading it talked a bit about how developing regions may be left out of mainstream investments.
