@@ -14,3 +14,8 @@
 * Cities occupy just 3% of Earth's land but account for 60-80 percent of energy consumption and 75% of carbon emissions
 
 #### Smart Cities of the future
+
+#### The real-time city
+Smart cities are increasingly built around real-time data and digital systems
+
+Kitchin argues that data is not always presented as neutral. It is shaped by what is measured, where sensors are placed and who designed the systems. Data reflects values and priorities, often favouring what is easy to measure rather than lived experience or inequality.

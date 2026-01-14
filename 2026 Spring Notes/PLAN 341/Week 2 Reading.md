@@ -1,5 +1,7 @@
 #### Adapting the Concept for the Global South
+Smart cities don't mean the same thing everywhere.
 
+For most people the concept of smart cities usually relate to expensive technology and this is due to rich countries and global investors. As a result, many developing regions are left out of mainstream smart city investment.
 #### Storylines and Critical Junctures Across 27 Cities
 Smart city is not a clear technical concept but a powerful global narrative that shapes how cities think about their futures
 
