@@ -3,3 +3,16 @@ My first time that i can recall thinking about smart cities was in grade six whe
 
 #### Body
 As I was doing the readings for example in "Adapting the Concept for the Global South" it reminded me that smart cities shouldn't only represent flashy technology that may claim to be the "new solution to everything". In that reading it talked a bit about how developing regions may be left out of mainstream investments.
+
+#### Actual
+**One way smart cities attempt to tackle urban challenges is through the collection and analysis of data to guide decisions about infrastructure, transportation, and environmental management. However, Kitchin argues that data is not neutral, stating that “data do not exist independently of the ideas, techniques, technologies, people and contexts” that produce them. This made me realize that smart city solutions may prioritize what is easiest to measure—such as traffic flow or energy use—while overlooking lived experiences or structural inequalities. As a result, while data-driven approaches can improve efficiency and sustainability, they must be applied critically to ensure they do not reinforce existing social disparities.**
+
+
+The first time I can recall thinking about smart cities was in grade six, when we had to hypothetically implement an eco-friendly technology into a part of the city. Since then, I have associated smart cities with flashy technological solutions, similar to smart homes or futuristic cities in movies. As I was doing the readings, I realized my perspective was naive, but I now see them as ideas that shape how cities function, who benefits from them, and whose needs are prioritized. 
+
+In "Adapting the Concept for the Global South" it explains how smart cities are portrayed to the public is not universally beneficial to all cities. Many smart city models assume access to capital and technology that most developed cities have which make it unrealistic for underdeveloped cities to replicate. Also, the popularized term "smart city" creates a market for private companies and investors to promote technology to wealthier cities, prioritizing profit over change, furthering the gap between the developed and underdeveloped regions. This shifted my perspective, redefining a smart city for me as one that meaningfully advances sustainability and equity rather than simply deploying new technologies.
+
+Smart cities attempt to tackle urban challenges through collecting and analyzing data to identify inefficiencies that cities may have. However, Kitchin argues that data in general is not always neutral, saying that "data do not exist independently of the ideas, techniques, technologies, people and contexts" (Kitchin 2014) that produce them. This made me realize that smart city solutions may be what is easiest to measure and present to the public to get funding, overlooking individual experience and inequalities. Despite this, data can still be used in ways that create solutions improving a city's efficiency, sustainability and quality of life.
+
+In conclusion, I now see smart cities not as purely technological solutions, but as approaches that must intentionally prioritize sustainability and equity to truly address urban challenges.
+
