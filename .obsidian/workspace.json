@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Reflection 1 Brainstorm"
             }
+          },
+          {
+            "id": "26def915f9aef002",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -175,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a17949557829f3e9",
+  "active": "26def915f9aef002",
   "lastOpenFiles": [
     "2026 Spring Notes/PLAN 341/Week 1 Reading.md",
     "2026 Spring Notes/PLAN 341/Week 2 Reading.md",
