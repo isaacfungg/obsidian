@@ -11,10 +11,14 @@
             "id": "13495d3e805baa94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026 Spring Notes/CPSC 340/Decision Trees.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Decision Trees"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "13495d3e805baa94",
   "lastOpenFiles": [
+    "2026 Spring Notes/CPSC 340/Decision Trees.md",
     "2026 Spring Notes/PLAN 341/Reflection 1 Brainstorm.md",
     "2026 Spring Notes/PLAN 341/Week 1 Reading.md",
     "2026 Spring Notes/PLAN 341/Week 2 Reading.md",
@@ -203,7 +208,6 @@
     "2025 Winter Notes/CPSC 310/Testability.md",
     "2025 Winter Notes/CPSC 310/Terms.md",
     "2025 Winter Notes/CPSC 310/Requirement.md",
-    "2025 Winter Notes/CPSC 310/Quiz 1.md",
     "Screenshot 2025-09-21 at 12.28.09 AM.png",
     "y86ImplementationDiagram (1).png",
     "y86reference.pdf",
