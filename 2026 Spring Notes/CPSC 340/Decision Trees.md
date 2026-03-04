@@ -9,3 +9,8 @@ We learn a decision stump by finding the rule with the best score
 Label vector 'y' contains the labels of the examples
 * $y_i$ is the label of example 'i'
 
+**1NF**
+Each attribute only has one value
+
+**2NF**
+No subset of X can determine Y
