@@ -15,8 +15,8 @@ Each attribute only has one value
 **2NF**
 No subset of X can determine Y
 
-SD -> SDP
-JP+ -> JPCS
-J -> S
-
-JQVD
+SELECT \*,
+FROM r1
+UNION
+SELECT \*,
+FROM r2
