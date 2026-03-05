@@ -14,3 +14,7 @@ Each attribute only has one value
 
 **2NF**
 No subset of X can determine Y
+
+AB -> ABC
+BC -> BCDEA
+CD -> CDE
