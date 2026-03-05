@@ -15,18 +15,8 @@ Each attribute only has one value
 **2NF**
 No subset of X can determine Y
 
-AB -> ABC
-BC -> BCDEA
-CD -> CDE
+SD -> SDP
+JP+ -> JPCS
+J -> S
 
-A -> B
-
-C -> D
-
-AD -> ADC
-
-BC -> ABCD
-
-BC is the superkey
-
-R1(A, B), R2(A, C), R3(C, D)
+JQVD
